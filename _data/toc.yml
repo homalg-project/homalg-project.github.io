@@ -1,23 +1,21 @@
-- title: Documentation
+- title: Home
+  url: index.html
+
+- title: Overview
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: All packages
+      url: "docs/packages"
+    - title: CAP-based packages
+      url: "docs/cap-based"
       children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
-      children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"
-    - title: "About"
-      url: "about"
-    - title: "News"
+        - title: Categorical doctrines
+          url: "docs/cap-based/doctrines"
+        - title: Category constructors
+          url: "docs/cap-based/constructors"
+    - title: Tags Page
+      url: "tags"
+    - title: Support
+      url: "support"
+    - title: News
       url: "news"

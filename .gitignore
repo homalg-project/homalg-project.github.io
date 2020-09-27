@@ -1,3 +1,5 @@
-vendor
-_site
+*~
 Gemfile.lock
+.jekyll-metadata
+.jekyll-cache/
+_site/

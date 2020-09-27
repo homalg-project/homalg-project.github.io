@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Documentation
+title: Overview
 permalink: /docs/
 ---
 
-# Documentation
+# Overview
 
-Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
-particular page.
+Here you can quickly jump to a particular page.
 
 <div class="section-index">
     <hr class="panel-line">
