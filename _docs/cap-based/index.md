@@ -45,7 +45,7 @@ The true strength of [CAP][CAP] is that it allows concatenating these category c
 
 ## CompilerForCAP
 
-The [CompilerForCAP](https://github.com/homalg-project/CAP_project/tree/master/CompilerForCAP) (alpha) should be able to use the logical rules valid in the various doctrines to compile these towers of category constructors producing a highly efficient (parallel) code (in HPC-GAP/Julia).
+[CompilerForCAP](https://github.com/homalg-project/CAP_project/tree/master/CompilerForCAP) (alpha) should be able to use the logical rules valid in the various doctrines to compile these towers of categories (built up by applying multiple category constructors) and produce a highly efficient (parallel) code (in HPC-GAP/Julia).
 
 ---
 
