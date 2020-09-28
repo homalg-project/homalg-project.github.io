@@ -1,12 +1,12 @@
 ---
-title: CAP based packages
+title: CAP-based packages
 tags:
  - categorical doctrines
  - category constructors
-description: CAP based packages
+description: CAP-based packages
 ---
 
-# CAP based packages
+# CAP-based packages
 
 ## Categorical doctrines
 
