@@ -85,6 +85,7 @@ description: Category constructors
    | `BooleanAlgebraOfConstructibleObjectsAsUnionOfMultipleDifferences` | a poset | [Locales][Locales] |
    | `CategoryWithAmbientObject` | an Abelian category | [CategoriesWithAmbientObjects][CategoriesWithAmbientObjects] |
    | `IntrinsicCategory` | a category | [IntrinsicCategories][IntrinsicCategories] |
+   | `WrapperCategory` | a category | [WrapperCategories][WrapperCategories] |
    | `LazyCategory` | a category | [LazyCategories][LazyCategories] |
 
 ---
@@ -152,6 +153,8 @@ description: Category constructors
 [IntrinsicCategories]: https://github.com/homalg-project/IntrinsicCategories/
 
 [InternalModules]: https://github.com/homalg-project/InternalModules/
+
+[WrapperCategories]: https://github.com/homalg-project/WrapperCategories/
 
 [LazyCategories]: https://github.com/homalg-project/LazyCategories/
 
