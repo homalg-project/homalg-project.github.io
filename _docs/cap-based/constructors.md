@@ -24,7 +24,7 @@ description: Category constructors
    | `QuiverRows`                                    | a quiver and a commutative ring k | k-linear | [FreydCategoriesForCAP][FreydCategoriesForCAP] |
    | `Algebroid`                                     | a quiver and a commutative ring k | k-linear | [Algebroids][Algebroids] |
    | `RepresentationCategory`                        | a group and a field | k-linear Abelian | [GroupRepresentationsForCAP][GroupRepresentationsForCAP] |
-   | `MatricCategory`                                | a (skew)field k | k-linear Abelian | [LinearAlgebraForCAP][LinearAlgebraForCAP] |
+   | `MatrixCategory`                                | a (skew)field k | k-linear Abelian | [LinearAlgebraForCAP][LinearAlgebraForCAP] |
    | `CategoryOfRows`                                | a unital ring | additive | [FreydCategoriesForCAP][FreydCategoriesForCAP] |
    | `CategoryOfColumns`                             | a unital ring | additive | [FreydCategoriesForCAP][FreydCategoriesForCAP] |
    | `LeftPresentations`                             | a computable ring | Abelian | [ModulePresentationsForCAP][ModulePresentationsForCAP] |
