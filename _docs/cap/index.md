@@ -5,7 +5,7 @@ tags:
 description: CAP project
 ---
 
-# Packages of the CAP project
+# The [CAP project](https://github.com/homalg-project/CAP_project/)
 
 <!-- BEGIN CAP_project HEADER -->
 # CAP_project

@@ -5,7 +5,7 @@ tags:
 description: homalg project
 ---
 
-# Packages of the homalg project
+# The [homalg project](https://github.com/homalg-project/homalg_project/)
 
 <!-- BEGIN homalg_project HEADER -->
 # homalg_project
