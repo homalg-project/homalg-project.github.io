@@ -4,8 +4,8 @@
 - title: Overview
   url: docs
   links:
-    - title: All packages
-      url: "docs/packages"
+    - title: CAP project
+      url: "docs/cap"
     - title: CAP-based packages
       url: "docs/cap-based"
       children:
@@ -13,6 +13,10 @@
           url: "docs/cap-based/doctrines"
         - title: Category constructors
           url: "docs/cap-based/constructors"
+    - title: homalg project
+      url: "docs/homalg"
+    - title: homalg-based packages
+      url: "docs/homalg-based"
     - title: Tags Page
       url: "tags"
     - title: Support
