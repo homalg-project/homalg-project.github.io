@@ -19,7 +19,7 @@ description: CAP-based packages
            - [`KernelObject`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X82EAD3357C9FE4C8)<sup id="a3">[3](#f3)</sup>,
            - [`KernelEmbedding`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X8430666980D732FB)<sup id="a4">[4](#f4)</sup>,
            - [`KernelLift`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X851623317C59DDE5)<sup id="a5">[5](#f5)</sup>.
-       2. **Doctrine-specific derivations**  of categorical operations from other ones: For example in an Abelian category the [`LiftAlongMonomorphism`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X83CDF65582CD9921) can be [derived](https://github.com/homalg-project/CAP_project/blob/85d19bd33e1e3d8971d79f13cf814a5210de3392/CAP/gap/DerivedMethods.gi#L1641) from<sup id="a6">[6](#f6)</sup>
+       2. **Doctrine-specific derivations**  of categorical operations from other ones: For example in an Abelian category the [`LiftAlongMonomorphism`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X83CDF65582CD9921) can be [derived](https://github.com/homalg-project/CAP_project/blob/85d19bd33e1e3d8971d79f13cf814a5210de3392/CAP/gap/DerivedMethods.gi#L1641-L1645) from<sup id="a6">[6](#f6)</sup>
            + [`CokernelProjection`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X78948D7A7B52AB31),
            + [`KernelLift`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X851623317C59DDE5),
            + [`Compose`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X8244F7A0868BE27D),
@@ -223,10 +223,10 @@ The [CAP-based packages](#packages-based-on-cap_project) provide various functor
 ---
 
 <b id="f1">1</b> [Kernel: Documentation of the limit](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X7DCD99628504B810). [↩](#a1)<br>
-<b id="f2">2</b> [Kernel: Specification of the limit](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L3798). [↩](#a2)<br>
-<b id="f3">3</b> [Specification of KernelObject](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L265). [↩](#a3)<br>
-<b id="f4">4</b> [Specification of KernelEmbedding](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L273). [↩](#a4)<br>
-<b id="f5">5</b> [Specification of KernelLift](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L311). [↩](#a5)<br>
+<b id="f2">2</b> [Kernel: Specification of the limit](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L3798-L3807). [↩](#a2)<br>
+<b id="f3">3</b> [Specification of KernelObject](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L265-L271). [↩](#a3)<br>
+<b id="f4">4</b> [Specification of KernelEmbedding](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L273-L281). [↩](#a4)<br>
+<b id="f5">5</b> [Specification of KernelLift](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L311-L319). [↩](#a5)<br>
 <b id="f6">6</b> One can [view a doctrine as a (specific) 2-category](https://ncatlab.org/nlab/show/doctrine#as_2categories) and the category of doctrines as a 3-category of 2-categories. [↩](#a6)<br>
 
 <!-- BEGIN FOOTER -->
