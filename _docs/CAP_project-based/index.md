@@ -24,7 +24,7 @@ description: CAP-based packages
            + [`Compose`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X8244F7A0868BE27D),
            + [`Inverse`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X864F84C47DC1A620).
 
-           This is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category), and does not even make sense in doctrines without kernels and cokernels.
+           This is wrong in other doctrines like [pre-Abelian](https://ncatlab.org/nlab/show/pre-abelian+category), and does not even make sense in doctrines without kernels and cokernels.
        3. **Doctrine-specific logical implications**: For example, in an Abelian category the algorithm `IsIsomorphism` is [equivalent](https://github.com/homalg-project/CAP_project/blob/85d19bd33e1e3d8971d79f13cf814a5210de3392/CAP/LogicForCategories/PredicateImplicationsForAbelianCategories.tex#L1) to the algorithm `IsMonomorphism and IsEpimorphism`.<sup id="a6">[6](#f6)</sup>
    * Even if [GAP][GAP] (automatically) orgainzes the doctrines in hierarchies the relations among the category (instances) fulfilling these doctrines are much richer than these hierarchies.<sup id="a7">[7](#f7)</sup> These relations are given by several functors, natural transformations between (parallel) functors, and adjunctions (also described by natural transformations) between (anti-parallel) functors.
 
