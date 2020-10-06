@@ -247,6 +247,4 @@ The [CAP-based packages](#packages-based-on-cap_project) provide various functor
 
 [doctrine]: https://ncatlab.org/nlab/show/doctrine/
 
-[thin]: https://ncatlab.org/nlab/show/thin+category/
-
 <!-- END FOOTER -->

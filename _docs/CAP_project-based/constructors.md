@@ -20,7 +20,7 @@ description: Category constructors
    | `SkeletalFinGSets`                              | a (discrete) group | elementary topos | [FinGSetsForCAP][FinGSetsForCAP] |
    | `ProSetAsCategory`                              | a proset | [thin][thin]        | [FreydCategoriesForCAP][FreydCategoriesForCAP] |
    | `GroupAsCategory`                               | a (discrete) group | groupoid  | [FreydCategoriesForCAP][FreydCategoriesForCAP] |
-   | `RingAsCategory`                                | a unital ring | pre-additive)  | [FreydCategoriesForCAP][FreydCategoriesForCAP] |
+   | `RingAsCategory`                                | a unital ring | pre-additive  | [FreydCategoriesForCAP][FreydCategoriesForCAP] |
    | `QuiverRows`                                    | a quiver and a commutative ring k | k-linear | [FreydCategoriesForCAP][FreydCategoriesForCAP] |
    | `Algebroid`                                     | a quiver and a commutative ring k | k-linear | [Algebroids][Algebroids] |
    | `RepresentationCategory`                        | a group and a field | k-linear Abelian | [GroupRepresentationsForCAP][GroupRepresentationsForCAP] |
@@ -95,6 +95,8 @@ description: Category constructors
 <!-- BEGIN FOOTER -->
 
 [doctrine]: https://ncatlab.org/nlab/show/doctrine/
+
+[thin]: https://ncatlab.org/nlab/show/thin+category/
 
 [CAP]: https://github.com/homalg-project/CAP_project/tree/master/CAP/
 
