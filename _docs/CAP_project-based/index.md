@@ -36,13 +36,9 @@ description: CAP-based packages
 
 The [CAP-based packages](#packages-based-on-cap_project) provide various [***category constructors***](constructors) which take a combinatorial or algebraic data structure, or even a category or several categories (of a certain doctrine) as input and provide another category (of a possibly different doctrine) as output.
 
-## Functors
+## Functors and natural transformations
 
-The [CAP-based packages](#packages-based-on-cap_project) provide various functors between these categories.
-
-## Natural transformations
-
-The [CAP-based packages](#packages-based-on-cap_project) provide various natural transformations between (parallel) functors.
+The [CAP-based packages](#packages-based-on-cap_project) provide various functors between these categories as well as natural transformations between (parallel) functors.
 
 ## Towers of categories
 
