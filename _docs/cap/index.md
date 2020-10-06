@@ -8,11 +8,12 @@ description: CAP project
 # The [CAP project](https://github.com/homalg-project/CAP_project/)
 
 <!-- BEGIN CAP_project HEADER -->
-Categories, Algorithms, and Programming.
 
 | Build Status | Code Coverage |
 | ------------ | ------------- |
 | [![Build Status](https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master)](https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/CAP_project) |
+
+Categories, Algorithms, and Programming.
 
 <!-- END CAP_project HEADER -->
 <!-- BEGIN CAP_project SUBPACKAGES -->

@@ -8,11 +8,12 @@ description: homalg project
 # The [homalg project](https://github.com/homalg-project/homalg_project/)
 
 <!-- BEGIN homalg_project HEADER -->
-The homalg project is a multi-author multi-package open source software project for constructive homological algebra.
 
 | Build Status | Code Coverage |
 | ------------ | ------------- |
 | [![Build Status](https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master)](https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/homalg_project) |
+
+The homalg project is a multi-author multi-package open source software project for constructive homological algebra.
 
 <!-- END homalg_project HEADER -->
 <!-- BEGIN homalg_project SUBPACKAGES -->
