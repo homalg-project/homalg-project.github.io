@@ -32,17 +32,13 @@ description: CAP-based packages
       + The left adjoint adds formal inverses to the monoid (Grothendieck construction in the commutative case).
       + The right adjoint maps a monoid to its group of units.
 
-## Category constructors
+## Category constructors and building towers of categories
 
-The [CAP-based packages](#packages-based-on-cap_project) provide various [***category constructors***](constructors) which take a combinatorial or algebraic data structure, or even a category or several categories (of a certain doctrine) as input and provide another category (of a possibly different doctrine) as output.
+The [CAP-based packages](#packages-based-on-cap_project) provide various [***category constructors***](constructors) which take a combinatorial or algebraic data structure, or even a category or several categories (of a certain doctrine) as input and provide another category (of a possibly different doctrine) as output. The true strength of [CAP][CAP] is that it allows concatenating these category constructor to build arbitrary high towers.
 
 ## Functors and natural transformations
 
 The [CAP-based packages](#packages-based-on-cap_project) provide various functors between these categories as well as natural transformations between (parallel) functors.
-
-## Towers of categories
-
-The true strength of [CAP][CAP] is that it allows concatenating these category constructor to build arbitrary high towers.
 
 ## CompilerForCAP
 
