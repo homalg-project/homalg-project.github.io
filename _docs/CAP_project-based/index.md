@@ -15,10 +15,10 @@ description: CAP-based packages
    * There are several [CAP][CAP]-based packages that define [*various* ***categorical doctrines***](doctrines).
    * Defining a [doctrine][doctrine] means several things:
        1. **Type specification** of all the categorical operations which are required by the [doctrine][doctrine]: For example specifying those operations involved in the definition of a certain (co)limit (e.g., a [kernel](https://ncatlab.org/nlab/show/kernel)) which exists in the [doctrine][doctrine] (e.g., [Abelian category](https://ncatlab.org/nlab/show/abelian+category)). This includes the specification of the input and output<sup id="a1">[1](#f1),</sup><sup id="a2">[2](#f2)</sup> of each such operation. Specifying a certain limit means specifying all operations involved in the definition of that limit. For example, specifying "[kernel](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X7DCD99628504B810)" means [specifying](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L3798) all operations entering the definition of the "[kernel](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X7DCD99628504B810)":
-           - [`KernelObject`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X82EAD3357C9FE4C8)<sup id="a4">[4](#f4)</sup>,
-           - [`KernelEmbedding`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X8430666980D732FB)<sup id="a5">[5](#f5)</sup>,
-           - [`KernelLift`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X851623317C59DDE5)<sup id="a6">[6](#f6)</sup>.
-       2. **Doctrine-specific derivations**  of categorical operations from other ones: For example in an Abelian category the [`LiftAlongMonomorphism`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X83CDF65582CD9921) can be [derived](https://github.com/homalg-project/CAP_project/blob/85d19bd33e1e3d8971d79f13cf814a5210de3392/CAP/gap/DerivedMethods.gi#L1641) from<sup id="a3">[3](#f3)</sup>
+           - [`KernelObject`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X82EAD3357C9FE4C8)<sup id="a3">[3](#f3)</sup>,
+           - [`KernelEmbedding`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X8430666980D732FB)<sup id="a4">[4](#f4)</sup>,
+           - [`KernelLift`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X851623317C59DDE5)<sup id="a5">[5](#f5)</sup>.
+       2. **Doctrine-specific derivations**  of categorical operations from other ones: For example in an Abelian category the [`LiftAlongMonomorphism`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X83CDF65582CD9921) can be [derived](https://github.com/homalg-project/CAP_project/blob/85d19bd33e1e3d8971d79f13cf814a5210de3392/CAP/gap/DerivedMethods.gi#L1641) from<sup id="a6">[6](#f6)</sup>
            + [`CokernelProjection`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X78948D7A7B52AB31),
            + [`KernelLift`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X851623317C59DDE5),
            + [`Compose`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X8244F7A0868BE27D),
@@ -226,10 +226,10 @@ The true strength of [CAP][CAP] is that it allows concatenating these category c
 
 <b id="f1">1</b> [Kernel: Documentation of the limit](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X7DCD99628504B810). [↩](#a1)<br>
 <b id="f2">2</b> [Kernel: Specification of the limit](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L3798). [↩](#a2)<br>
-<b id="f3">3</b> This is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category), and does not even make sense in doctrines without kernels and cokernels. [↩](#a3)<br>
-<b id="f4">4</b> [Specification of KernelObject](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L265). [↩](#a4)<br>
-<b id="f5">5</b> [Specification of KernelEmbedding](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L273). [↩](#a5)<br>
-<b id="f6">6</b> [Specification of KernelLift](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L311). [↩](#a6)<br>
+<b id="f3">3</b> [Specification of KernelObject](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L265). [↩](#a3)<br>
+<b id="f4">4</b> [Specification of KernelEmbedding](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L273). [↩](#a4)<br>
+<b id="f5">5</b> [Specification of KernelLift](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L311). [↩](#a5)<br>
+<b id="f6">6</b> This is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category), and does not even make sense in doctrines without kernels and cokernels. [↩](#a6)<br>
 <b id="f7">7</b> Again, this is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category). [↩](#a7)<br>
 <b id="f8">8</b> One can [view a doctrine as a (specific) 2-category](https://ncatlab.org/nlab/show/doctrine#as_2categories) and the category of doctrines as a 3-category of 2-categories. [↩](#a8)<br>
 
