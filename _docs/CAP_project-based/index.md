@@ -26,7 +26,9 @@ description: CAP-based packages
 
            This is wrong in other doctrines like [pre-Abelian](https://ncatlab.org/nlab/show/pre-abelian+category), and does not even make sense in doctrines without kernels and cokernels.
        3. **Doctrine-specific logical implications**: For example, in an Abelian category the algorithm `IsIsomorphism( ImageEmbedding( ϕ ) )` is [equivalent](https://github.com/homalg-project/CAP_project/blob/85d19bd33e1e3d8971d79f13cf814a5210de3392/CAP/LogicForCategories/PropositionsForAbelianCategories.tex#L17-L29) to the algorithm `IsEpimorphism( ϕ )`. Again, this is wrong in other doctrines like [pre-Abelian](https://ncatlab.org/nlab/show/pre-abelian+category).
-   * Even if [GAP][GAP] (automatically) organizes the doctrines in hierarchies, the relations among the category (instances) fulfilling these doctrines are much richer than these hierarchies.<sup id="a6">[6](#f6)</sup> These relations are given by several functors, natural transformations between (parallel) functors, and adjunctions (also described by natural transformations) between (anti-parallel) functors.
+   * Even if [GAP][GAP] (automatically) organizes the doctrines in hierarchies, the relations among the category (instances) fulfilling these doctrines are much richer than these hierarchies.<sup id="a6">[6](#f6)</sup> These relations are given by several functors, natural transformations between (parallel) functors, and adjunctions (also described by natural transformations) between (anti-parallel) functors. For example, in set-theoretic modelling of mathematics one would say that a group *is* a monoid (in which each element is invertible). In category-theoretic modelling of mathematics one would say that there is a fully faithful forgetful functor from the category of groups to that of monoids which has a left adjoint *and* a right adjoint:
+      + The left adjoint adds formal inverses to the monoid (Grothendieck construction in the commutative case).
+      + The right adjoint maps a monoid to its group of units.
 
 ## Category constructors
 
