@@ -234,7 +234,7 @@ The true strength of [CAP][CAP] is that it allows concatenating these category c
 
 <!-- BEGIN FOOTER -->
 
-[GAP]: hhttps://www.gap-system.org/
+[GAP]: https://www.gap-system.org/
 
 [CAP_project]: https://github.com/homalg-project/CAP_project/
 
