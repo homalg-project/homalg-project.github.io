@@ -5,18 +5,18 @@
   url: docs
   links:
     - title: CAP project
-      url: "docs/cap"
+      url: "docs/CAP_project"
     - title: CAP-based packages
-      url: "docs/cap-based"
+      url: "docs/CAP_project-based"
       children:
         - title: Categorical doctrines
-          url: "docs/cap-based/doctrines"
+          url: "docs/CAP_project-based/doctrines"
         - title: Category constructors
-          url: "docs/cap-based/constructors"
+          url: "docs/CAP_project-based/constructors"
     - title: homalg project
-      url: "docs/homalg"
+      url: "docs/homalg_project"
     - title: homalg-based packages
-      url: "docs/homalg-based"
+      url: "docs/homalg_project-based"
     - title: Tags Page
       url: "tags"
     - title: Support
