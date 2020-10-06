@@ -34,7 +34,7 @@ description: CAP-based packages
 
 ## Category constructors
 
-The CAP-based packages provide [*various* ***category constructors***](constructors) which take a combinatorial or algebraic data structure, or even a category or several categories (of a certain doctrine) as input and provide another category (of a possibly different doctrine) as output.
+The [CAP-based packages](#packages-based-on-cap_project) provide [*various* ***category constructors***](constructors) which take a combinatorial or algebraic data structure, or even a category or several categories (of a certain doctrine) as input and provide another category (of a possibly different doctrine) as output.
 
 ## Functors
 
