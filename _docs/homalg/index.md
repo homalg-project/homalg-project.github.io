@@ -8,8 +8,6 @@ description: homalg project
 # The [homalg project](https://github.com/homalg-project/homalg_project/)
 
 <!-- BEGIN homalg_project HEADER -->
-# homalg_project
-
 The homalg project is a multi-author multi-package open source software project for constructive homological algebra.
 
 | Build Status | Code Coverage |

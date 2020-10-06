@@ -8,8 +8,6 @@ description: CAP project
 # The [CAP project](https://github.com/homalg-project/CAP_project/)
 
 <!-- BEGIN CAP_project HEADER -->
-# CAP_project
-
 Categories, Algorithms, and Programming.
 
 | Build Status | Code Coverage |
