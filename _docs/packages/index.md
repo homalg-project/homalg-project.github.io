@@ -16,6 +16,7 @@ Categories, Algorithms, and Programming.
 | Build Status | Code Coverage |
 | ------------ | ------------- |
 | [![Build Status](https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg)](https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/CAP_project) |
+
 <!-- END CAP_project HEADER -->
 <!-- BEGIN CAP_project SUBPACKAGES -->
 ### Packages of [CAP_project](https://github.com/homalg-project/CAP_project):
@@ -39,6 +40,7 @@ Categories, Algorithms, and Programming.
 | [ModulesOverLocalRingsForCAP](https://github.com/homalg-project/CAP_project/tree/master/ModulesOverLocalRingsForCAP) | Category of modules over a local ring modeled by Serre quotients for CAP | Not available | dev |
 | [MonoidalCategories](https://github.com/homalg-project/CAP_project/tree/master/MonoidalCategories) | Monoidal and monoidal (co)closed categories | [![HTML stable documentation](https://img.shields.io/badge/HTML-stable-blue.svg)](https://homalg-project.github.io/CAP_project/MonoidalCategories/doc/chap0_mj.html) | deposited |
 | [ToricSheaves](https://github.com/homalg-project/CAP_project/tree/master/ToricSheaves) | Toric sheaves as Serre quotients | Not available | dev |
+
 <!-- END CAP_project SUBPACKAGES -->
 <!-- BEGIN CAP_project USED_BY -->
 ### Packages based on [CAP_project](https://github.com/homalg-project/CAP_project):
@@ -63,6 +65,7 @@ Categories, Algorithms, and Programming.
 | [Toposes](https://github.com/homalg-project/Toposes) | Elementary toposes | [![HTML stable documentation](https://img.shields.io/badge/HTML-stable-blue.svg)](https://homalg-project.github.io/CAP_project/Toposes/doc/chap0_mj.html) | [![Build Status](https://github.com/homalg-project/Toposes/workflows/Tests/badge.svg)](https://github.com/homalg-project/Toposes/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/Toposes/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/Toposes) | dev |
 | [WrapperCategories](https://github.com/homalg-project/WrapperCategories) | Construct an equivalent wrapper category out of a CAP category | [![HTML stable documentation](https://img.shields.io/badge/HTML-stable-blue.svg)](https://homalg-project.github.io/CAP_project/WrapperCategories/doc/chap0_mj.html) | [![Build Status](https://github.com/homalg-project/WrapperCategories/workflows/Tests/badge.svg)](https://github.com/homalg-project/WrapperCategories/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/WrapperCategories/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/WrapperCategories) | dev |
 | [ZariskiFrames](https://github.com/homalg-project/ZariskiFrames) | (Co)frames/Locales of Zariski closed/open subsets of affine, projective, or toric varieties | [![HTML stable documentation](https://img.shields.io/badge/HTML-stable-blue.svg)](https://homalg-project.github.io/CAP_project/ZariskiFrames/doc/chap0_mj.html) | [![Build Status](https://github.com/homalg-project/ZariskiFrames/workflows/Tests/badge.svg)](https://github.com/homalg-project/ZariskiFrames/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/ZariskiFrames/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/ZariskiFrames) | dev |
+
 <!-- END CAP_project USED_BY -->
 <!-- BEGIN homalg_project HEADER -->
 # homalg_project
@@ -72,6 +75,7 @@ The homalg project is a multi-author multi-package open source software project 
 | Build Status | Code Coverage |
 | ------------ | ------------- |
 | [![Build Status](https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg)](https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/homalg_project) |
+
 <!-- END homalg_project HEADER -->
 <!-- BEGIN homalg_project SUBPACKAGES -->
 ### Packages of [homalg_project](https://github.com/homalg-project/homalg_project):
@@ -93,6 +97,7 @@ The homalg project is a multi-author multi-package open source software project 
 | [RingsForHomalg](https://github.com/homalg-project/homalg_project/tree/master/RingsForHomalg) | Dictionaries of external rings | [![HTML stable documentation](https://img.shields.io/badge/HTML-stable-blue.svg)](https://homalg-project.github.io/homalg_project/RingsForHomalg/doc/chap0_mj.html) | deposited |
 | [SCO](https://github.com/homalg-project/homalg_project/tree/master/SCO) | SCO - Simplicial Cohomology of Orbifolds | [![HTML stable documentation](https://img.shields.io/badge/HTML-stable-blue.svg)](https://homalg-project.github.io/homalg_project/SCO/doc/chap0_mj.html) | deposited |
 | [ToolsForHomalg](https://github.com/homalg-project/homalg_project/tree/master/ToolsForHomalg) | Special methods and knowledge propagation tools | [![HTML stable documentation](https://img.shields.io/badge/HTML-stable-blue.svg)](https://homalg-project.github.io/homalg_project/ToolsForHomalg/doc/chap0_mj.html) | deposited |
+
 <!-- END homalg_project SUBPACKAGES -->
 <!-- BEGIN homalg_project USED_BY -->
 ### Packages based on [homalg_project](https://github.com/homalg-project/homalg_project):
@@ -112,4 +117,5 @@ The homalg project is a multi-author multi-package open source software project 
 | [ParallelizedIterators](https://github.com/homalg-project/ParallelizedIterators) | Parallely evaluate recursive iterators | [![HTML stable documentation](https://img.shields.io/badge/HTML-stable-blue.svg)](https://homalg-project.github.io/homalg_project/ParallelizedIterators/doc/chap0_mj.html) | [![Build Status](https://github.com/homalg-project/ParallelizedIterators/workflows/Tests/badge.svg)](https://github.com/homalg-project/ParallelizedIterators/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/ParallelizedIterators/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/ParallelizedIterators) | dev |
 | [PrimaryDecomposition](https://github.com/homalg-project/PrimaryDecomposition) | Tools for primary decomposition | Not available | [![Build Status](https://github.com/homalg-project/PrimaryDecomposition/workflows/Tests/badge.svg)](https://github.com/homalg-project/PrimaryDecomposition/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/PrimaryDecomposition/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/PrimaryDecomposition) | dev |
 | [Sheaves](https://github.com/homalg-project/Sheaves) | A homalg based Package for Sheaf Algorithms | Not available | [![Build Status](https://github.com/homalg-project/Sheaves/workflows/Tests/badge.svg)](https://github.com/homalg-project/Sheaves/actions?query=workflow%3ATests) | [![Code Coverage](https://codecov.io/gh/homalg-project/Sheaves/branch/master/graph/badge.svg)](https://codecov.io/gh/homalg-project/Sheaves) | accepted |
+
 <!-- END homalg_project USED_BY -->
