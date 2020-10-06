@@ -23,8 +23,10 @@ description: CAP-based packages
            + [`KernelLift`](https://homalg-project.github.io/CAP_project/CAP/doc/chap6_mj.html#X851623317C59DDE5),
            + [`Compose`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X8244F7A0868BE27D),
            + [`Inverse`](https://homalg-project.github.io/CAP_project/CAP/doc/chap3_mj.html#X864F84C47DC1A620).
-       3. **Doctrine-specific logical implications**: For example, in an Abelian category the algorithm `IsIsomorphism` is [equivalent](https://github.com/homalg-project/CAP_project/blob/85d19bd33e1e3d8971d79f13cf814a5210de3392/CAP/LogicForCategories/PredicateImplicationsForAbelianCategories.tex#L1) to the algorithm `IsMonomorphism and IsEpimorphism`.<sup id="a7">[7](#f7)</sup>
-   * Even if [GAP][GAP] (automatically) orgainzes the doctrines in hierarchies the relations among the category (instances) fulfilling these doctrines are much richer than these hierarchies.<sup id="a8">[8](#f8)</sup> These relations are given by several functors, natural transformations between (parallel) functors, and adjunctions (also described by natural transformations) between (anti-parallel) functors.
+
+           This is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category), and does not even make sense in doctrines without kernels and cokernels.
+       3. **Doctrine-specific logical implications**: For example, in an Abelian category the algorithm `IsIsomorphism` is [equivalent](https://github.com/homalg-project/CAP_project/blob/85d19bd33e1e3d8971d79f13cf814a5210de3392/CAP/LogicForCategories/PredicateImplicationsForAbelianCategories.tex#L1) to the algorithm `IsMonomorphism and IsEpimorphism`.<sup id="a6">[6](#f6)</sup>
+   * Even if [GAP][GAP] (automatically) orgainzes the doctrines in hierarchies the relations among the category (instances) fulfilling these doctrines are much richer than these hierarchies.<sup id="a7">[7](#f7)</sup> These relations are given by several functors, natural transformations between (parallel) functors, and adjunctions (also described by natural transformations) between (anti-parallel) functors.
 
 ## Category constructors
 
@@ -229,9 +231,8 @@ The true strength of [CAP][CAP] is that it allows concatenating these category c
 <b id="f3">3</b> [Specification of KernelObject](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L265). [↩](#a3)<br>
 <b id="f4">4</b> [Specification of KernelEmbedding](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L273). [↩](#a4)<br>
 <b id="f5">5</b> [Specification of KernelLift](https://github.com/homalg-project/CAP_project/blob/61ee5d2f9c1c596b8a0ccca2682c02d7eef83cda/CAP/gap/MethodRecord.gi#L311). [↩](#a5)<br>
-<b id="f6">6</b> This is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category), and does not even make sense in doctrines without kernels and cokernels. [↩](#a6)<br>
-<b id="f7">7</b> Again, this is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category). [↩](#a7)<br>
-<b id="f8">8</b> One can [view a doctrine as a (specific) 2-category](https://ncatlab.org/nlab/show/doctrine#as_2categories) and the category of doctrines as a 3-category of 2-categories. [↩](#a8)<br>
+<b id="f6">6</b> Again, this is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category). [↩](#a6)<br>
+<b id="f7">7</b> One can [view a doctrine as a (specific) 2-category](https://ncatlab.org/nlab/show/doctrine#as_2categories) and the category of doctrines as a 3-category of 2-categories. [↩](#a7)<br>
 
 <!-- BEGIN FOOTER -->
 
