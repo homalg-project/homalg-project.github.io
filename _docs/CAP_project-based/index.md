@@ -230,7 +230,7 @@ The true strength of [CAP][CAP] is that it allows concatenating these category c
 <b id="f2">2</b> [Kernel: Specitfication of the specific limit](https://github.com/homalg-project/CAP_project/blob/master/CAP/gap/MethodRecord.gi#L265). [↩](#a2)<br>
 <b id="f3">3</b> This is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category), and does not even make sense in doctrines without kernels and cokernels. [↩](#a3)<br>
 <b id="f4">4</b> Again, this is wrong in other doctrines like [pre-Abelain](https://ncatlab.org/nlab/show/pre-abelian+category). [↩](#a4)<br>
-<b id="f5">5</b> One can [view a doctrine as a (specific) 2-category](https://ncatlab.org/nlab/show/doctrine#as_2categories) and the category of doctrines as a 3-category of 2-categories.
+<b id="f5">5</b> One can [view a doctrine as a (specific) 2-category](https://ncatlab.org/nlab/show/doctrine#as_2categories) and the category of doctrines as a 3-category of 2-categories. [↩](#a5)<br>
 
 <!-- BEGIN FOOTER -->
 
