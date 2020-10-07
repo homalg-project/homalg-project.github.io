@@ -16,3 +16,6 @@ Here you can find an overview of (almost) all packages
 * [based on the CAP project](/docs/CAP_project-based/),
 * [based on the homalg project](/docs/homalg_project-based/).
 
+## Notebooks
+
+Some of the high-level functionality of the packages is demonstrated in the following [notebooks](https://nbviewer.jupyter.org/github/homalg-project/CapHomalgNotebooks/tree/master/).
