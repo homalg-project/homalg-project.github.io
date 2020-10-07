@@ -17,6 +17,8 @@
       url: "docs/homalg_project"
     - title: homalg-based packages
       url: "docs/homalg_project-based"
+    - title: Jupyter notebooks
+      url: "docs/notebooks"
     - title: Statistics
       url: "statistics"
     - title: Tags Page
