@@ -18,4 +18,6 @@ Here you can find an overview of (almost) all packages
 
 ## Notebooks
 
-Some functionality of the packages is demonstrated in the following [notebooks](/docs/notebooks).
+Some functionality of the packages is demonstrated in the notebooks found [here](https://nbviewer.jupyter.org/github/homalg-project/CapHomalgNotebooks/tree/master/). There you can also interactively run the notebooks online by clicking on `Binder`'s three-circle-logo (tooltip `Execute on Binder`) at the top-right corner.
+
+For more details see [here](/docs/notebooks).
