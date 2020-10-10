@@ -67,6 +67,9 @@ permalink: /:year/:title/
 markdown: kramdown
 exclude: [_site, docsy-jekyll/CHANGELOG.md, docsy-jekyll/LICENSE, docsy-jekyll/README.md, README.md, vendor]
 
+plugins:
+  - jekyll-redirect-from
+
 # Collections
 collections:
   docs:
