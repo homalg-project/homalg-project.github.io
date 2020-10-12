@@ -37,6 +37,7 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsCocartesianCategory` | [Toposes][Toposes] |
 | `IsStrictCocartesianCategory` | [Toposes][Toposes] |
 | `IsCocartesianCoclosedCategory` | [Toposes][Toposes] |
+| `IsElementaryTopos` | [Toposes][Toposes] |
 | `IsCartesianClosedCategoryWithIsomorphicDoubleNegations` | [Locales][Locales] |
 | `IsCocartesianCoclosedCategoryWithIsomorphicDoubleConegations` | [Locales][Locales] |
 | `IsThinCategory` | [Locales][Locales] |
