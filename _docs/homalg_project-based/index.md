@@ -16,7 +16,7 @@ description: homalg-based packages
 | [ArangoDBInterface](https://github.com/homalg-project/ArangoDBInterface) | An interface to ArangoDB | [![HTML stable documentation][docs-ArangoDBInterface-img]][docs-ArangoDBInterface-url] | [![Build Status][tests-ArangoDBInterface-img]][tests-ArangoDBInterface-url] | [![Code Coverage][codecov-ArangoDBInterface-img]][codecov-ArangoDBInterface-url] | dev |
 | [Blocks](https://github.com/homalg-project/Blocks) | Tools for block theory | Not available | [![Build Status][tests-Blocks-img]][tests-Blocks-url] | [![Code Coverage][codecov-Blocks-img]][codecov-Blocks-url] | dev |
 | [D-Modules](https://github.com/homalg-project/D-Modules) | A homalg based package for D-modules | Not available | [![Build Status][tests-D-Modules-img]][tests-D-Modules-url] | [![Code Coverage][codecov-D-Modules-img]][codecov-D-Modules-url] | dev |
-| [LessGenerators](https://github.com/homalg-project/LessGenerators) | Find smaller generating sets for modules | Not available | [![Build Status][tests-LessGenerators-img]][tests-LessGenerators-url] | [![Code Coverage][codecov-LessGenerators-img]][codecov-LessGenerators-url] | dev |
+| [LessGenerators](https://github.com/homalg-project/LessGenerators) | Find smaller generating sets for modules | [![HTML stable documentation][docs-LessGenerators-img]][docs-LessGenerators-url] | [![Build Status][tests-LessGenerators-img]][tests-LessGenerators-url] | [![Code Coverage][codecov-LessGenerators-img]][codecov-LessGenerators-url] | dev |
 | [LoopIntegrals](https://github.com/homalg-project/LoopIntegrals) | Compute master integrals using commutative and noncommutative methods from computational algebraic geometry | [![HTML stable documentation][docs-LoopIntegrals-img]][docs-LoopIntegrals-url] | [![Build Status][tests-LoopIntegrals-img]][tests-LoopIntegrals-url] | [![Code Coverage][codecov-LoopIntegrals-img]][codecov-LoopIntegrals-url] | dev |
 | [MatroidGeneration](https://github.com/homalg-project/MatroidGeneration) | Generate low-rank matroids | [![HTML stable documentation][docs-MatroidGeneration-img]][docs-MatroidGeneration-url] | [![Build Status][tests-MatroidGeneration-img]][tests-MatroidGeneration-url] | [![Code Coverage][codecov-MatroidGeneration-img]][codecov-MatroidGeneration-url] | dev |
 | [NConvex](https://github.com/homalg-project/NConvex) | A Gap package to perform polyhedral computations | [![HTML stable documentation][docs-NConvex-img]][docs-NConvex-url] | [![Build Status][tests-NConvex-img]][tests-NConvex-url] | [![Code Coverage][codecov-NConvex-img]][codecov-NConvex-url] | deposited |
@@ -62,6 +62,9 @@ description: homalg-based packages
 
 [codecov-D-Modules-img]: https://codecov.io/gh/homalg-project/D-Modules/branch/master/graph/badge.svg
 [codecov-D-Modules-url]: https://codecov.io/gh/homalg-project/D-Modules
+
+[docs-LessGenerators-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[docs-LessGenerators-url]: https://homalg-project.github.io/LessGenerators/doc/chap0_mj.html
 
 [tests-LessGenerators-img]: https://github.com/homalg-project/LessGenerators/workflows/Tests/badge.svg?branch=master
 [tests-LessGenerators-url]: https://github.com/homalg-project/LessGenerators/actions?query=workflow%3ATests+branch%3Amaster
