@@ -21,7 +21,7 @@ description: homalg-based packages
 | [MatroidGeneration](https://github.com/homalg-project/MatroidGeneration) | Generate low-rank matroids | [![HTML stable documentation][docs-MatroidGeneration-img]][docs-MatroidGeneration-url] | [![Build Status][tests-MatroidGeneration-img]][tests-MatroidGeneration-url] | [![Code Coverage][codecov-MatroidGeneration-img]][codecov-MatroidGeneration-url] | dev |
 | [NConvex](https://github.com/homalg-project/NConvex) | A Gap package to perform polyhedral computations | [![HTML stable documentation][docs-NConvex-img]][docs-NConvex-url] | [![Build Status][tests-NConvex-img]][tests-NConvex-url] | [![Code Coverage][codecov-NConvex-img]][codecov-NConvex-url] | deposited |
 | [ParallelizedIterators](https://github.com/homalg-project/ParallelizedIterators) | Parallely evaluate recursive iterators | [![HTML stable documentation][docs-ParallelizedIterators-img]][docs-ParallelizedIterators-url] | [![Build Status][tests-ParallelizedIterators-img]][tests-ParallelizedIterators-url] | [![Code Coverage][codecov-ParallelizedIterators-img]][codecov-ParallelizedIterators-url] | dev |
-| [PrimaryDecomposition](https://github.com/homalg-project/PrimaryDecomposition) | Tools for primary decomposition | Not available | [![Build Status][tests-PrimaryDecomposition-img]][tests-PrimaryDecomposition-url] | [![Code Coverage][codecov-PrimaryDecomposition-img]][codecov-PrimaryDecomposition-url] | dev |
+| [PrimaryDecomposition](https://github.com/homalg-project/PrimaryDecomposition) | Tools for primary decomposition | [![HTML stable documentation][docs-PrimaryDecomposition-img]][docs-PrimaryDecomposition-url] | [![Build Status][tests-PrimaryDecomposition-img]][tests-PrimaryDecomposition-url] | [![Code Coverage][codecov-PrimaryDecomposition-img]][codecov-PrimaryDecomposition-url] | dev |
 | [Sheaves](https://github.com/homalg-project/Sheaves) | A homalg based Package for Sheaf Algorithms | Not available | [![Build Status][tests-Sheaves-img]][tests-Sheaves-url] | [![Code Coverage][codecov-Sheaves-img]][codecov-Sheaves-url] | dev |
 
 [tests-OscarForHomalg-img]: https://github.com/homalg-project/OscarForHomalg/workflows/Tests/badge.svg?branch=master
@@ -104,6 +104,9 @@ description: homalg-based packages
 
 [codecov-ParallelizedIterators-img]: https://codecov.io/gh/homalg-project/ParallelizedIterators/branch/master/graph/badge.svg
 [codecov-ParallelizedIterators-url]: https://codecov.io/gh/homalg-project/ParallelizedIterators
+
+[docs-PrimaryDecomposition-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[docs-PrimaryDecomposition-url]: https://homalg-project.github.io/PrimaryDecomposition/doc/chap0_mj.html
 
 [tests-PrimaryDecomposition-img]: https://github.com/homalg-project/PrimaryDecomposition/workflows/Tests/badge.svg?branch=master
 [tests-PrimaryDecomposition-url]: https://github.com/homalg-project/PrimaryDecomposition/actions?query=workflow%3ATests+branch%3Amaster
