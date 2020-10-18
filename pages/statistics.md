@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Statistics
+title: Project statistics
 permalink: /statistics
 ---
 
-# Statistics
+# Project statistics
 
 ### Lines of code of the packages developed on the [GitHub organization homalg-project](https://github.com/homalg-project)
 
