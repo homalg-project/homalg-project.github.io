@@ -6,7 +6,7 @@ description: homalg-based packages
 ---
 
 <!-- BEGIN homalg_project USED_BY -->
-## Packages based on [homalg_project](https://github.com/homalg-project/homalg_project):
+## Packages based on [homalg_project](https://github.com/homalg-project/homalg_project#readme):
 
 | Name | Description | Documentation | Build Status | Code Coverage | Status |
 | ---- | ----------- | ------------- | ------------ | ------------- | ------ |
