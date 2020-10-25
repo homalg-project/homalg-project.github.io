@@ -5,7 +5,7 @@ tags:
  - Jupyter
  - Julia
  - Julia package IJulia
- - Julia package HomalgProject
+ - Julia package CapAndHomalg
 description: Jupyter notebooks
 ---
 
@@ -23,4 +23,4 @@ You can clone the repository containing these notebooks [here](https://github.co
 
 These are [Jupyter](https://jupyter.org/) notebooks which require the [Julia](https://julialang.org/) packages
 * [`IJulia`](https://github.com/JuliaLang/IJulia.jl#readme) to launch in the browser and
-* [`HomalgProject`](https://github.com/homalg-project/HomalgProject.jl#readme) to run.
+* [`CapAndHomalg`](https://github.com/homalg-project/CapAndHomalg.jl#readme) to run.
