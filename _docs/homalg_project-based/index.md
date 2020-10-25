@@ -6,7 +6,7 @@ description: homalg-based packages
 ---
 
 <!-- BEGIN homalg_project USED_BY -->
-## Packages based on [homalg_project](https://github.com/homalg-project/homalg_project#readme):
+## Packages based on [homalg_project](https://github.com/homalg-project/homalg_project):
 
 | Name | Description | Documentation | Build Status | Code Coverage | Status |
 | ---- | ----------- | ------------- | ------------ | ------------- | ------ |
@@ -19,7 +19,7 @@ description: homalg-based packages
 | [LessGenerators](https://github.com/homalg-project/LessGenerators) | Find smaller generating sets for modules | [![HTML stable documentation][docs-LessGenerators-img]][docs-LessGenerators-url] | [![Build Status][tests-LessGenerators-img]][tests-LessGenerators-url] | [![Code Coverage][codecov-LessGenerators-img]][codecov-LessGenerators-url] | dev |
 | [LoopIntegrals](https://github.com/homalg-project/LoopIntegrals) | Compute master integrals using commutative and noncommutative methods from computational algebraic geometry | [![HTML stable documentation][docs-LoopIntegrals-img]][docs-LoopIntegrals-url] | [![Build Status][tests-LoopIntegrals-img]][tests-LoopIntegrals-url] | [![Code Coverage][codecov-LoopIntegrals-img]][codecov-LoopIntegrals-url] | dev |
 | [MatroidGeneration](https://github.com/homalg-project/MatroidGeneration) | Generate low-rank matroids | [![HTML stable documentation][docs-MatroidGeneration-img]][docs-MatroidGeneration-url] | [![Build Status][tests-MatroidGeneration-img]][tests-MatroidGeneration-url] | [![Code Coverage][codecov-MatroidGeneration-img]][codecov-MatroidGeneration-url] | dev |
-| [NConvex](https://github.com/homalg-project/NConvex) | A Gap package to perform polyhedral computations | [![HTML stable documentation][docs-NConvex-img]][docs-NConvex-url] | [![Build Status][tests-NConvex-img]][tests-NConvex-url] | [![Code Coverage][codecov-NConvex-img]][codecov-NConvex-url] | deposited |
+| [NConvex](https://github.com/homalg-project/NConvex) | A Gap package to perform polyhedral computations | [![HTML stable documentation][docs-NConvex-img]][docs-NConvex-url] | [![Build Status][tests-NConvex-img]][tests-NConvex-url] | [![Code Coverage][codecov-NConvex-img]][codecov-NConvex-url] | [deposited][deposited-NConvex-url] |
 | [ParallelizedIterators](https://github.com/homalg-project/ParallelizedIterators) | Parallely evaluate recursive iterators | [![HTML stable documentation][docs-ParallelizedIterators-img]][docs-ParallelizedIterators-url] | [![Build Status][tests-ParallelizedIterators-img]][tests-ParallelizedIterators-url] | [![Code Coverage][codecov-ParallelizedIterators-img]][codecov-ParallelizedIterators-url] | dev |
 | [PrimaryDecomposition](https://github.com/homalg-project/PrimaryDecomposition) | Tools for primary decomposition | [![HTML stable documentation][docs-PrimaryDecomposition-img]][docs-PrimaryDecomposition-url] | [![Build Status][tests-PrimaryDecomposition-img]][tests-PrimaryDecomposition-url] | [![Code Coverage][codecov-PrimaryDecomposition-img]][codecov-PrimaryDecomposition-url] | dev |
 | [Sheaves](https://github.com/homalg-project/Sheaves) | A homalg based Package for Sheaf Algorithms | Not available | [![Build Status][tests-Sheaves-img]][tests-Sheaves-url] | [![Code Coverage][codecov-Sheaves-img]][codecov-Sheaves-url] | dev |
@@ -98,6 +98,8 @@ description: homalg-based packages
 
 [codecov-NConvex-img]: https://codecov.io/gh/homalg-project/NConvex/branch/master/graph/badge.svg
 [codecov-NConvex-url]: https://codecov.io/gh/homalg-project/NConvex
+
+[deposited-NConvex-url]: https://www.gap-system.org/Packages/nconvex.html
 
 [docs-ParallelizedIterators-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [docs-ParallelizedIterators-url]: https://homalg-project.github.io/ParallelizedIterators/doc/chap0_mj.html
