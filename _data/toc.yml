@@ -4,8 +4,6 @@
 - title: Overview
   url: docs
   links:
-    - title: CAP project
-      url: "docs/CAP_project"
     - title: CAP-based packages
       url: "docs/CAP_project-based"
       children:
@@ -13,8 +11,6 @@
           url: "docs/CAP_project-based/doctrines"
         - title: Category constructors
           url: "docs/CAP_project-based/constructors"
-    - title: homalg project
-      url: "docs/homalg_project"
     - title: homalg-based packages
       url: "docs/homalg_project-based"
     - title: Jupyter notebooks
