@@ -8,8 +8,8 @@ permalink: /
 
 The GitHub organization [homalg-project](https://github.com/homalg-project/) hosts several computer algebra packages, most of which are based on the
 
-* [CAP project](/docs/CAP_project/),
-* [homalg project](/docs/homalg_project/).
+* [CAP project](https://github.com/homalg-project/CAP_project#readme),
+* [homalg project](https://github.com/homalg-project/homalg_project#readme).
 
 Here you can find an overview of (almost) all packages
 
