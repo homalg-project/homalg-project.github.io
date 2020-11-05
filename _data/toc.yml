@@ -11,7 +11,7 @@
           url: "docs/CAP_project-based/doctrines"
         - title: Category constructors
           url: "docs/CAP_project-based/constructors"
-    - title: homalg-based packages
+    - title: homalg_project-based packages
       url: "docs/homalg_project-based"
     - title: Jupyter notebooks
       url: "docs/notebooks"
