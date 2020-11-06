@@ -14,7 +14,7 @@ description: Installation
 
 # Installation
 
-To easily obtain recent versions of all [GAP](https://www.gap-system.org/) packages hosted on the GitHub organization [homalg-project](https://github.com/homalg-project/) and run them either using `julia` or `gap` we recommend installing the [Julia](https://julialang.org/) package [CapAndHomalg.jl](https://homalg-project.github.io/pkg/CapAndHomalg.jl). This package will also help you keep the packages [up-to-date](#keeping-your-installation-up-to-date).
+To easily obtain recent versions of all [GAP](https://www.gap-system.org/) packages hosted on the GitHub organization [homalg-project](https://github.com/homalg-project/) and run them either using `julia` or `gap`, we recommend installing the [Julia](https://julialang.org/) package [CapAndHomalg.jl](https://homalg-project.github.io/pkg/CapAndHomalg.jl). This package will also help you keep all packages [up-to-date](#keeping-your-installation-up-to-date).
 
 ## Step 1: Prerequisites for the installation
 
@@ -111,7 +111,7 @@ GAP: Q
 
 ```
 
-## Step 5: Keeping your installation up-to-date
+## Keeping your installation up-to-date
 
 ###### Updating `CapAndHomalg.jl`
 
