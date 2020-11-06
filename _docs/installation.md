@@ -16,7 +16,7 @@ description: Installation
 
 To easily obtain recent versions of all [GAP](https://www.gap-system.org/) packages hosted on the GitHub organization [homalg-project](https://github.com/homalg-project/) and run them either using `julia` or `gap`, we recommend installing the [Julia](https://julialang.org/) package [CapAndHomalg.jl](https://homalg-project.github.io/pkg/CapAndHomalg.jl). This package will also help you keep all packages [up-to-date](#keeping-your-installation-up-to-date).
 
-## Step 1: Prerequisites for the installation
+## Step 0: Prerequisites for the installation
 
 ### Linux
 
@@ -45,15 +45,15 @@ $ apt-get install -y build-essential curl wget libjulia-dev
 1. Install [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and choose `Ubuntu 20.04 LTS` as your Linux distribution of choice.
 2. Follow the instructions for [Ubuntu 18.04 "Bionic" or newer above](#ubuntu-1804-bionic-or-newer-debian-10-buster-or-newer).
 
-## Step 2: Install Julia
+## Step 1: Install Julia
 
 Download the newest Julia from the [Julia download page](https://julialang.org/downloads/) and install it following the [platform specific instructions](https://julialang.org/downloads/platform/).
 
-## Step 3: Install `CapAndHomalg.jl`
+## Step 2: Install `CapAndHomalg.jl`
 
 Follow the [installation instructions for CapAndHomalg.jl](https://github.com/homalg-project/CapAndHomalg.jl#install-capandhomalgjl).
 
-## Step 4: Running the packages
+## Step 3: Running the packages
 
 ### In GAP
 
