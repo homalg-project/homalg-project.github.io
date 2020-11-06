@@ -21,5 +21,7 @@
       url: "statistics"
     - title: Tags Page
       url: "tags"
+    - title: Funding
+      url: "docs/funding"
     - title: Support
       url: "support"
