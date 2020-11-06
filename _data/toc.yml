@@ -4,6 +4,8 @@
 - title: Overview
   url: docs
   links:
+    - title: Installation
+      url: "docs/installation"
     - title: CAP-based packages
       url: "docs/CAP_project-based"
       children:

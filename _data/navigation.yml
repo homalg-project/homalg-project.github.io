@@ -1,2 +1,4 @@
+- title: Installation
+  url: "docs/installation"
 - title: Jupyter notebooks
   url: "docs/notebooks"
