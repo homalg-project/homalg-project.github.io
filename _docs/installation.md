@@ -51,7 +51,7 @@ Download the newest Julia from the [Julia download page](https://julialang.org/d
 
 ## Step 3: Install `CapAndHomalg.jl`
 
-Follow the [installation instructions for CapAndHomalg.jl](https://github.com/homalg-project/CapAndHomalg.jl#installation).
+Follow the [installation instructions for CapAndHomalg.jl](https://github.com/homalg-project/CapAndHomalg.jl#install-capandhomalgjl).
 
 ## Step 4: Running the packages
 
