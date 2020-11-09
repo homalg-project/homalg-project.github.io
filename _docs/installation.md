@@ -55,6 +55,33 @@ Follow the [installation instructions for CapAndHomalg.jl](https://github.com/ho
 
 ## Step 3: Running the packages
 
+### In Julia
+
+Open a terminal and run `julia`:
+
+```julia
+julia
+              _
+   _       _ _(_)_     |  Documentation: https://docs.julialang.org
+  (_)     | (_) (_)    |
+   _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
+  | | | | | | |/ _` |  |
+  | | |_| | | | (_| |  |  Version 1.5.1 (2020-08-25)
+ _/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
+|__/                   |
+
+julia> using CapAndHomalg
+CapAndHomalg v1.0.0-dev
+Imported OSCAR's components GAP and Singular_jll
+Type: ?CapAndHomalg for more information
+
+julia> LoadPackage( "RingsForHomalg" )
+
+julia> Q = HomalgFieldOfRationalsInSingular()
+GAP: Q
+
+```
+
 ### In GAP
 
 First download this GAP execution script [`gap-with-cap-and-homalg-via-julia`](https://raw.githubusercontent.com/homalg-project/CapAndHomalg.jl/master/deps/usr/bin/gap-with-cap-and-homalg-via-julia), move it to a directory within your binary paths after making it exectuable.
@@ -82,33 +109,6 @@ gap> LoadPackage( "RingsForHomalg" );
 true
 gap> Q := HomalgFieldOfRationalsInSingular( );
 Q
-```
-
-### In Julia
-
-Open a terminal and run `julia`:
-
-```julia
-julia
-              _
-   _       _ _(_)_     |  Documentation: https://docs.julialang.org
-  (_)     | (_) (_)    |
-   _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
-  | | | | | | |/ _` |  |
-  | | |_| | | | (_| |  |  Version 1.5.1 (2020-08-25)
- _/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
-|__/                   |
-
-julia> using CapAndHomalg
-CapAndHomalg v1.0.0-dev
-Imported OSCAR's components GAP and Singular_jll
-Type: ?CapAndHomalg for more information
-
-julia> LoadPackage( "RingsForHomalg" )
-
-julia> Q = HomalgFieldOfRationalsInSingular()
-GAP: Q
-
 ```
 
 ## Keeping your installation up-to-date
