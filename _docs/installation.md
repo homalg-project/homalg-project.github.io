@@ -22,9 +22,10 @@ To easily obtain recent versions of all [GAP](https://www.gap-system.org/) packa
 
 ###### Ubuntu 18.04 "Bionic" or newer, Debian 10 "Buster" or newer
 
+Open a terminal and execute:
 ```
 sudo apt-get update
-sudo apt-get install -y build-essential curl wget git julia libjulia-dev
+sudo apt-get install -y build-essential curl wget git
 ```
 
 ### macOS
@@ -43,11 +44,24 @@ sudo apt-get install -y build-essential curl wget git julia libjulia-dev
 ###### Windows 10
 
 1. Install [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and choose `Ubuntu 20.04 LTS` as your Linux distribution of choice.
-2. Follow the instructions for [Ubuntu 18.04 "Bionic" or newer above](#ubuntu-1804-bionic-or-newer-debian-10-buster-or-newer).
+2. Now follow the above instructions for [Ubuntu 18.04 "Bionic" or newer](#ubuntu-1804-bionic-or-newer-debian-10-buster-or-newer).
 
 ## Step 1: Install Julia
 
-Download the newest Julia from the [Julia download page](https://julialang.org/downloads/) and install it following the [platform specific instructions](https://julialang.org/downloads/platform/).
+### Linux and Windows
+
+If Step 0 was successful we can assume that both Linux and Windows users have Ubuntu 18.04 "Bionic" or newer (or Debian 10 "Buster" or newer) installed.
+
+Open a terminal (in Linux or your Ubuntu installation on Windows) and execute:
+
+```
+sudo apt-get update
+sudo apt-get install -y julia libjulia-dev
+```
+
+### macOS
+
+Download the newest Julia from the [Julia download page](https://julialang.org/downloads/) and install it following the [macOS specific instructions](https://julialang.org/downloads/platform/#macos).
 
 ## Step 2: Install `CapAndHomalg.jl`
 
@@ -60,8 +74,7 @@ Follow the [installation instructions for CapAndHomalg.jl](https://github.com/ho
 Open a terminal and run `julia`:
 
 ```julia
-julia
-              _
+               _
    _       _ _(_)_     |  Documentation: https://docs.julialang.org
   (_)     | (_) (_)    |
    _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
@@ -90,7 +103,6 @@ First download this GAP execution script [`gap-with-cap-and-homalg-via-julia`](h
 Open a terminal and run the script `gap-with-cap-and-homalg-via-julia`, which by now should be in your binary path:
 
 ```gap
-gap-with-cap-and-homalg-via-julia
  ┌───────┐   GAP 4.11.0 of 29-Feb-2020
  │  GAP  │   https://www.gap-system.org
  └───────┘   Architecture: x86_64-apple-darwin19.6.0-julia64-kv7-v1.5
