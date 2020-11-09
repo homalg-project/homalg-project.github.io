@@ -23,8 +23,8 @@ To easily obtain recent versions of all [GAP](https://www.gap-system.org/) packa
 ###### Ubuntu 18.04 "Bionic" or newer, Debian 10 "Buster" or newer
 
 ```
-$ sudo apt-get update
-$ sudo apt-get install -y build-essential curl wget git julia libjulia-dev
+sudo apt-get update
+sudo apt-get install -y build-essential curl wget git julia libjulia-dev
 ```
 
 ### macOS
@@ -63,7 +63,7 @@ First download this GAP execution script [`gap-with-cap-and-homalg-via-julia`](h
 Open a terminal and run the script `gap-with-cap-and-homalg-via-julia`, which by now should be in your binary path:
 
 ```gap
-$ gap-with-cap-and-homalg-via-julia
+gap-with-cap-and-homalg-via-julia
  ┌───────┐   GAP 4.11.0 of 29-Feb-2020
  │  GAP  │   https://www.gap-system.org
  └───────┘   Architecture: x86_64-apple-darwin19.6.0-julia64-kv7-v1.5
@@ -89,7 +89,7 @@ Q
 Open a terminal and run `julia`:
 
 ```julia
-$ julia
+julia
               _
    _       _ _(_)_     |  Documentation: https://docs.julialang.org
   (_)     | (_) (_)    |
