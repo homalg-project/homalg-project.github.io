@@ -24,7 +24,7 @@ To easily obtain recent versions of all [GAP](https://www.gap-system.org/) packa
 
 ```
 $ apt-get update
-$ apt-get install -y build-essential curl wget libjulia-dev
+$ apt-get install -y build-essential curl wget git libjulia-dev
 ```
 
 ### macOS
