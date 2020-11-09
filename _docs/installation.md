@@ -23,8 +23,8 @@ To easily obtain recent versions of all [GAP](https://www.gap-system.org/) packa
 ###### Ubuntu 18.04 "Bionic" or newer, Debian 10 "Buster" or newer
 
 ```
-$ apt-get update
-$ apt-get install -y build-essential curl wget git libjulia-dev
+$ sudo apt-get update
+$ sudo apt-get install -y build-essential curl wget git julia libjulia-dev
 ```
 
 ### macOS
