@@ -97,7 +97,7 @@ GAP: Q
 
 ### In GAP
 
-First download this GAP execution script [`gap-with-cap-and-homalg-via-julia`](https://raw.githubusercontent.com/homalg-project/CapAndHomalg.jl/master/deps/usr/bin/gap-with-cap-and-homalg-via-julia), move it to a directory within your binary paths after making it exectuable.
+First download this GAP execution script [`gap-with-cap-and-homalg-via-julia`](https://raw.githubusercontent.com/homalg-project/CapAndHomalg.jl/master/bin/gap-with-cap-and-homalg-via-julia), move it to a directory within your binary paths after making it exectuable.
 
 
 Open a terminal and run the script `gap-with-cap-and-homalg-via-julia`, which by now should be in your binary path:
