@@ -524,17 +524,17 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [GAP]: https://www.gap-system.org/
 
-[CAP_project]: https://github.com/homalg-project/CAP_project/
+[CAP_project]: https://github.com/homalg-project/CAP_project#readme
 
-[CAP]: https://github.com/homalg-project/CAP_project/tree/master/CAP/
+[CAP]: https://github.com/homalg-project/CAP_project/tree/master/CAP#readme
 
-[MonoidalCategories]: https://github.com/homalg-project/CAP_project/tree/master/MonoidalCategories/
+[MonoidalCategories]: https://github.com/homalg-project/CAP_project/tree/master/MonoidalCategories#readme
 
-[TriangulatedCategories]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/TriangulatedCategories/
+[TriangulatedCategories]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/TriangulatedCategories#readme
 
-[Toposes]: https://github.com/homalg-project/Toposes/
+[Toposes]: https://github.com/homalg-project/Toposes#readme
 
-[Locales]: https://github.com/homalg-project/Locales
+[Locales]: https://github.com/homalg-project/Locales#readme
 
 [doctrine]: https://ncatlab.org/nlab/show/doctrine/
 
