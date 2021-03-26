@@ -51,14 +51,14 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 
 [doctrine]: https://ncatlab.org/nlab/show/doctrine/
 
-[CAP]: https://github.com/homalg-project/CAP_project/tree/master/CAP/
+[CAP]: https://github.com/homalg-project/CAP_project/tree/master/CAP#readme
 
-[MonoidalCategories]: https://github.com/homalg-project/CAP_project/tree/master/MonoidalCategories/
+[MonoidalCategories]: https://github.com/homalg-project/CAP_project/tree/master/MonoidalCategories#readme
 
-[TriangulatedCategories]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/TriangulatedCategories/
+[TriangulatedCategories]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/TriangulatedCategories#readme
 
-[Toposes]: https://github.com/homalg-project/Toposes/
+[Toposes]: https://github.com/homalg-project/Toposes#readme
 
-[Locales]: https://github.com/homalg-project/Locales
+[Locales]: https://github.com/homalg-project/Locales#readme
 
 <!-- END FOOTER -->
