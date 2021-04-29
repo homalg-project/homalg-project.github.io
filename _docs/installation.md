@@ -25,7 +25,7 @@ To easily obtain recent versions of all [GAP](https://www.gap-system.org/) packa
 Open a terminal and execute:
 ```
 sudo apt-get update
-sudo apt-get install -y build-essential curl wget git
+sudo apt-get install -y build-essential autoconf curl wget git
 ```
 
 ### macOS
