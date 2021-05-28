@@ -41,8 +41,7 @@ sudo apt-get install -y build-essential autoconf curl wget git
 
 Open a terminal and execute:
 ```
-brew install gmp
-brew install autoconf
+brew install autoconf gmp wget
 ```
 
 ### Windows
