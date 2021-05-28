@@ -36,8 +36,14 @@ sudo apt-get install -y build-essential autoconf curl wget git
 2. Launch a `Terminal` and enter the command `xcode-select --install`, then press enter.
 3. A window will appear asking you: "The xcode-select command requires the command line developer tools. Would you like to install the tools now?". Confirm this by clicking `Install`.
 4. Wait for this to complete; it needs to download about 130 MB of data.
-5. You can verify that everything worked verifying the `/Library/Developer/CommandLineTools/usr/bin/` exists and contains executables such as the C compiler `clang` and the C++ compiler `clang++`.
+5. You can verify that everything worked verifying the `/Library/Developer/CommandLineTools/usr/bin/` and that the C compiler `clang` and the C++ compiler `clang++` is in your path of executables.
+6. Install [brew](https://brew.sh/).
 
+Open a terminal and execute:
+```
+brew install gmp
+brew install autoconf
+```
 
 ### Windows
 
