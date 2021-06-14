@@ -27,6 +27,10 @@ Open a terminal and execute:
 sudo apt-get update
 sudo apt-get install -y build-essential autoconf curl wget git
 ```
+To use [ArangoDB](https://www.arangodb.com/) execute:
+```
+sudo apt-get install arangodb
+```
 
 ### macOS
 
@@ -42,6 +46,10 @@ sudo apt-get install -y build-essential autoconf curl wget git
 Open a terminal and execute:
 ```
 brew install autoconf gmp wget
+```
+To use [ArangoDB](https://www.arangodb.com/) execute:
+```
+brew install arangodb
 ```
 
 ### Windows
