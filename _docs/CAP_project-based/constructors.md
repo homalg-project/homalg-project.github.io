@@ -98,66 +98,66 @@ description: Category constructors
 
 [thin]: https://ncatlab.org/nlab/show/thin+category/
 
-[CAP]: https://github.com/homalg-project/CAP_project/tree/master/CAP/
+[CAP]: https://homalg-project.github.io/pkg/CAP/
 
-[ComplexesAndFilteredObjectsForCAP]: https://github.com/homalg-project/CAP_project/tree/master/ComplexesAndFilteredObjectsForCAP/
+[ComplexesAndFilteredObjectsForCAP]: https://homalg-project.github.io/pkg/ComplexesAndFilteredObjectsForCAP/
 
-[GeneralizedMorphismsForCAP]: https://github.com/homalg-project/CAP_project/tree/master/GeneralizedMorphismsForCAP/
+[GeneralizedMorphismsForCAP]: https://homalg-project.github.io/pkg/GeneralizedMorphismsForCAP/
 
-[MonoidalCategories]: https://github.com/homalg-project/CAP_project/tree/master/MonoidalCategories/
+[MonoidalCategories]: https://homalg-project.github.io/pkg/MonoidalCategories/
 
-[LinearAlgebraForCAP]: https://github.com/homalg-project/CAP_project/tree/master/LinearAlgebraForCAP/
+[LinearAlgebraForCAP]: https://homalg-project.github.io/pkg/LinearAlgebraForCAP/
 
-[GroupRepresentationsForCAP]: https://github.com/homalg-project/CAP_project/tree/master/GroupRepresentationsForCAP/
+[GroupRepresentationsForCAP]: https://homalg-project.github.io/pkg/GroupRepresentationsForCAP/
 
-[ModulePresentationsForCAP]: https://github.com/homalg-project/CAP_project/tree/master/ModulePresentationsForCAP/
+[ModulePresentationsForCAP]: https://homalg-project.github.io/pkg/ModulePresentationsForCAP/
 
-[GradedModulePresentationsForCAP]: https://github.com/homalg-project/CAP_project/tree/master/GradedModulePresentationsForCAP/
+[GradedModulePresentationsForCAP]: https://homalg-project.github.io/pkg/GradedModulePresentationsForCAP/
 
-[ActionsForCAP]: https://github.com/homalg-project/CAP_project/tree/master/ActionsForCAP/
+[ActionsForCAP]: https://homalg-project.github.io/pkg/ActionsForCAP/
 
-[FreydCategoriesForCAP]: https://github.com/homalg-project/CAP_project/tree/master/FreydCategoriesForCAP/
+[FreydCategoriesForCAP]: https://homalg-project.github.io/pkg/FreydCategoriesForCAP/
 
-[Algebroids]: https://github.com/homalg-project/Algebroids/
+[Algebroids]: https://homalg-project.github.io/pkg/Algebroids/
 
-[FunctorCategories]: https://github.com/homalg-project/FunctorCategories/
+[FunctorCategories]: https://homalg-project.github.io/pkg/FunctorCategories/
 
-[Bicomplexes]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/Bicomplexes/
+[Bicomplexes]: https://homalg-project.github.io/pkg/Bicomplexes/
 
-[ComplexesCategories]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/ComplexesCategories/
+[ComplexesCategories]: https://homalg-project.github.io/pkg/ComplexesCategories/
 
-[QuotientCategories]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/QuotientCategories/
+[QuotientCategories]: https://homalg-project.github.io/pkg/QuotientCategories/
 
-[HomotopyCategories]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/HomotopyCategories/
+[HomotopyCategories]: https://homalg-project.github.io/pkg/HomotopyCategories/
 
-[DerivedCategories]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/DerivedCategories/
+[DerivedCategories]: https://homalg-project.github.io/pkg/DerivedCategories/
 
-[TriangulatedCategories]: https://github.com/homalg-project/HigherHomologicalAlgebra/tree/master/TriangulatedCategories/
+[TriangulatedCategories]: https://homalg-project.github.io/pkg/TriangulatedCategories/
 
-[GradedCategories]: https://github.com/homalg-project/GradedCategories/
+[GradedCategories]: https://homalg-project.github.io/pkg/GradedCategories/
 
-[InternalModules]: https://github.com/homalg-project/InternalModules/
+[InternalModules]: https://homalg-project.github.io/pkg/InternalModules/
 
-[Toposes]: https://github.com/homalg-project/Toposes/
+[Toposes]: https://homalg-project.github.io/pkg/Toposes/
 
-[FinSetsForCAP]: https://github.com/homalg-project/FinSetsForCAP/
+[FinSetsForCAP]: https://homalg-project.github.io/pkg/FinSetsForCAP/
 
-[FinGSetsForCAP]: https://github.com/homalg-project/FinGSetsForCAP/
+[FinGSetsForCAP]: https://homalg-project.github.io/pkg/FinGSetsForCAP/
 
-[Locales]: https://github.com/homalg-project/Locales/
+[Locales]: https://homalg-project.github.io/pkg/Locales/
 
-[FunctorCategories]: https://github.com/homalg-project/FunctorCategories/
+[FunctorCategories]: https://homalg-project.github.io/pkg/FunctorCategories/
 
-[SubcategoriesForCAP]: https://github.com/homalg-project/SubcategoriesForCAP/
+[SubcategoriesForCAP]: https://homalg-project.github.io/pkg/SubcategoriesForCAP/
 
-[CategoriesWithAmbientObjects]: https://github.com/homalg-project/CategoriesWithAmbientObjects/
+[CategoriesWithAmbientObjects]: https://homalg-project.github.io/pkg/CategoriesWithAmbientObjects/
 
-[IntrinsicCategories]: https://github.com/homalg-project/IntrinsicCategories/
+[IntrinsicCategories]: https://homalg-project.github.io/pkg/IntrinsicCategories/
 
-[InternalModules]: https://github.com/homalg-project/InternalModules/
+[InternalModules]: https://homalg-project.github.io/pkg/InternalModules/
 
-[WrapperCategories]: https://github.com/homalg-project/WrapperCategories/
+[WrapperCategories]: https://homalg-project.github.io/pkg/WrapperCategories/
 
-[LazyCategories]: https://github.com/homalg-project/LazyCategories/
+[LazyCategories]: https://homalg-project.github.io/pkg/LazyCategories/
 
 <!-- END FOOTER -->
