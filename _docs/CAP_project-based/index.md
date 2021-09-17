@@ -42,7 +42,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 ## CompilerForCAP
 
-[CompilerForCAP][CompilerForCAP] (alpha stage) should be able to use the logical rules valid in the various doctrines to compile these towers of categories ---built by applying multiple category constructors--- and produce highly efficient (parallel) code (ultimately in [HPC-GAP](https://www.gap-system.org/Manuals/doc/hpc/chap0_mj.html)/[Julia](https://julialang.org/)).
+[CompilerForCAP][CompilerForCAP] should be able to use the logical rules valid in the various doctrines to compile these towers of categories ---built by applying multiple category constructors--- and produce highly efficient (parallel) code (ultimately in [HPC-GAP](https://www.gap-system.org/Manuals/doc/hpc/chap0_mj.html)/[Julia](https://julialang.org/)).
 
 <!-- BEGIN CAP_project USED_BY -->
 ## Packages part of or based on [CAP_project](https://homalg-project.github.io/prj/CAP_project):
