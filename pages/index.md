@@ -8,13 +8,13 @@ permalink: /
 
 The GitHub organization [homalg-project](https://github.com/homalg-project/) hosts several computer algebra packages, most of which are based on the
 
-* [CAP project](https://github.com/homalg-project/CAP_project#readme),
-* [homalg project](https://github.com/homalg-project/homalg_project#readme).
+* [CAP project](https://github.com/homalg-project/CAP_project#readme) ([swMATH](https://swmath.org/software/27925) entry)
+* [homalg project](https://github.com/homalg-project/homalg_project#readme) ([swMATH](https://swmath.org/software/411) entry)
 
 Here you can find an overview of (almost) all packages
 
-* [based on the CAP project](/docs/CAP_project-based/),
-* [based on the homalg project](/docs/homalg_project-based/).
+* [based on the CAP project](/docs/CAP_project-based/)
+* [based on the homalg project](/docs/homalg_project-based/)
 
 ## Notebooks
 
