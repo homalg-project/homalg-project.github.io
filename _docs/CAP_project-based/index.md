@@ -63,6 +63,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [ComplexesCategories](https://homalg-project.github.io/pkg/ComplexesCategories) | Category of (co)chain complexes of an additive category | [![HTML stable documentation][html-ComplexesCategories-img]][html-ComplexesCategories-url] [![PDF stable documentation][pdf-ComplexesCategories-img]][pdf-ComplexesCategories-url] | [![Build Status][tests-ComplexesCategories-img]][tests-ComplexesCategories-url] | [![Code Coverage][codecov-ComplexesCategories-img]][codecov-ComplexesCategories-url] | dev |
 | [DeductiveSystemForCAP](https://homalg-project.github.io/pkg/DeductiveSystemForCAP) | Deductive system for CAP | [![HTML stable documentation][html-DeductiveSystemForCAP-img]][html-DeductiveSystemForCAP-url] [![PDF stable documentation][pdf-DeductiveSystemForCAP-img]][pdf-DeductiveSystemForCAP-url] | [![Build Status][tests-DeductiveSystemForCAP-img]][tests-DeductiveSystemForCAP-url] | [![Code Coverage][codecov-DeductiveSystemForCAP-img]][codecov-DeductiveSystemForCAP-url] | dev |
 | [DerivedCategories](https://homalg-project.github.io/pkg/DerivedCategories) | Derived categories of Abelian categories | [![HTML stable documentation][html-DerivedCategories-img]][html-DerivedCategories-url] [![PDF stable documentation][pdf-DerivedCategories-img]][pdf-DerivedCategories-url] | [![Build Status][tests-DerivedCategories-img]][tests-DerivedCategories-url] | [![Code Coverage][codecov-DerivedCategories-img]][codecov-DerivedCategories-url] | dev |
+| [ExteriorPowersCategories](https://homalg-project.github.io/pkg/ExteriorPowersCategories) | The graded category of exterior powers of objects of a given Ab-category | [![HTML stable documentation][html-ExteriorPowersCategories-img]][html-ExteriorPowersCategories-url] [![PDF stable documentation][pdf-ExteriorPowersCategories-img]][pdf-ExteriorPowersCategories-url] | [![Build Status][tests-ExteriorPowersCategories-img]][tests-ExteriorPowersCategories-url] | [![Code Coverage][codecov-ExteriorPowersCategories-img]][codecov-ExteriorPowersCategories-url] | dev |
 | [FinSetsForCAP](https://homalg-project.github.io/pkg/FinSetsForCAP) | The elementary topos of (skeletal) finite sets | [![HTML stable documentation][html-FinSetsForCAP-img]][html-FinSetsForCAP-url] [![PDF stable documentation][pdf-FinSetsForCAP-img]][pdf-FinSetsForCAP-url] | [![Build Status][tests-FinSetsForCAP-img]][tests-FinSetsForCAP-url] | [![Code Coverage][codecov-FinSetsForCAP-img]][codecov-FinSetsForCAP-url] | dev |
 | [FinGSetsForCAP](https://homalg-project.github.io/pkg/FinGSetsForCAP) | The elementary topos of (skeletal) finite G-sets | [![HTML stable documentation][html-FinGSetsForCAP-img]][html-FinGSetsForCAP-url] [![PDF stable documentation][pdf-FinGSetsForCAP-img]][pdf-FinGSetsForCAP-url] | [![Build Status][tests-FinGSetsForCAP-img]][tests-FinGSetsForCAP-url] | [![Code Coverage][codecov-FinGSetsForCAP-img]][codecov-FinGSetsForCAP-url] | dev |
 | [FreydCategoriesForCAP](https://homalg-project.github.io/pkg/FreydCategoriesForCAP) | Freyd categories - Formal (co)kernels for additive categories | [![HTML stable documentation][html-FreydCategoriesForCAP-img]][html-FreydCategoriesForCAP-url] [![PDF stable documentation][pdf-FreydCategoriesForCAP-img]][pdf-FreydCategoriesForCAP-url] | [![Build Status][tests-FreydCategoriesForCAP-img]][tests-FreydCategoriesForCAP-url] | [![Code Coverage][codecov-FreydCategoriesForCAP-img]][codecov-FreydCategoriesForCAP-url] | dev |
@@ -76,6 +77,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [InternalExteriorAlgebraForCAP](https://homalg-project.github.io/pkg/InternalExteriorAlgebraForCAP) | Constructions for Modules over the Internal Exterior Algebra for CAP | [![HTML stable documentation][html-InternalExteriorAlgebraForCAP-img]][html-InternalExteriorAlgebraForCAP-url] [![PDF stable documentation][pdf-InternalExteriorAlgebraForCAP-img]][pdf-InternalExteriorAlgebraForCAP-url] | [![Build Status][tests-InternalExteriorAlgebraForCAP-img]][tests-InternalExteriorAlgebraForCAP-url] | [![Code Coverage][codecov-InternalExteriorAlgebraForCAP-img]][codecov-InternalExteriorAlgebraForCAP-url] | dev |
 | [InternalModules](https://homalg-project.github.io/pkg/InternalModules) | Modules over internal algebras | [![HTML stable documentation][html-InternalModules-img]][html-InternalModules-url] [![PDF stable documentation][pdf-InternalModules-img]][pdf-InternalModules-url] | [![Build Status][tests-InternalModules-img]][tests-InternalModules-url] | [![Code Coverage][codecov-InternalModules-img]][codecov-InternalModules-url] | dev |
 | [IntrinsicCategories](https://homalg-project.github.io/pkg/IntrinsicCategories) | Intrinsic categories for CAP | [![HTML stable documentation][html-IntrinsicCategories-img]][html-IntrinsicCategories-url] [![PDF stable documentation][pdf-IntrinsicCategories-img]][pdf-IntrinsicCategories-url] | [![Build Status][tests-IntrinsicCategories-img]][tests-IntrinsicCategories-url] | [![Code Coverage][codecov-IntrinsicCategories-img]][codecov-IntrinsicCategories-url] | dev |
+| [IntrinsicGradedModules](https://homalg-project.github.io/pkg/IntrinsicGradedModules) | Finitely presented graded modules over computable graded rings allowing multiple presentations and the notion of elements | [![HTML stable documentation][html-IntrinsicGradedModules-img]][html-IntrinsicGradedModules-url] [![PDF stable documentation][pdf-IntrinsicGradedModules-img]][pdf-IntrinsicGradedModules-url] | [![Build Status][tests-IntrinsicGradedModules-img]][tests-IntrinsicGradedModules-url] | [![Code Coverage][codecov-IntrinsicGradedModules-img]][codecov-IntrinsicGradedModules-url] | dev |
 | [IntrinsicModules](https://homalg-project.github.io/pkg/IntrinsicModules) | Finitely presented modules over computable rings allowing multiple presentations and the notion of elements | [![HTML stable documentation][html-IntrinsicModules-img]][html-IntrinsicModules-url] [![PDF stable documentation][pdf-IntrinsicModules-img]][pdf-IntrinsicModules-url] | [![Build Status][tests-IntrinsicModules-img]][tests-IntrinsicModules-url] | [![Code Coverage][codecov-IntrinsicModules-img]][codecov-IntrinsicModules-url] | dev |
 | [LazyCategories](https://homalg-project.github.io/pkg/LazyCategories) | Construct an equivalent lazy category out of a CAP category | [![HTML stable documentation][html-LazyCategories-img]][html-LazyCategories-url] [![PDF stable documentation][pdf-LazyCategories-img]][pdf-LazyCategories-url] | [![Build Status][tests-LazyCategories-img]][tests-LazyCategories-url] | [![Code Coverage][codecov-LazyCategories-img]][codecov-LazyCategories-url] | dev |
 | [LinearAlgebraForCAP](https://homalg-project.github.io/pkg/LinearAlgebraForCAP) | Category of Matrices over a Field for CAP | [![HTML stable documentation][html-LinearAlgebraForCAP-img]][html-LinearAlgebraForCAP-url] [![PDF stable documentation][pdf-LinearAlgebraForCAP-img]][pdf-LinearAlgebraForCAP-url] | [![Build Status][tests-LinearAlgebraForCAP-img]][tests-LinearAlgebraForCAP-url] | [![Code Coverage][codecov-LinearAlgebraForCAP-img]][codecov-LinearAlgebraForCAP-url] | [deposited][deposited-LinearAlgebraForCAP-url] |
@@ -263,6 +265,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-DerivedCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
 [codecov-DerivedCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
 
+[html-ExteriorPowersCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-ExteriorPowersCategories-url]: https://homalg-project.github.io/ExteriorPowersCategories/doc/chap0_mj.html
+
+[pdf-ExteriorPowersCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-ExteriorPowersCategories-url]: https://homalg-project.github.io/ExteriorPowersCategories/download_pdf.html
+
+[tests-ExteriorPowersCategories-img]: https://github.com/homalg-project/ExteriorPowersCategories/workflows/Tests/badge.svg?branch=master
+[tests-ExteriorPowersCategories-url]: https://github.com/homalg-project/ExteriorPowersCategories/actions?query=workflow%3ATests+branch%3Amaster
+
+[codecov-ExteriorPowersCategories-img]: https://codecov.io/gh/homalg-project/ExteriorPowersCategories/branch/master/graph/badge.svg
+[codecov-ExteriorPowersCategories-url]: https://codecov.io/gh/homalg-project/ExteriorPowersCategories
+
 [html-FinSetsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-FinSetsForCAP-url]: https://homalg-project.github.io/FinSetsForCAP/doc/chap0_mj.html
 
@@ -420,6 +434,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-IntrinsicCategories-img]: https://codecov.io/gh/homalg-project/IntrinsicCategories/branch/master/graph/badge.svg
 [codecov-IntrinsicCategories-url]: https://codecov.io/gh/homalg-project/IntrinsicCategories
+
+[html-IntrinsicGradedModules-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-IntrinsicGradedModules-url]: https://homalg-project.github.io/IntrinsicGradedModules/doc/chap0_mj.html
+
+[pdf-IntrinsicGradedModules-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-IntrinsicGradedModules-url]: https://homalg-project.github.io/IntrinsicGradedModules/download_pdf.html
+
+[tests-IntrinsicGradedModules-img]: https://github.com/homalg-project/IntrinsicGradedModules/workflows/Tests/badge.svg?branch=master
+[tests-IntrinsicGradedModules-url]: https://github.com/homalg-project/IntrinsicGradedModules/actions?query=workflow%3ATests+branch%3Amaster
+
+[codecov-IntrinsicGradedModules-img]: https://codecov.io/gh/homalg-project/IntrinsicGradedModules/branch/master/graph/badge.svg
+[codecov-IntrinsicGradedModules-url]: https://codecov.io/gh/homalg-project/IntrinsicGradedModules
 
 [html-IntrinsicModules-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-IntrinsicModules-url]: https://homalg-project.github.io/IntrinsicModules/doc/chap0_mj.html
