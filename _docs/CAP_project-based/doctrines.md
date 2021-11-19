@@ -20,6 +20,7 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsAbelianCategory` | [CAP][CAP] |
 | `IsAbelianCategoryWithEnoughProjectives` | [CAP][CAP] |
 | `IsAbelianCategoryWithEnoughInjectives` | [CAP][CAP] |
+| `IsEquippedWithHomomorphismStructure` | [CAP][CAP] |
 | `IsMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsStrictMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsBraidedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
