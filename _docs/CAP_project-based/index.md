@@ -92,7 +92,6 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [Toposes](https://homalg-project.github.io/pkg/Toposes) | Elementary toposes | [![HTML stable documentation][html-Toposes-img]][html-Toposes-url] [![PDF stable documentation][pdf-Toposes-img]][pdf-Toposes-url] | [![Build Status][tests-Toposes-img]][tests-Toposes-url] | [![Code Coverage][codecov-Toposes-img]][codecov-Toposes-url] | dev |
 | [ToricSheaves](https://homalg-project.github.io/pkg/ToricSheaves) | Toric sheaves as Serre quotients | [![HTML stable documentation][html-ToricSheaves-img]][html-ToricSheaves-url] [![PDF stable documentation][pdf-ToricSheaves-img]][pdf-ToricSheaves-url] | [![Build Status][tests-ToricSheaves-img]][tests-ToricSheaves-url] | [![Code Coverage][codecov-ToricSheaves-img]][codecov-ToricSheaves-url] | dev |
 | [TriangulatedCategories](https://homalg-project.github.io/pkg/TriangulatedCategories) | Framework for triangulated categories | [![HTML stable documentation][html-TriangulatedCategories-img]][html-TriangulatedCategories-url] [![PDF stable documentation][pdf-TriangulatedCategories-img]][pdf-TriangulatedCategories-url] | [![Build Status][tests-TriangulatedCategories-img]][tests-TriangulatedCategories-url] | [![Code Coverage][codecov-TriangulatedCategories-img]][codecov-TriangulatedCategories-url] | dev |
-| [WrapperCategories](https://homalg-project.github.io/pkg/WrapperCategories) | Construct an equivalent wrapper category out of a CAP category | [![HTML stable documentation][html-WrapperCategories-img]][html-WrapperCategories-url] [![PDF stable documentation][pdf-WrapperCategories-img]][pdf-WrapperCategories-url] | [![Build Status][tests-WrapperCategories-img]][tests-WrapperCategories-url] | [![Code Coverage][codecov-WrapperCategories-img]][codecov-WrapperCategories-url] | dev |
 | [ZariskiFrames](https://homalg-project.github.io/pkg/ZariskiFrames) | (Co)frames/Locales of Zariski closed/open subsets of affine, projective, or toric varieties | [![HTML stable documentation][html-ZariskiFrames-img]][html-ZariskiFrames-url] [![PDF stable documentation][pdf-ZariskiFrames-img]][pdf-ZariskiFrames-url] | [![Build Status][tests-ZariskiFrames-img]][tests-ZariskiFrames-url] | [![Code Coverage][codecov-ZariskiFrames-img]][codecov-ZariskiFrames-url] | dev |
 
 [html-CAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
@@ -614,18 +613,6 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-TriangulatedCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
 [codecov-TriangulatedCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
-
-[html-WrapperCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-WrapperCategories-url]: https://homalg-project.github.io/WrapperCategories/doc/chap0_mj.html
-
-[pdf-WrapperCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-WrapperCategories-url]: https://homalg-project.github.io/WrapperCategories/download_pdf.html
-
-[tests-WrapperCategories-img]: https://github.com/homalg-project/WrapperCategories/workflows/Tests/badge.svg?branch=master
-[tests-WrapperCategories-url]: https://github.com/homalg-project/WrapperCategories/actions?query=workflow%3ATests+branch%3Amaster
-
-[codecov-WrapperCategories-img]: https://codecov.io/gh/homalg-project/WrapperCategories/branch/master/graph/badge.svg
-[codecov-WrapperCategories-url]: https://codecov.io/gh/homalg-project/WrapperCategories
 
 [html-ZariskiFrames-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ZariskiFrames-url]: https://homalg-project.github.io/ZariskiFrames/doc/chap0_mj.html
