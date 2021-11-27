@@ -57,7 +57,7 @@ description: Category constructors
    | `SerreQuotientsBySpans`       | an Abelian category and a thick subcategory | [GeneralizedMorphismsForCAP][GeneralizedMorphismsForCAP] |
    | `SerreQuotientsByThreeArrows` | an Abelian category and a thick subcategory | [GeneralizedMorphismsForCAP][GeneralizedMorphismsForCAP] |
    | `AdelmanCategory`          | an additive category | [FreydCategoriesForCAP][FreydCategoriesForCAP] |
-   | `FunctorCategory` := `Hom` | a fin. dim. k-algebroid and k-linear Abelian category | [FunctorCategories][FunctorCategories] |
+   | `FunctorCategory` = `Hom` | a fin. dim. k-algebroid and k-linear Abelian category | [FunctorCategories][FunctorCategories] |
    | `EnhancementWithAttributes` | an Abelian category | [CategoriesWithAmbientObjects][CategoriesWithAmbientObjects] |
    | `LeftActionsCategory`       | an Abelian category | [ActionsForCAP][ActionsForCAP] |
    | `RightActionsCategory`      | an Abelian category | [ActionsForCAP][ActionsForCAP] |
