@@ -103,8 +103,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-CAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-CAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-CAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-CAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-CAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=CAP
+[codecov-CAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/CAP
 
 [deposited-CAP-url]: https://www.gap-system.org/Packages/cap.html
 
@@ -129,8 +129,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-ActionsForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-ActionsForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-ActionsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-ActionsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-ActionsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=ActionsForCAP
+[codecov-ActionsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/ActionsForCAP
 
 [html-AttributeCategoryForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-AttributeCategoryForCAP-url]: https://homalg-project.github.io/CAP_project/AttributeCategoryForCAP/doc/chap0_mj.html
@@ -141,8 +141,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-AttributeCategoryForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-AttributeCategoryForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-AttributeCategoryForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-AttributeCategoryForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-AttributeCategoryForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=AttributeCategoryForCAP
+[codecov-AttributeCategoryForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/AttributeCategoryForCAP
 
 [html-BBGG-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-BBGG-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/BBGG/doc/chap0_mj.html
@@ -153,8 +153,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-BBGG-img]: https://github.com/homalg-project/HigherHomologicalAlgebra/workflows/Tests/badge.svg?branch=master
 [tests-BBGG-url]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-BBGG-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
-[codecov-BBGG-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
+[codecov-BBGG-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=BBGG
+[codecov-BBGG-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/BBGG
 
 [html-Bicomplexes-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-Bicomplexes-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/Bicomplexes/doc/chap0_mj.html
@@ -165,8 +165,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-Bicomplexes-img]: https://github.com/homalg-project/HigherHomologicalAlgebra/workflows/Tests/badge.svg?branch=master
 [tests-Bicomplexes-url]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-Bicomplexes-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
-[codecov-Bicomplexes-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
+[codecov-Bicomplexes-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=Bicomplexes
+[codecov-Bicomplexes-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/Bicomplexes
 
 [html-CategoryConstructor-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-CategoryConstructor-url]: https://homalg-project.github.io/CategoryConstructor/doc/chap0_mj.html
@@ -213,8 +213,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-CompilerForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-CompilerForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-CompilerForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-CompilerForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-CompilerForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=CompilerForCAP
+[codecov-CompilerForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/CompilerForCAP
 
 [html-ComplexesAndFilteredObjectsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ComplexesAndFilteredObjectsForCAP-url]: https://homalg-project.github.io/CAP_project/ComplexesAndFilteredObjectsForCAP/doc/chap0_mj.html
@@ -225,8 +225,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-ComplexesAndFilteredObjectsForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-ComplexesAndFilteredObjectsForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-ComplexesAndFilteredObjectsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-ComplexesAndFilteredObjectsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-ComplexesAndFilteredObjectsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=ComplexesAndFilteredObjectsForCAP
+[codecov-ComplexesAndFilteredObjectsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/ComplexesAndFilteredObjectsForCAP
 
 [html-ComplexesCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ComplexesCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/ComplexesCategories/doc/chap0_mj.html
@@ -237,8 +237,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-ComplexesCategories-img]: https://github.com/homalg-project/HigherHomologicalAlgebra/workflows/Tests/badge.svg?branch=master
 [tests-ComplexesCategories-url]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-ComplexesCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
-[codecov-ComplexesCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
+[codecov-ComplexesCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=ComplexesCategories
+[codecov-ComplexesCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/ComplexesCategories
 
 [html-DeductiveSystemForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-DeductiveSystemForCAP-url]: https://homalg-project.github.io/CAP_project/DeductiveSystemForCAP/doc/chap0_mj.html
@@ -249,8 +249,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-DeductiveSystemForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-DeductiveSystemForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-DeductiveSystemForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-DeductiveSystemForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-DeductiveSystemForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=DeductiveSystemForCAP
+[codecov-DeductiveSystemForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/DeductiveSystemForCAP
 
 [html-DerivedCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-DerivedCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/DerivedCategories/doc/chap0_mj.html
@@ -261,8 +261,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-DerivedCategories-img]: https://github.com/homalg-project/HigherHomologicalAlgebra/workflows/Tests/badge.svg?branch=master
 [tests-DerivedCategories-url]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-DerivedCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
-[codecov-DerivedCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
+[codecov-DerivedCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=DerivedCategories
+[codecov-DerivedCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/DerivedCategories
 
 [html-ExteriorPowersCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ExteriorPowersCategories-url]: https://homalg-project.github.io/ExteriorPowersCategories/doc/chap0_mj.html
@@ -309,8 +309,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-FreydCategoriesForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-FreydCategoriesForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-FreydCategoriesForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-FreydCategoriesForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-FreydCategoriesForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=FreydCategoriesForCAP
+[codecov-FreydCategoriesForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/FreydCategoriesForCAP
 
 [html-FunctorCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-FunctorCategories-url]: https://homalg-project.github.io/FunctorCategories/doc/chap0_mj.html
@@ -333,8 +333,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-GeneralizedMorphismsForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-GeneralizedMorphismsForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-GeneralizedMorphismsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-GeneralizedMorphismsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-GeneralizedMorphismsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=GeneralizedMorphismsForCAP
+[codecov-GeneralizedMorphismsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/GeneralizedMorphismsForCAP
 
 [deposited-GeneralizedMorphismsForCAP-url]: https://www.gap-system.org/Packages/generalizedmorphismsforcap.html
 
@@ -359,8 +359,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-GradedModulePresentationsForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-GradedModulePresentationsForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-GradedModulePresentationsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-GradedModulePresentationsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-GradedModulePresentationsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=GradedModulePresentationsForCAP
+[codecov-GradedModulePresentationsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/GradedModulePresentationsForCAP
 
 [html-GroupRepresentationsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-GroupRepresentationsForCAP-url]: https://homalg-project.github.io/CAP_project/GroupRepresentationsForCAP/doc/chap0_mj.html
@@ -371,8 +371,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-GroupRepresentationsForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-GroupRepresentationsForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-GroupRepresentationsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-GroupRepresentationsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-GroupRepresentationsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=GroupRepresentationsForCAP
+[codecov-GroupRepresentationsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/GroupRepresentationsForCAP
 
 [html-HomologicalAlgebraForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-HomologicalAlgebraForCAP-url]: https://homalg-project.github.io/CAP_project/HomologicalAlgebraForCAP/doc/chap0_mj.html
@@ -383,8 +383,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-HomologicalAlgebraForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-HomologicalAlgebraForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-HomologicalAlgebraForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-HomologicalAlgebraForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-HomologicalAlgebraForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=HomologicalAlgebraForCAP
+[codecov-HomologicalAlgebraForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/HomologicalAlgebraForCAP
 
 [html-HomotopyCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-HomotopyCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/HomotopyCategories/doc/chap0_mj.html
@@ -395,8 +395,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-HomotopyCategories-img]: https://github.com/homalg-project/HigherHomologicalAlgebra/workflows/Tests/badge.svg?branch=master
 [tests-HomotopyCategories-url]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-HomotopyCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
-[codecov-HomotopyCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
+[codecov-HomotopyCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=HomotopyCategories
+[codecov-HomotopyCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/HomotopyCategories
 
 [html-InternalExteriorAlgebraForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-InternalExteriorAlgebraForCAP-url]: https://homalg-project.github.io/CAP_project/InternalExteriorAlgebraForCAP/doc/chap0_mj.html
@@ -407,8 +407,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-InternalExteriorAlgebraForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-InternalExteriorAlgebraForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-InternalExteriorAlgebraForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-InternalExteriorAlgebraForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-InternalExteriorAlgebraForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=InternalExteriorAlgebraForCAP
+[codecov-InternalExteriorAlgebraForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/InternalExteriorAlgebraForCAP
 
 [html-InternalModules-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-InternalModules-url]: https://homalg-project.github.io/InternalModules/doc/chap0_mj.html
@@ -479,8 +479,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-LinearAlgebraForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-LinearAlgebraForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-LinearAlgebraForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-LinearAlgebraForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-LinearAlgebraForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=LinearAlgebraForCAP
+[codecov-LinearAlgebraForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/LinearAlgebraForCAP
 
 [deposited-LinearAlgebraForCAP-url]: https://www.gap-system.org/Packages/linearalgebraforcap.html
 
@@ -505,8 +505,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-ModulePresentationsForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-ModulePresentationsForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-ModulePresentationsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-ModulePresentationsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-ModulePresentationsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=ModulePresentationsForCAP
+[codecov-ModulePresentationsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/ModulePresentationsForCAP
 
 [deposited-ModulePresentationsForCAP-url]: https://www.gap-system.org/Packages/modulepresentationsforcap.html
 
@@ -519,8 +519,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-ModulesOverLocalRingsForCAP-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-ModulesOverLocalRingsForCAP-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-ModulesOverLocalRingsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-ModulesOverLocalRingsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-ModulesOverLocalRingsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=ModulesOverLocalRingsForCAP
+[codecov-ModulesOverLocalRingsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/ModulesOverLocalRingsForCAP
 
 [html-MonoidalCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-MonoidalCategories-url]: https://homalg-project.github.io/CAP_project/MonoidalCategories/doc/chap0_mj.html
@@ -531,8 +531,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-MonoidalCategories-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-MonoidalCategories-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-MonoidalCategories-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-MonoidalCategories-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-MonoidalCategories-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=MonoidalCategories
+[codecov-MonoidalCategories-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/MonoidalCategories
 
 [deposited-MonoidalCategories-url]: https://www.gap-system.org/Packages/monoidalcategories.html
 
@@ -551,8 +551,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-QuotientCategories-img]: https://github.com/homalg-project/HigherHomologicalAlgebra/workflows/Tests/badge.svg?branch=master
 [tests-QuotientCategories-url]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-QuotientCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
-[codecov-QuotientCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
+[codecov-QuotientCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=QuotientCategories
+[codecov-QuotientCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/QuotientCategories
 
 [html-StableCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-StableCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/StableCategories/doc/chap0_mj.html
@@ -563,8 +563,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-StableCategories-img]: https://github.com/homalg-project/HigherHomologicalAlgebra/workflows/Tests/badge.svg?branch=master
 [tests-StableCategories-url]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-StableCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
-[codecov-StableCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
+[codecov-StableCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=StableCategories
+[codecov-StableCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/StableCategories
 
 [html-SubcategoriesForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-SubcategoriesForCAP-url]: https://homalg-project.github.io/SubcategoriesForCAP/doc/chap0_mj.html
@@ -599,8 +599,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-ToricSheaves-img]: https://github.com/homalg-project/CAP_project/workflows/Tests/badge.svg?branch=master
 [tests-ToricSheaves-url]: https://github.com/homalg-project/CAP_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-ToricSheaves-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg
-[codecov-ToricSheaves-url]: https://codecov.io/gh/homalg-project/CAP_project
+[codecov-ToricSheaves-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=ToricSheaves
+[codecov-ToricSheaves-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/ToricSheaves
 
 [html-TriangulatedCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-TriangulatedCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/TriangulatedCategories/doc/chap0_mj.html
@@ -611,8 +611,8 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [tests-TriangulatedCategories-img]: https://github.com/homalg-project/HigherHomologicalAlgebra/workflows/Tests/badge.svg?branch=master
 [tests-TriangulatedCategories-url]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-TriangulatedCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg
-[codecov-TriangulatedCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra
+[codecov-TriangulatedCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=TriangulatedCategories
+[codecov-TriangulatedCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/TriangulatedCategories
 
 [html-ZariskiFrames-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ZariskiFrames-url]: https://homalg-project.github.io/ZariskiFrames/doc/chap0_mj.html

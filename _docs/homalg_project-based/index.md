@@ -48,8 +48,8 @@ description: homalg_project-based packages
 [tests-homalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-homalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-homalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-homalg-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-homalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=homalg
+[codecov-homalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/homalg
 
 [deposited-homalg-url]: https://www.gap-system.org/Packages/homalg.html
 
@@ -62,8 +62,8 @@ description: homalg_project-based packages
 [tests-4ti2Interface-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-4ti2Interface-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-4ti2Interface-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-4ti2Interface-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-4ti2Interface-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=4ti2Interface
+[codecov-4ti2Interface-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/4ti2Interface
 
 [deposited-4ti2Interface-url]: https://www.gap-system.org/Packages/4ti2interface.html
 
@@ -112,8 +112,8 @@ description: homalg_project-based packages
 [tests-ExamplesForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-ExamplesForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-ExamplesForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-ExamplesForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-ExamplesForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=ExamplesForHomalg
+[codecov-ExamplesForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/ExamplesForHomalg
 
 [deposited-ExamplesForHomalg-url]: https://www.gap-system.org/Packages/examplesforhomalg.html
 
@@ -126,8 +126,8 @@ description: homalg_project-based packages
 [tests-Gauss-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-Gauss-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-Gauss-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-Gauss-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-Gauss-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=Gauss
+[codecov-Gauss-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/Gauss
 
 [deposited-Gauss-url]: https://www.gap-system.org/Packages/gauss.html
 
@@ -140,8 +140,8 @@ description: homalg_project-based packages
 [tests-GaussForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-GaussForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-GaussForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-GaussForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-GaussForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=GaussForHomalg
+[codecov-GaussForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/GaussForHomalg
 
 [deposited-GaussForHomalg-url]: https://www.gap-system.org/Packages/gaussforhomalg.html
 
@@ -154,8 +154,8 @@ description: homalg_project-based packages
 [tests-GradedModules-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-GradedModules-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-GradedModules-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-GradedModules-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-GradedModules-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=GradedModules
+[codecov-GradedModules-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/GradedModules
 
 [deposited-GradedModules-url]: https://www.gap-system.org/Packages/gradedmodules.html
 
@@ -168,8 +168,8 @@ description: homalg_project-based packages
 [tests-GradedRingForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-GradedRingForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-GradedRingForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-GradedRingForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-GradedRingForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=GradedRingForHomalg
+[codecov-GradedRingForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/GradedRingForHomalg
 
 [deposited-GradedRingForHomalg-url]: https://www.gap-system.org/Packages/gradedringforhomalg.html
 
@@ -182,8 +182,8 @@ description: homalg_project-based packages
 [tests-HomalgToCAS-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-HomalgToCAS-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-HomalgToCAS-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-HomalgToCAS-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-HomalgToCAS-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=HomalgToCAS
+[codecov-HomalgToCAS-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/HomalgToCAS
 
 [deposited-HomalgToCAS-url]: https://www.gap-system.org/Packages/homalgtocas.html
 
@@ -196,8 +196,8 @@ description: homalg_project-based packages
 [tests-IO_ForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-IO_ForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-IO_ForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-IO_ForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-IO_ForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=IO_ForHomalg
+[codecov-IO_ForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/IO_ForHomalg
 
 [deposited-IO_ForHomalg-url]: https://www.gap-system.org/Packages/io_forhomalg.html
 
@@ -222,8 +222,8 @@ description: homalg_project-based packages
 [tests-LocalizeRingForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-LocalizeRingForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-LocalizeRingForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-LocalizeRingForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-LocalizeRingForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=LocalizeRingForHomalg
+[codecov-LocalizeRingForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/LocalizeRingForHomalg
 
 [deposited-LocalizeRingForHomalg-url]: https://www.gap-system.org/Packages/localizeringforhomalg.html
 
@@ -248,8 +248,8 @@ description: homalg_project-based packages
 [tests-MatricesForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-MatricesForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-MatricesForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-MatricesForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-MatricesForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=MatricesForHomalg
+[codecov-MatricesForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/MatricesForHomalg
 
 [deposited-MatricesForHomalg-url]: https://www.gap-system.org/Packages/matricesforhomalg.html
 
@@ -274,8 +274,8 @@ description: homalg_project-based packages
 [tests-Modules-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-Modules-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-Modules-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-Modules-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-Modules-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=Modules
+[codecov-Modules-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/Modules
 
 [deposited-Modules-url]: https://www.gap-system.org/Packages/modules.html
 
@@ -332,8 +332,8 @@ description: homalg_project-based packages
 [tests-RingsForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-RingsForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-RingsForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-RingsForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-RingsForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=RingsForHomalg
+[codecov-RingsForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/RingsForHomalg
 
 [deposited-RingsForHomalg-url]: https://www.gap-system.org/Packages/ringsforhomalg.html
 
@@ -346,8 +346,8 @@ description: homalg_project-based packages
 [tests-SCO-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-SCO-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-SCO-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-SCO-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-SCO-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=SCO
+[codecov-SCO-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/SCO
 
 [deposited-SCO-url]: https://www.gap-system.org/Packages/sco.html
 
@@ -366,8 +366,8 @@ description: homalg_project-based packages
 [tests-ToolsForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
 [tests-ToolsForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
 
-[codecov-ToolsForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg
-[codecov-ToolsForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project
+[codecov-ToolsForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=ToolsForHomalg
+[codecov-ToolsForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/ToolsForHomalg
 
 [deposited-ToolsForHomalg-url]: https://www.gap-system.org/Packages/toolsforhomalg.html
 
