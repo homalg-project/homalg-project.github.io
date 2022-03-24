@@ -50,7 +50,7 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 
 <!-- BEGIN FOOTER -->
 
-[doctrine]: https://ncatlab.org/nlab/show/doctrine/
+[doctrine]: https://ncatlab.org/nlab/show/doctrine
 
 [CAP]: https://homalg-project.github.io/pkg/CAP
 

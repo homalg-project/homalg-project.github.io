@@ -655,6 +655,6 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [Locales]: https://homalg-project.github.io/pkg/Locales
 
-[doctrine]: https://ncatlab.org/nlab/show/doctrine/
+[doctrine]: https://ncatlab.org/nlab/show/doctrine
 
 <!-- END FOOTER -->

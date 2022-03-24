@@ -94,9 +94,9 @@ description: Category constructors
 
 <!-- BEGIN FOOTER -->
 
-[doctrine]: https://ncatlab.org/nlab/show/doctrine/
+[doctrine]: https://ncatlab.org/nlab/show/doctrine
 
-[thin]: https://ncatlab.org/nlab/show/thin+category/
+[thin]: https://ncatlab.org/nlab/show/thin+category
 
 [CAP]: https://homalg-project.github.io/pkg/CAP/
 
