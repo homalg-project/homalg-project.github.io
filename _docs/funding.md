@@ -15,3 +15,5 @@ description: Funding
 
 * [Special Priority Project SPP 1489](https://spp.computeralgebra.de/),
 * [Transregional Collaborative Research Centre SFB-TRR 195](https://www.computeralgebra.de/sfb/).
+
+![BMWK Funding](/assets/img/BMWK_Fz_2017_WebSVG_en.svg){:width="170px"}
