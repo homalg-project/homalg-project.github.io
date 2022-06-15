@@ -27,10 +27,8 @@ Open a terminal and execute:
 sudo apt-get update
 sudo apt-get install -y build-essential autoconf curl wget git
 ```
-To use [ArangoDB](https://www.arangodb.com/) execute:
-```
-sudo apt-get install arangodb
-```
+
+To use [ArangoDB](https://www.arangodb.com/) follow the instructions [here](https://www.arangodb.com/download-major/ubuntu/).
 
 ### macOS
 
