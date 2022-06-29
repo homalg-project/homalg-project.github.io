@@ -45,8 +45,8 @@ description: homalg_project-based packages
 [pdf-homalg-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-homalg-url]: https://homalg-project.github.io/homalg_project/homalg/download_pdf.html
 
-[tests-homalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-homalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-homalg-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-homalg-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-homalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=homalg
 [codecov-homalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/homalg
@@ -59,22 +59,22 @@ description: homalg_project-based packages
 [pdf-4ti2Interface-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-4ti2Interface-url]: https://homalg-project.github.io/homalg_project/4ti2Interface/download_pdf.html
 
-[tests-4ti2Interface-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-4ti2Interface-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-4ti2Interface-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-4ti2Interface-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-4ti2Interface-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=4ti2Interface
 [codecov-4ti2Interface-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/4ti2Interface
 
 [deposited-4ti2Interface-url]: https://www.gap-system.org/Packages/4ti2interface.html
 
-[tests-alcove-img]: https://github.com/homalg-project/alcove/workflows/Tests/badge.svg?branch=master
-[tests-alcove-url]: https://github.com/homalg-project/alcove/actions?query=workflow%3ATests+branch%3Amaster
+[tests-alcove-img]: https://github.com/homalg-project/alcove/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-alcove-url]: https://github.com/homalg-project/alcove/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-alcove-img]: https://codecov.io/gh/homalg-project/alcove/branch/master/graph/badge.svg
 [codecov-alcove-url]: https://codecov.io/gh/homalg-project/alcove
 
-[tests-AlgebraicThomas-img]: https://github.com/homalg-project/AlgebraicThomas/workflows/Tests/badge.svg?branch=master
-[tests-AlgebraicThomas-url]: https://github.com/homalg-project/AlgebraicThomas/actions?query=workflow%3ATests+branch%3Amaster
+[tests-AlgebraicThomas-img]: https://github.com/homalg-project/AlgebraicThomas/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-AlgebraicThomas-url]: https://github.com/homalg-project/AlgebraicThomas/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-AlgebraicThomas-img]: https://codecov.io/gh/homalg-project/AlgebraicThomas/branch/master/graph/badge.svg
 [codecov-AlgebraicThomas-url]: https://codecov.io/gh/homalg-project/AlgebraicThomas
@@ -85,20 +85,20 @@ description: homalg_project-based packages
 [pdf-ArangoDBInterface-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-ArangoDBInterface-url]: https://homalg-project.github.io/ArangoDBInterface/download_pdf.html
 
-[tests-ArangoDBInterface-img]: https://github.com/homalg-project/ArangoDBInterface/workflows/Tests/badge.svg?branch=master
-[tests-ArangoDBInterface-url]: https://github.com/homalg-project/ArangoDBInterface/actions?query=workflow%3ATests+branch%3Amaster
+[tests-ArangoDBInterface-img]: https://github.com/homalg-project/ArangoDBInterface/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-ArangoDBInterface-url]: https://github.com/homalg-project/ArangoDBInterface/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-ArangoDBInterface-img]: https://codecov.io/gh/homalg-project/ArangoDBInterface/branch/master/graph/badge.svg
 [codecov-ArangoDBInterface-url]: https://codecov.io/gh/homalg-project/ArangoDBInterface
 
-[tests-Blocks-img]: https://github.com/homalg-project/Blocks/workflows/Tests/badge.svg?branch=master
-[tests-Blocks-url]: https://github.com/homalg-project/Blocks/actions?query=workflow%3ATests+branch%3Amaster
+[tests-Blocks-img]: https://github.com/homalg-project/Blocks/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-Blocks-url]: https://github.com/homalg-project/Blocks/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-Blocks-img]: https://codecov.io/gh/homalg-project/Blocks/branch/master/graph/badge.svg
 [codecov-Blocks-url]: https://codecov.io/gh/homalg-project/Blocks
 
-[tests-D-Modules-img]: https://github.com/homalg-project/D-Modules/workflows/Tests/badge.svg?branch=master
-[tests-D-Modules-url]: https://github.com/homalg-project/D-Modules/actions?query=workflow%3ATests+branch%3Amaster
+[tests-D-Modules-img]: https://github.com/homalg-project/D-Modules/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-D-Modules-url]: https://github.com/homalg-project/D-Modules/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-D-Modules-img]: https://codecov.io/gh/homalg-project/D-Modules/branch/master/graph/badge.svg
 [codecov-D-Modules-url]: https://codecov.io/gh/homalg-project/D-Modules
@@ -109,8 +109,8 @@ description: homalg_project-based packages
 [pdf-ExamplesForHomalg-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-ExamplesForHomalg-url]: https://homalg-project.github.io/homalg_project/ExamplesForHomalg/download_pdf.html
 
-[tests-ExamplesForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-ExamplesForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-ExamplesForHomalg-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-ExamplesForHomalg-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-ExamplesForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=ExamplesForHomalg
 [codecov-ExamplesForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/ExamplesForHomalg
@@ -123,8 +123,8 @@ description: homalg_project-based packages
 [pdf-Gauss-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-Gauss-url]: https://homalg-project.github.io/homalg_project/Gauss/download_pdf.html
 
-[tests-Gauss-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-Gauss-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-Gauss-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-Gauss-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-Gauss-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=Gauss
 [codecov-Gauss-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/Gauss
@@ -137,8 +137,8 @@ description: homalg_project-based packages
 [pdf-GaussForHomalg-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-GaussForHomalg-url]: https://homalg-project.github.io/homalg_project/GaussForHomalg/download_pdf.html
 
-[tests-GaussForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-GaussForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-GaussForHomalg-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-GaussForHomalg-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-GaussForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=GaussForHomalg
 [codecov-GaussForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/GaussForHomalg
@@ -151,8 +151,8 @@ description: homalg_project-based packages
 [pdf-GradedModules-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-GradedModules-url]: https://homalg-project.github.io/homalg_project/GradedModules/download_pdf.html
 
-[tests-GradedModules-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-GradedModules-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-GradedModules-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-GradedModules-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-GradedModules-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=GradedModules
 [codecov-GradedModules-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/GradedModules
@@ -165,8 +165,8 @@ description: homalg_project-based packages
 [pdf-GradedRingForHomalg-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-GradedRingForHomalg-url]: https://homalg-project.github.io/homalg_project/GradedRingForHomalg/download_pdf.html
 
-[tests-GradedRingForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-GradedRingForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-GradedRingForHomalg-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-GradedRingForHomalg-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-GradedRingForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=GradedRingForHomalg
 [codecov-GradedRingForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/GradedRingForHomalg
@@ -179,8 +179,8 @@ description: homalg_project-based packages
 [pdf-HomalgToCAS-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-HomalgToCAS-url]: https://homalg-project.github.io/homalg_project/HomalgToCAS/download_pdf.html
 
-[tests-HomalgToCAS-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-HomalgToCAS-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-HomalgToCAS-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-HomalgToCAS-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-HomalgToCAS-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=HomalgToCAS
 [codecov-HomalgToCAS-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/HomalgToCAS
@@ -193,8 +193,8 @@ description: homalg_project-based packages
 [pdf-IO_ForHomalg-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-IO_ForHomalg-url]: https://homalg-project.github.io/homalg_project/IO_ForHomalg/download_pdf.html
 
-[tests-IO_ForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-IO_ForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-IO_ForHomalg-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-IO_ForHomalg-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-IO_ForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=IO_ForHomalg
 [codecov-IO_ForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/IO_ForHomalg
@@ -207,8 +207,8 @@ description: homalg_project-based packages
 [pdf-LessGenerators-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-LessGenerators-url]: https://homalg-project.github.io/LessGenerators/download_pdf.html
 
-[tests-LessGenerators-img]: https://github.com/homalg-project/LessGenerators/workflows/Tests/badge.svg?branch=master
-[tests-LessGenerators-url]: https://github.com/homalg-project/LessGenerators/actions?query=workflow%3ATests+branch%3Amaster
+[tests-LessGenerators-img]: https://github.com/homalg-project/LessGenerators/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-LessGenerators-url]: https://github.com/homalg-project/LessGenerators/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-LessGenerators-img]: https://codecov.io/gh/homalg-project/LessGenerators/branch/master/graph/badge.svg
 [codecov-LessGenerators-url]: https://codecov.io/gh/homalg-project/LessGenerators
@@ -219,8 +219,8 @@ description: homalg_project-based packages
 [pdf-LocalizeRingForHomalg-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-LocalizeRingForHomalg-url]: https://homalg-project.github.io/homalg_project/LocalizeRingForHomalg/download_pdf.html
 
-[tests-LocalizeRingForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-LocalizeRingForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-LocalizeRingForHomalg-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-LocalizeRingForHomalg-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-LocalizeRingForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=LocalizeRingForHomalg
 [codecov-LocalizeRingForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/LocalizeRingForHomalg
@@ -233,8 +233,8 @@ description: homalg_project-based packages
 [pdf-LoopIntegrals-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-LoopIntegrals-url]: https://homalg-project.github.io/LoopIntegrals/download_pdf.html
 
-[tests-LoopIntegrals-img]: https://github.com/homalg-project/LoopIntegrals/workflows/Tests/badge.svg?branch=master
-[tests-LoopIntegrals-url]: https://github.com/homalg-project/LoopIntegrals/actions?query=workflow%3ATests+branch%3Amaster
+[tests-LoopIntegrals-img]: https://github.com/homalg-project/LoopIntegrals/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-LoopIntegrals-url]: https://github.com/homalg-project/LoopIntegrals/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-LoopIntegrals-img]: https://codecov.io/gh/homalg-project/LoopIntegrals/branch/master/graph/badge.svg
 [codecov-LoopIntegrals-url]: https://codecov.io/gh/homalg-project/LoopIntegrals
@@ -245,8 +245,8 @@ description: homalg_project-based packages
 [pdf-MatricesForHomalg-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-MatricesForHomalg-url]: https://homalg-project.github.io/homalg_project/MatricesForHomalg/download_pdf.html
 
-[tests-MatricesForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-MatricesForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-MatricesForHomalg-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-MatricesForHomalg-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-MatricesForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=MatricesForHomalg
 [codecov-MatricesForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/MatricesForHomalg
@@ -259,8 +259,8 @@ description: homalg_project-based packages
 [pdf-MatroidGeneration-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-MatroidGeneration-url]: https://homalg-project.github.io/MatroidGeneration/download_pdf.html
 
-[tests-MatroidGeneration-img]: https://github.com/homalg-project/MatroidGeneration/workflows/Tests/badge.svg?branch=master
-[tests-MatroidGeneration-url]: https://github.com/homalg-project/MatroidGeneration/actions?query=workflow%3ATests+branch%3Amaster
+[tests-MatroidGeneration-img]: https://github.com/homalg-project/MatroidGeneration/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-MatroidGeneration-url]: https://github.com/homalg-project/MatroidGeneration/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-MatroidGeneration-img]: https://codecov.io/gh/homalg-project/MatroidGeneration/branch/master/graph/badge.svg
 [codecov-MatroidGeneration-url]: https://codecov.io/gh/homalg-project/MatroidGeneration
@@ -271,8 +271,8 @@ description: homalg_project-based packages
 [pdf-Modules-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-Modules-url]: https://homalg-project.github.io/homalg_project/Modules/download_pdf.html
 
-[tests-Modules-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-Modules-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-Modules-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-Modules-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-Modules-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=Modules
 [codecov-Modules-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/Modules
@@ -285,16 +285,16 @@ description: homalg_project-based packages
 [pdf-NConvex-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-NConvex-url]: https://homalg-project.github.io/NConvex/download_pdf.html
 
-[tests-NConvex-img]: https://github.com/homalg-project/NConvex/workflows/Tests/badge.svg?branch=master
-[tests-NConvex-url]: https://github.com/homalg-project/NConvex/actions?query=workflow%3ATests+branch%3Amaster
+[tests-NConvex-img]: https://github.com/homalg-project/NConvex/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-NConvex-url]: https://github.com/homalg-project/NConvex/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-NConvex-img]: https://codecov.io/gh/homalg-project/NConvex/branch/master/graph/badge.svg
 [codecov-NConvex-url]: https://codecov.io/gh/homalg-project/NConvex
 
 [deposited-NConvex-url]: https://www.gap-system.org/Packages/nconvex.html
 
-[tests-OscarForHomalg-img]: https://github.com/homalg-project/OscarForHomalg/workflows/Tests/badge.svg?branch=master
-[tests-OscarForHomalg-url]: https://github.com/homalg-project/OscarForHomalg/actions?query=workflow%3ATests+branch%3Amaster
+[tests-OscarForHomalg-img]: https://github.com/homalg-project/OscarForHomalg/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-OscarForHomalg-url]: https://github.com/homalg-project/OscarForHomalg/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-OscarForHomalg-img]: https://codecov.io/gh/homalg-project/OscarForHomalg/branch/master/graph/badge.svg
 [codecov-OscarForHomalg-url]: https://codecov.io/gh/homalg-project/OscarForHomalg
@@ -305,8 +305,8 @@ description: homalg_project-based packages
 [pdf-ParallelizedIterators-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-ParallelizedIterators-url]: https://homalg-project.github.io/ParallelizedIterators/download_pdf.html
 
-[tests-ParallelizedIterators-img]: https://github.com/homalg-project/ParallelizedIterators/workflows/Tests/badge.svg?branch=master
-[tests-ParallelizedIterators-url]: https://github.com/homalg-project/ParallelizedIterators/actions?query=workflow%3ATests+branch%3Amaster
+[tests-ParallelizedIterators-img]: https://github.com/homalg-project/ParallelizedIterators/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-ParallelizedIterators-url]: https://github.com/homalg-project/ParallelizedIterators/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-ParallelizedIterators-img]: https://codecov.io/gh/homalg-project/ParallelizedIterators/branch/master/graph/badge.svg
 [codecov-ParallelizedIterators-url]: https://codecov.io/gh/homalg-project/ParallelizedIterators
@@ -317,8 +317,8 @@ description: homalg_project-based packages
 [pdf-PrimaryDecomposition-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-PrimaryDecomposition-url]: https://homalg-project.github.io/PrimaryDecomposition/download_pdf.html
 
-[tests-PrimaryDecomposition-img]: https://github.com/homalg-project/PrimaryDecomposition/workflows/Tests/badge.svg?branch=master
-[tests-PrimaryDecomposition-url]: https://github.com/homalg-project/PrimaryDecomposition/actions?query=workflow%3ATests+branch%3Amaster
+[tests-PrimaryDecomposition-img]: https://github.com/homalg-project/PrimaryDecomposition/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-PrimaryDecomposition-url]: https://github.com/homalg-project/PrimaryDecomposition/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-PrimaryDecomposition-img]: https://codecov.io/gh/homalg-project/PrimaryDecomposition/branch/master/graph/badge.svg
 [codecov-PrimaryDecomposition-url]: https://codecov.io/gh/homalg-project/PrimaryDecomposition
@@ -329,8 +329,8 @@ description: homalg_project-based packages
 [pdf-RingsForHomalg-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-RingsForHomalg-url]: https://homalg-project.github.io/homalg_project/RingsForHomalg/download_pdf.html
 
-[tests-RingsForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-RingsForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-RingsForHomalg-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-RingsForHomalg-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-RingsForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=RingsForHomalg
 [codecov-RingsForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/RingsForHomalg
@@ -343,16 +343,16 @@ description: homalg_project-based packages
 [pdf-SCO-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-SCO-url]: https://homalg-project.github.io/homalg_project/SCO/download_pdf.html
 
-[tests-SCO-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-SCO-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-SCO-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-SCO-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-SCO-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=SCO
 [codecov-SCO-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/SCO
 
 [deposited-SCO-url]: https://www.gap-system.org/Packages/sco.html
 
-[tests-Sheaves-img]: https://github.com/homalg-project/Sheaves/workflows/Tests/badge.svg?branch=master
-[tests-Sheaves-url]: https://github.com/homalg-project/Sheaves/actions?query=workflow%3ATests+branch%3Amaster
+[tests-Sheaves-img]: https://github.com/homalg-project/Sheaves/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-Sheaves-url]: https://github.com/homalg-project/Sheaves/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-Sheaves-img]: https://codecov.io/gh/homalg-project/Sheaves/branch/master/graph/badge.svg
 [codecov-Sheaves-url]: https://codecov.io/gh/homalg-project/Sheaves
@@ -363,8 +363,8 @@ description: homalg_project-based packages
 [pdf-ToolsForHomalg-img]: https://img.shields.io/badge/PDF-stable-blue.svg
 [pdf-ToolsForHomalg-url]: https://homalg-project.github.io/homalg_project/ToolsForHomalg/download_pdf.html
 
-[tests-ToolsForHomalg-img]: https://github.com/homalg-project/homalg_project/workflows/Tests/badge.svg?branch=master
-[tests-ToolsForHomalg-url]: https://github.com/homalg-project/homalg_project/actions?query=workflow%3ATests+branch%3Amaster
+[tests-ToolsForHomalg-img]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-ToolsForHomalg-url]: https://github.com/homalg-project/homalg_project/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-ToolsForHomalg-img]: https://codecov.io/gh/homalg-project/homalg_project/branch/master/graph/badge.svg?flag=ToolsForHomalg
 [codecov-ToolsForHomalg-url]: https://codecov.io/gh/homalg-project/homalg_project/tree/master/ToolsForHomalg
