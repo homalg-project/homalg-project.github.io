@@ -55,6 +55,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [AttributeCategoryForCAP](https://homalg-project.github.io/pkg/AttributeCategoryForCAP) | Automatic enhancement with attributes of a CAP category | [![HTML stable documentation][html-AttributeCategoryForCAP-img]][html-AttributeCategoryForCAP-url] [![PDF stable documentation][pdf-AttributeCategoryForCAP-img]][pdf-AttributeCategoryForCAP-url] | [![Build Status][tests-AttributeCategoryForCAP-img]][tests-AttributeCategoryForCAP-url] | [![Code Coverage][codecov-AttributeCategoryForCAP-img]][codecov-AttributeCategoryForCAP-url] | dev |
 | [BBGG](https://homalg-project.github.io/pkg/BBGG) | Beilinson monads and derived categories for coherent sheaves over P^n | [![HTML stable documentation][html-BBGG-img]][html-BBGG-url] [![PDF stable documentation][pdf-BBGG-img]][pdf-BBGG-url] | [![Build Status][tests-BBGG-img]][tests-BBGG-url] | [![Code Coverage][codecov-BBGG-img]][codecov-BBGG-url] | dev |
 | [Bicomplexes](https://homalg-project.github.io/pkg/Bicomplexes) | Bicomplexes for Abelian categories | [![HTML stable documentation][html-Bicomplexes-img]][html-Bicomplexes-url] [![PDF stable documentation][pdf-Bicomplexes-img]][pdf-Bicomplexes-url] | [![Build Status][tests-Bicomplexes-img]][tests-Bicomplexes-url] | [![Code Coverage][codecov-Bicomplexes-img]][codecov-Bicomplexes-url] | dev |
+| [CartesianCategories](https://homalg-project.github.io/pkg/CartesianCategories) | Cartesian and cocartesian categories and various subdoctrines | [![HTML stable documentation][html-CartesianCategories-img]][html-CartesianCategories-url] [![PDF stable documentation][pdf-CartesianCategories-img]][pdf-CartesianCategories-url] | [![Build Status][tests-CartesianCategories-img]][tests-CartesianCategories-url] | [![Code Coverage][codecov-CartesianCategories-img]][codecov-CartesianCategories-url] | dev |
 | [CategoryConstructor](https://homalg-project.github.io/pkg/CategoryConstructor) | Construct categories out of given ones | [![HTML stable documentation][html-CategoryConstructor-img]][html-CategoryConstructor-url] [![PDF stable documentation][pdf-CategoryConstructor-img]][pdf-CategoryConstructor-url] | [![Build Status][tests-CategoryConstructor-img]][tests-CategoryConstructor-url] | [![Code Coverage][codecov-CategoryConstructor-img]][codecov-CategoryConstructor-url] | dev |
 | [CategoriesWithAmbientObjects](https://homalg-project.github.io/pkg/CategoriesWithAmbientObjects) | Categories with objects having ambient objects | [![HTML stable documentation][html-CategoriesWithAmbientObjects-img]][html-CategoriesWithAmbientObjects-url] [![PDF stable documentation][pdf-CategoriesWithAmbientObjects-img]][pdf-CategoriesWithAmbientObjects-url] | [![Build Status][tests-CategoriesWithAmbientObjects-img]][tests-CategoriesWithAmbientObjects-url] | [![Code Coverage][codecov-CategoriesWithAmbientObjects-img]][codecov-CategoriesWithAmbientObjects-url] | dev |
 | [CatReps](https://homalg-project.github.io/pkg/CatReps) | Representations and cohomology of finite categories | [![HTML stable documentation][html-CatReps-img]][html-CatReps-url] [![PDF stable documentation][pdf-CatReps-img]][pdf-CatReps-url] | [![Build Status][tests-CatReps-img]][tests-CatReps-url] | [![Code Coverage][codecov-CatReps-img]][codecov-CatReps-url] | dev |
@@ -167,6 +168,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-Bicomplexes-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=Bicomplexes
 [codecov-Bicomplexes-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/Bicomplexes
+
+[html-CartesianCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-CartesianCategories-url]: https://homalg-project.github.io/CAP_project/CartesianCategories/doc/chap0_mj.html
+
+[pdf-CartesianCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-CartesianCategories-url]: https://homalg-project.github.io/CAP_project/CartesianCategories/download_pdf.html
+
+[tests-CartesianCategories-img]: https://github.com/homalg-project/CAP_project/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-CartesianCategories-url]: https://github.com/homalg-project/CAP_project/actions/workflows/Tests.yml?query=branch%3Amaster
+
+[codecov-CartesianCategories-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=CartesianCategories
+[codecov-CartesianCategories-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/CartesianCategories
 
 [html-CategoryConstructor-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-CategoryConstructor-url]: https://homalg-project.github.io/CategoryConstructor/doc/chap0_mj.html
