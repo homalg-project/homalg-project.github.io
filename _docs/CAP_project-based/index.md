@@ -184,16 +184,16 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-CartesianCategories-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/CartesianCategories
 
 [html-CategoryConstructor-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-CategoryConstructor-url]: https://homalg-project.github.io/CategoryConstructor/doc/chap0_mj.html
+[html-CategoryConstructor-url]: https://homalg-project.github.io/CategoricalTowers/CategoryConstructor/doc/chap0_mj.html
 
 [pdf-CategoryConstructor-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-CategoryConstructor-url]: https://homalg-project.github.io/CategoryConstructor/download_pdf.html
+[pdf-CategoryConstructor-url]: https://homalg-project.github.io/CategoricalTowers/CategoryConstructor/download_pdf.html
 
-[tests-CategoryConstructor-img]: https://github.com/homalg-project/CategoryConstructor/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-CategoryConstructor-url]: https://github.com/homalg-project/CategoryConstructor/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-CategoryConstructor-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-CategoryConstructor-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-CategoryConstructor-img]: https://codecov.io/gh/homalg-project/CategoryConstructor/branch/master/graph/badge.svg
-[codecov-CategoryConstructor-url]: https://codecov.io/gh/homalg-project/CategoryConstructor
+[codecov-CategoryConstructor-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=CategoryConstructor
+[codecov-CategoryConstructor-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/CategoryConstructor
 
 [html-CategoriesWithAmbientObjects-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-CategoriesWithAmbientObjects-url]: https://homalg-project.github.io/CategoriesWithAmbientObjects/doc/chap0_mj.html
@@ -486,16 +486,16 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-IntrinsicModules-url]: https://codecov.io/gh/homalg-project/IntrinsicModules
 
 [html-LazyCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-LazyCategories-url]: https://homalg-project.github.io/LazyCategories/doc/chap0_mj.html
+[html-LazyCategories-url]: https://homalg-project.github.io/CategoricalTowers/LazyCategories/doc/chap0_mj.html
 
 [pdf-LazyCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-LazyCategories-url]: https://homalg-project.github.io/LazyCategories/download_pdf.html
+[pdf-LazyCategories-url]: https://homalg-project.github.io/CategoricalTowers/LazyCategories/download_pdf.html
 
-[tests-LazyCategories-img]: https://github.com/homalg-project/LazyCategories/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-LazyCategories-url]: https://github.com/homalg-project/LazyCategories/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-LazyCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-LazyCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-LazyCategories-img]: https://codecov.io/gh/homalg-project/LazyCategories/branch/master/graph/badge.svg
-[codecov-LazyCategories-url]: https://codecov.io/gh/homalg-project/LazyCategories
+[codecov-LazyCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=LazyCategories
+[codecov-LazyCategories-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/LazyCategories
 
 [html-LinearAlgebraForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-LinearAlgebraForCAP-url]: https://homalg-project.github.io/CAP_project/LinearAlgebraForCAP/doc/chap0_mj.html
@@ -512,16 +512,16 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [deposited-LinearAlgebraForCAP-url]: https://www.gap-system.org/Packages/linearalgebraforcap.html
 
 [html-Locales-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-Locales-url]: https://homalg-project.github.io/Locales/doc/chap0_mj.html
+[html-Locales-url]: https://homalg-project.github.io/CategoricalTowers/Locales/doc/chap0_mj.html
 
 [pdf-Locales-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-Locales-url]: https://homalg-project.github.io/Locales/download_pdf.html
+[pdf-Locales-url]: https://homalg-project.github.io/CategoricalTowers/Locales/download_pdf.html
 
-[tests-Locales-img]: https://github.com/homalg-project/Locales/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-Locales-url]: https://github.com/homalg-project/Locales/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-Locales-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-Locales-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-Locales-img]: https://codecov.io/gh/homalg-project/Locales/branch/master/graph/badge.svg
-[codecov-Locales-url]: https://codecov.io/gh/homalg-project/Locales
+[codecov-Locales-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=Locales
+[codecov-Locales-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/Locales
 
 [html-ModulePresentationsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ModulePresentationsForCAP-url]: https://homalg-project.github.io/CAP_project/ModulePresentationsForCAP/doc/chap0_mj.html
@@ -600,28 +600,28 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-StableCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/StableCategories
 
 [html-SubcategoriesForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-SubcategoriesForCAP-url]: https://homalg-project.github.io/SubcategoriesForCAP/doc/chap0_mj.html
+[html-SubcategoriesForCAP-url]: https://homalg-project.github.io/CategoricalTowers/SubcategoriesForCAP/doc/chap0_mj.html
 
 [pdf-SubcategoriesForCAP-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-SubcategoriesForCAP-url]: https://homalg-project.github.io/SubcategoriesForCAP/download_pdf.html
+[pdf-SubcategoriesForCAP-url]: https://homalg-project.github.io/CategoricalTowers/SubcategoriesForCAP/download_pdf.html
 
-[tests-SubcategoriesForCAP-img]: https://github.com/homalg-project/SubcategoriesForCAP/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-SubcategoriesForCAP-url]: https://github.com/homalg-project/SubcategoriesForCAP/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-SubcategoriesForCAP-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-SubcategoriesForCAP-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-SubcategoriesForCAP-img]: https://codecov.io/gh/homalg-project/SubcategoriesForCAP/branch/master/graph/badge.svg
-[codecov-SubcategoriesForCAP-url]: https://codecov.io/gh/homalg-project/SubcategoriesForCAP
+[codecov-SubcategoriesForCAP-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=SubcategoriesForCAP
+[codecov-SubcategoriesForCAP-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/SubcategoriesForCAP
 
 [html-Toposes-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-Toposes-url]: https://homalg-project.github.io/Toposes/doc/chap0_mj.html
+[html-Toposes-url]: https://homalg-project.github.io/CategoricalTowers/Toposes/doc/chap0_mj.html
 
 [pdf-Toposes-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-Toposes-url]: https://homalg-project.github.io/Toposes/download_pdf.html
+[pdf-Toposes-url]: https://homalg-project.github.io/CategoricalTowers/Toposes/download_pdf.html
 
-[tests-Toposes-img]: https://github.com/homalg-project/Toposes/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-Toposes-url]: https://github.com/homalg-project/Toposes/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-Toposes-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-Toposes-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-Toposes-img]: https://codecov.io/gh/homalg-project/Toposes/branch/master/graph/badge.svg
-[codecov-Toposes-url]: https://codecov.io/gh/homalg-project/Toposes
+[codecov-Toposes-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=Toposes
+[codecov-Toposes-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/Toposes
 
 [html-ToricSheaves-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ToricSheaves-url]: https://homalg-project.github.io/CAP_project/ToricSheaves/doc/chap0_mj.html
@@ -648,16 +648,16 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-TriangulatedCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/TriangulatedCategories
 
 [html-ZariskiFrames-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-ZariskiFrames-url]: https://homalg-project.github.io/ZariskiFrames/doc/chap0_mj.html
+[html-ZariskiFrames-url]: https://homalg-project.github.io/CategoricalTowers/ZariskiFrames/doc/chap0_mj.html
 
 [pdf-ZariskiFrames-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-ZariskiFrames-url]: https://homalg-project.github.io/ZariskiFrames/download_pdf.html
+[pdf-ZariskiFrames-url]: https://homalg-project.github.io/CategoricalTowers/ZariskiFrames/download_pdf.html
 
-[tests-ZariskiFrames-img]: https://github.com/homalg-project/ZariskiFrames/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-ZariskiFrames-url]: https://github.com/homalg-project/ZariskiFrames/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-ZariskiFrames-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-ZariskiFrames-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-ZariskiFrames-img]: https://codecov.io/gh/homalg-project/ZariskiFrames/branch/master/graph/badge.svg
-[codecov-ZariskiFrames-url]: https://codecov.io/gh/homalg-project/ZariskiFrames
+[codecov-ZariskiFrames-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=ZariskiFrames
+[codecov-ZariskiFrames-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/ZariskiFrames
 
 <!-- END CAP_project USED_BY -->
 
