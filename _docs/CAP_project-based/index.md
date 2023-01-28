@@ -112,16 +112,16 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [deposited-CAP-url]: https://www.gap-system.org/Packages/cap.html
 
 [html-Algebroids-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-Algebroids-url]: https://homalg-project.github.io/Algebroids/doc/chap0_mj.html
+[html-Algebroids-url]: https://homalg-project.github.io/CategoricalTowers/Algebroids/doc/chap0_mj.html
 
 [pdf-Algebroids-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-Algebroids-url]: https://homalg-project.github.io/Algebroids/download_pdf.html
+[pdf-Algebroids-url]: https://homalg-project.github.io/CategoricalTowers/Algebroids/download_pdf.html
 
-[tests-Algebroids-img]: https://github.com/homalg-project/Algebroids/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-Algebroids-url]: https://github.com/homalg-project/Algebroids/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-Algebroids-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-Algebroids-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-Algebroids-img]: https://codecov.io/gh/homalg-project/Algebroids/branch/master/graph/badge.svg
-[codecov-Algebroids-url]: https://codecov.io/gh/homalg-project/Algebroids
+[codecov-Algebroids-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=Algebroids
+[codecov-Algebroids-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/Algebroids
 
 [html-ActionsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ActionsForCAP-url]: https://homalg-project.github.io/CAP_project/ActionsForCAP/doc/chap0_mj.html
@@ -196,28 +196,28 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-CategoryConstructor-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/CategoryConstructor
 
 [html-CategoriesWithAmbientObjects-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-CategoriesWithAmbientObjects-url]: https://homalg-project.github.io/CategoriesWithAmbientObjects/doc/chap0_mj.html
+[html-CategoriesWithAmbientObjects-url]: https://homalg-project.github.io/CategoricalTowers/CategoriesWithAmbientObjects/doc/chap0_mj.html
 
 [pdf-CategoriesWithAmbientObjects-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-CategoriesWithAmbientObjects-url]: https://homalg-project.github.io/CategoriesWithAmbientObjects/download_pdf.html
+[pdf-CategoriesWithAmbientObjects-url]: https://homalg-project.github.io/CategoricalTowers/CategoriesWithAmbientObjects/download_pdf.html
 
-[tests-CategoriesWithAmbientObjects-img]: https://github.com/homalg-project/CategoriesWithAmbientObjects/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-CategoriesWithAmbientObjects-url]: https://github.com/homalg-project/CategoriesWithAmbientObjects/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-CategoriesWithAmbientObjects-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-CategoriesWithAmbientObjects-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-CategoriesWithAmbientObjects-img]: https://codecov.io/gh/homalg-project/CategoriesWithAmbientObjects/branch/master/graph/badge.svg
-[codecov-CategoriesWithAmbientObjects-url]: https://codecov.io/gh/homalg-project/CategoriesWithAmbientObjects
+[codecov-CategoriesWithAmbientObjects-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=CategoriesWithAmbientObjects
+[codecov-CategoriesWithAmbientObjects-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/CategoriesWithAmbientObjects
 
 [html-CatReps-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-CatReps-url]: https://homalg-project.github.io/CatReps/doc/chap0_mj.html
+[html-CatReps-url]: https://homalg-project.github.io/CategoricalTowers/CatReps/doc/chap0_mj.html
 
 [pdf-CatReps-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-CatReps-url]: https://homalg-project.github.io/CatReps/download_pdf.html
+[pdf-CatReps-url]: https://homalg-project.github.io/CategoricalTowers/CatReps/download_pdf.html
 
-[tests-CatReps-img]: https://github.com/homalg-project/CatReps/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-CatReps-url]: https://github.com/homalg-project/CatReps/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-CatReps-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-CatReps-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-CatReps-img]: https://codecov.io/gh/homalg-project/CatReps/branch/master/graph/badge.svg
-[codecov-CatReps-url]: https://codecov.io/gh/homalg-project/CatReps
+[codecov-CatReps-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=CatReps
+[codecov-CatReps-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/CatReps
 
 [html-CompilerForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-CompilerForCAP-url]: https://homalg-project.github.io/CAP_project/CompilerForCAP/doc/chap0_mj.html
@@ -280,16 +280,16 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-DerivedCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/DerivedCategories
 
 [html-ExteriorPowersCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-ExteriorPowersCategories-url]: https://homalg-project.github.io/ExteriorPowersCategories/doc/chap0_mj.html
+[html-ExteriorPowersCategories-url]: https://homalg-project.github.io/CategoricalTowers/ExteriorPowersCategories/doc/chap0_mj.html
 
 [pdf-ExteriorPowersCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-ExteriorPowersCategories-url]: https://homalg-project.github.io/ExteriorPowersCategories/download_pdf.html
+[pdf-ExteriorPowersCategories-url]: https://homalg-project.github.io/CategoricalTowers/ExteriorPowersCategories/download_pdf.html
 
-[tests-ExteriorPowersCategories-img]: https://github.com/homalg-project/ExteriorPowersCategories/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-ExteriorPowersCategories-url]: https://github.com/homalg-project/ExteriorPowersCategories/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-ExteriorPowersCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-ExteriorPowersCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-ExteriorPowersCategories-img]: https://codecov.io/gh/homalg-project/ExteriorPowersCategories/branch/master/graph/badge.svg
-[codecov-ExteriorPowersCategories-url]: https://codecov.io/gh/homalg-project/ExteriorPowersCategories
+[codecov-ExteriorPowersCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=ExteriorPowersCategories
+[codecov-ExteriorPowersCategories-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/ExteriorPowersCategories
 
 [html-FinSetsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-FinSetsForCAP-url]: https://homalg-project.github.io/FinSetsForCAP/doc/chap0_mj.html
@@ -340,16 +340,16 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-FreydCategoriesForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/FreydCategoriesForCAP
 
 [html-FunctorCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-FunctorCategories-url]: https://homalg-project.github.io/FunctorCategories/doc/chap0_mj.html
+[html-FunctorCategories-url]: https://homalg-project.github.io/CategoricalTowers/FunctorCategories/doc/chap0_mj.html
 
 [pdf-FunctorCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-FunctorCategories-url]: https://homalg-project.github.io/FunctorCategories/download_pdf.html
+[pdf-FunctorCategories-url]: https://homalg-project.github.io/CategoricalTowers/FunctorCategories/download_pdf.html
 
-[tests-FunctorCategories-img]: https://github.com/homalg-project/FunctorCategories/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-FunctorCategories-url]: https://github.com/homalg-project/FunctorCategories/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-FunctorCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-FunctorCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-FunctorCategories-img]: https://codecov.io/gh/homalg-project/FunctorCategories/branch/master/graph/badge.svg
-[codecov-FunctorCategories-url]: https://codecov.io/gh/homalg-project/FunctorCategories
+[codecov-FunctorCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=FunctorCategories
+[codecov-FunctorCategories-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/FunctorCategories
 
 [html-GeneralizedMorphismsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-GeneralizedMorphismsForCAP-url]: https://homalg-project.github.io/CAP_project/GeneralizedMorphismsForCAP/doc/chap0_mj.html
@@ -366,16 +366,16 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [deposited-GeneralizedMorphismsForCAP-url]: https://www.gap-system.org/Packages/generalizedmorphismsforcap.html
 
 [html-GradedCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-GradedCategories-url]: https://homalg-project.github.io/GradedCategories/doc/chap0_mj.html
+[html-GradedCategories-url]: https://homalg-project.github.io/CategoricalTowers/GradedCategories/doc/chap0_mj.html
 
 [pdf-GradedCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-GradedCategories-url]: https://homalg-project.github.io/GradedCategories/download_pdf.html
+[pdf-GradedCategories-url]: https://homalg-project.github.io/CategoricalTowers/GradedCategories/download_pdf.html
 
-[tests-GradedCategories-img]: https://github.com/homalg-project/GradedCategories/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-GradedCategories-url]: https://github.com/homalg-project/GradedCategories/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-GradedCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-GradedCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-GradedCategories-img]: https://codecov.io/gh/homalg-project/GradedCategories/branch/master/graph/badge.svg
-[codecov-GradedCategories-url]: https://codecov.io/gh/homalg-project/GradedCategories
+[codecov-GradedCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=GradedCategories
+[codecov-GradedCategories-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/GradedCategories
 
 [html-GradedModulePresentationsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-GradedModulePresentationsForCAP-url]: https://homalg-project.github.io/CAP_project/GradedModulePresentationsForCAP/doc/chap0_mj.html
@@ -438,52 +438,52 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-InternalExteriorAlgebraForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/InternalExteriorAlgebraForCAP
 
 [html-InternalModules-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-InternalModules-url]: https://homalg-project.github.io/InternalModules/doc/chap0_mj.html
+[html-InternalModules-url]: https://homalg-project.github.io/CategoricalTowers/InternalModules/doc/chap0_mj.html
 
 [pdf-InternalModules-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-InternalModules-url]: https://homalg-project.github.io/InternalModules/download_pdf.html
+[pdf-InternalModules-url]: https://homalg-project.github.io/CategoricalTowers/InternalModules/download_pdf.html
 
-[tests-InternalModules-img]: https://github.com/homalg-project/InternalModules/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-InternalModules-url]: https://github.com/homalg-project/InternalModules/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-InternalModules-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-InternalModules-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-InternalModules-img]: https://codecov.io/gh/homalg-project/InternalModules/branch/master/graph/badge.svg
-[codecov-InternalModules-url]: https://codecov.io/gh/homalg-project/InternalModules
+[codecov-InternalModules-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=InternalModules
+[codecov-InternalModules-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/InternalModules
 
 [html-IntrinsicCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-IntrinsicCategories-url]: https://homalg-project.github.io/IntrinsicCategories/doc/chap0_mj.html
+[html-IntrinsicCategories-url]: https://homalg-project.github.io/CategoricalTowers/IntrinsicCategories/doc/chap0_mj.html
 
 [pdf-IntrinsicCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-IntrinsicCategories-url]: https://homalg-project.github.io/IntrinsicCategories/download_pdf.html
+[pdf-IntrinsicCategories-url]: https://homalg-project.github.io/CategoricalTowers/IntrinsicCategories/download_pdf.html
 
-[tests-IntrinsicCategories-img]: https://github.com/homalg-project/IntrinsicCategories/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-IntrinsicCategories-url]: https://github.com/homalg-project/IntrinsicCategories/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-IntrinsicCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-IntrinsicCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-IntrinsicCategories-img]: https://codecov.io/gh/homalg-project/IntrinsicCategories/branch/master/graph/badge.svg
-[codecov-IntrinsicCategories-url]: https://codecov.io/gh/homalg-project/IntrinsicCategories
+[codecov-IntrinsicCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=IntrinsicCategories
+[codecov-IntrinsicCategories-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/IntrinsicCategories
 
 [html-IntrinsicGradedModules-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-IntrinsicGradedModules-url]: https://homalg-project.github.io/IntrinsicGradedModules/doc/chap0_mj.html
+[html-IntrinsicGradedModules-url]: https://homalg-project.github.io/CategoricalTowers/IntrinsicGradedModules/doc/chap0_mj.html
 
 [pdf-IntrinsicGradedModules-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-IntrinsicGradedModules-url]: https://homalg-project.github.io/IntrinsicGradedModules/download_pdf.html
+[pdf-IntrinsicGradedModules-url]: https://homalg-project.github.io/CategoricalTowers/IntrinsicGradedModules/download_pdf.html
 
-[tests-IntrinsicGradedModules-img]: https://github.com/homalg-project/IntrinsicGradedModules/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-IntrinsicGradedModules-url]: https://github.com/homalg-project/IntrinsicGradedModules/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-IntrinsicGradedModules-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-IntrinsicGradedModules-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-IntrinsicGradedModules-img]: https://codecov.io/gh/homalg-project/IntrinsicGradedModules/branch/master/graph/badge.svg
-[codecov-IntrinsicGradedModules-url]: https://codecov.io/gh/homalg-project/IntrinsicGradedModules
+[codecov-IntrinsicGradedModules-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=IntrinsicGradedModules
+[codecov-IntrinsicGradedModules-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/IntrinsicGradedModules
 
 [html-IntrinsicModules-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-IntrinsicModules-url]: https://homalg-project.github.io/IntrinsicModules/doc/chap0_mj.html
+[html-IntrinsicModules-url]: https://homalg-project.github.io/CategoricalTowers/IntrinsicModules/doc/chap0_mj.html
 
 [pdf-IntrinsicModules-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-IntrinsicModules-url]: https://homalg-project.github.io/IntrinsicModules/download_pdf.html
+[pdf-IntrinsicModules-url]: https://homalg-project.github.io/CategoricalTowers/IntrinsicModules/download_pdf.html
 
-[tests-IntrinsicModules-img]: https://github.com/homalg-project/IntrinsicModules/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-IntrinsicModules-url]: https://github.com/homalg-project/IntrinsicModules/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-IntrinsicModules-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-IntrinsicModules-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-IntrinsicModules-img]: https://codecov.io/gh/homalg-project/IntrinsicModules/branch/master/graph/badge.svg
-[codecov-IntrinsicModules-url]: https://codecov.io/gh/homalg-project/IntrinsicModules
+[codecov-IntrinsicModules-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=IntrinsicModules
+[codecov-IntrinsicModules-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/IntrinsicModules
 
 [html-LazyCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-LazyCategories-url]: https://homalg-project.github.io/CategoricalTowers/LazyCategories/doc/chap0_mj.html
