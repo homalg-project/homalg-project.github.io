@@ -22,9 +22,8 @@ Here you can find an overview of (almost) all packages
 
 [Here](https://github.com/homalg-project/CapAndHomalgNotebooks#readme)
 you can find a list of [Jupyter](https://jupyter.org/) notebooks
-demonstrating the functionality of various
-[GAP](https://www.gap-system.org/) packages hosted at the [GitHub
-organisation homalg-project](https://homalg-project.github.io/), most
+demonstrating the functionality of the various
+[GAP](https://www.gap-system.org/) packages, most
 of which are part on the four projects:
 
 * [homalg_project](https://github.com/homalg-project/homalg_project#readme),
