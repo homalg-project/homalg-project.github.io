@@ -6,7 +6,9 @@ permalink: /
 
 # The GitHub organization homalg-project
 
-The GitHub organization [homalg-project](https://github.com/homalg-project/) hosts several computer algebra packages, most of which are based on the
+The GitHub organization
+[homalg-project](https://github.com/homalg-project/) hosts several
+computer algebra packages, most of which are based on the
 
 * [CAP project](https://github.com/homalg-project/CAP_project#readme) ([swMATH](https://swmath.org/software/27925) entry)
 * [homalg project](https://github.com/homalg-project/homalg_project#readme) ([swMATH](https://swmath.org/software/411) entry)
@@ -16,8 +18,20 @@ Here you can find an overview of (almost) all packages
 * [based on the CAP project](/docs/CAP_project-based/)
 * [based on the homalg project](/docs/homalg_project-based/)
 
-## Notebooks
+## Jupyter notebooks
 
-Some functionality of the packages is demonstrated in the notebooks found [here](https://nbviewer.jupyter.org/github/homalg-project/CapAndHomalgNotebooks/tree/master/). There you can also interactively run the notebooks online by clicking on `Binder`'s three-circle-logo (tooltip `Execute on Binder`) at the top-right corner.
+[Here](https://github.com/homalg-project/CapAndHomalgNotebooks#readme)
+you can find a list of [Jupyter](https://jupyter.org/) notebooks
+demonstrating the functionality of various
+[GAP](https://www.gap-system.org/) packages hosted at the [GitHub
+organisation homalg-project](https://homalg-project.github.io/), most
+of which are part on the four projects:
 
-For more details see [here](/docs/notebooks).
+* [homalg_project](https://github.com/homalg-project/homalg_project#readme),
+* [CAP_project](https://github.com/homalg-project/CAP_project#readme),
+* [CategoricalTowers](https://github.com/homalg-project/CategoricalTowers#readme),
+* [HigherHomologicalAlgebra](https://github.com/homalg-project/HigherHomologicalAlgebra#readme).
+
+All these [GAP](https://www.gap-system.org/) packages can be accessed
+through the [Julia](https://julialang.org/) package
+[CapAndHomalg](https://github.com/homalg-project/CapAndHomalg.jl#readme).
