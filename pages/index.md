@@ -31,6 +31,6 @@ of which are part on the four projects:
 * [CategoricalTowers](https://github.com/homalg-project/CategoricalTowers#readme),
 * [HigherHomologicalAlgebra](https://github.com/homalg-project/HigherHomologicalAlgebra#readme).
 
-All these [GAP](https://www.gap-system.org/) packages can be accessed
+All included [GAP](https://www.gap-system.org/) packages can be accessed
 through the [Julia](https://julialang.org/) package
 [CapAndHomalg](https://github.com/homalg-project/CapAndHomalg.jl#readme).
