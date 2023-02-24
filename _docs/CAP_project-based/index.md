@@ -74,6 +74,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [GradedCategories](https://homalg-project.github.io/pkg/GradedCategories) | Graded closures of categories | [![HTML stable documentation][html-GradedCategories-img]][html-GradedCategories-url] [![PDF stable documentation][pdf-GradedCategories-img]][pdf-GradedCategories-url] | [![Build Status][tests-GradedCategories-img]][tests-GradedCategories-url] | [![Code Coverage][codecov-GradedCategories-img]][codecov-GradedCategories-url] | dev |
 | [GradedModulePresentationsForCAP](https://homalg-project.github.io/pkg/GradedModulePresentationsForCAP) | Presentations for graded modules | [![HTML stable documentation][html-GradedModulePresentationsForCAP-img]][html-GradedModulePresentationsForCAP-url] [![PDF stable documentation][pdf-GradedModulePresentationsForCAP-img]][pdf-GradedModulePresentationsForCAP-url] | [![Build Status][tests-GradedModulePresentationsForCAP-img]][tests-GradedModulePresentationsForCAP-url] | [![Code Coverage][codecov-GradedModulePresentationsForCAP-img]][codecov-GradedModulePresentationsForCAP-url] | dev |
 | [GroupRepresentationsForCAP](https://homalg-project.github.io/pkg/GroupRepresentationsForCAP) | Skeletal category of group representations for CAP | [![HTML stable documentation][html-GroupRepresentationsForCAP-img]][html-GroupRepresentationsForCAP-url] [![PDF stable documentation][pdf-GroupRepresentationsForCAP-img]][pdf-GroupRepresentationsForCAP-url] | [![Build Status][tests-GroupRepresentationsForCAP-img]][tests-GroupRepresentationsForCAP-url] | [![Code Coverage][codecov-GroupRepresentationsForCAP-img]][codecov-GroupRepresentationsForCAP-url] | dev |
+| [HeckeCategories](https://homalg-project.github.io/pkg/HeckeCategories) | Categorification of Hecke algebras | [![HTML stable documentation][html-HeckeCategories-img]][html-HeckeCategories-url] [![PDF stable documentation][pdf-HeckeCategories-img]][pdf-HeckeCategories-url] | [![Build Status][tests-HeckeCategories-img]][tests-HeckeCategories-url] | [![Code Coverage][codecov-HeckeCategories-img]][codecov-HeckeCategories-url] | dev |
 | [HomologicalAlgebraForCAP](https://homalg-project.github.io/pkg/HomologicalAlgebraForCAP) | Homological algebra algorithms for CAP | [![HTML stable documentation][html-HomologicalAlgebraForCAP-img]][html-HomologicalAlgebraForCAP-url] [![PDF stable documentation][pdf-HomologicalAlgebraForCAP-img]][pdf-HomologicalAlgebraForCAP-url] | [![Build Status][tests-HomologicalAlgebraForCAP-img]][tests-HomologicalAlgebraForCAP-url] | [![Code Coverage][codecov-HomologicalAlgebraForCAP-img]][codecov-HomologicalAlgebraForCAP-url] | dev |
 | [HomotopyCategories](https://homalg-project.github.io/pkg/HomotopyCategories) | Homotopy categories of additive categories | [![HTML stable documentation][html-HomotopyCategories-img]][html-HomotopyCategories-url] [![PDF stable documentation][pdf-HomotopyCategories-img]][pdf-HomotopyCategories-url] | [![Build Status][tests-HomotopyCategories-img]][tests-HomotopyCategories-url] | [![Code Coverage][codecov-HomotopyCategories-img]][codecov-HomotopyCategories-url] | dev |
 | [InternalExteriorAlgebraForCAP](https://homalg-project.github.io/pkg/InternalExteriorAlgebraForCAP) | Constructions for Modules over the Internal Exterior Algebra for CAP | [![HTML stable documentation][html-InternalExteriorAlgebraForCAP-img]][html-InternalExteriorAlgebraForCAP-url] [![PDF stable documentation][pdf-InternalExteriorAlgebraForCAP-img]][pdf-InternalExteriorAlgebraForCAP-url] | [![Build Status][tests-InternalExteriorAlgebraForCAP-img]][tests-InternalExteriorAlgebraForCAP-url] | [![Code Coverage][codecov-InternalExteriorAlgebraForCAP-img]][codecov-InternalExteriorAlgebraForCAP-url] | dev |
@@ -400,6 +401,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-GroupRepresentationsForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=GroupRepresentationsForCAP
 [codecov-GroupRepresentationsForCAP-url]: https://codecov.io/gh/homalg-project/CAP_project/tree/master/GroupRepresentationsForCAP
+
+[html-HeckeCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-HeckeCategories-url]: https://homalg-project.github.io/HeckeCategories/doc/chap0_mj.html
+
+[pdf-HeckeCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-HeckeCategories-url]: https://homalg-project.github.io/HeckeCategories/download_pdf.html
+
+[tests-HeckeCategories-img]: https://github.com/homalg-project/HeckeCategories/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-HeckeCategories-url]: https://github.com/homalg-project/HeckeCategories/actions/workflows/Tests.yml?query=branch%3Amaster
+
+[codecov-HeckeCategories-img]: https://codecov.io/gh/homalg-project/HeckeCategories/branch/master/graph/badge.svg
+[codecov-HeckeCategories-url]: https://codecov.io/gh/homalg-project/HeckeCategories
 
 [html-HomologicalAlgebraForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-HomologicalAlgebraForCAP-url]: https://homalg-project.github.io/CAP_project/HomologicalAlgebraForCAP/doc/chap0_mj.html
