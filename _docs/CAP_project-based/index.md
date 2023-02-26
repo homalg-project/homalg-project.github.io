@@ -64,6 +64,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [ComplexesCategories](https://homalg-project.github.io/pkg/ComplexesCategories) | Category of (co)chain complexes of an additive category | [![HTML stable documentation][html-ComplexesCategories-img]][html-ComplexesCategories-url] [![PDF stable documentation][pdf-ComplexesCategories-img]][pdf-ComplexesCategories-url] | [![Build Status][tests-ComplexesCategories-img]][tests-ComplexesCategories-url] | [![Code Coverage][codecov-ComplexesCategories-img]][codecov-ComplexesCategories-url] | dev |
 | [DeductiveSystemForCAP](https://homalg-project.github.io/pkg/DeductiveSystemForCAP) | Deductive system for CAP | [![HTML stable documentation][html-DeductiveSystemForCAP-img]][html-DeductiveSystemForCAP-url] [![PDF stable documentation][pdf-DeductiveSystemForCAP-img]][pdf-DeductiveSystemForCAP-url] | [![Build Status][tests-DeductiveSystemForCAP-img]][tests-DeductiveSystemForCAP-url] | [![Code Coverage][codecov-DeductiveSystemForCAP-img]][codecov-DeductiveSystemForCAP-url] | dev |
 | [DerivedCategories](https://homalg-project.github.io/pkg/DerivedCategories) | Derived categories of Abelian categories | [![HTML stable documentation][html-DerivedCategories-img]][html-DerivedCategories-url] [![PDF stable documentation][pdf-DerivedCategories-img]][pdf-DerivedCategories-url] | [![Build Status][tests-DerivedCategories-img]][tests-DerivedCategories-url] | [![Code Coverage][codecov-DerivedCategories-img]][codecov-DerivedCategories-url] | dev |
+| [DiscreteCategories](https://homalg-project.github.io/pkg/DiscreteCategories) | Discrete categories | [![HTML stable documentation][html-DiscreteCategories-img]][html-DiscreteCategories-url] [![PDF stable documentation][pdf-DiscreteCategories-img]][pdf-DiscreteCategories-url] | [![Build Status][tests-DiscreteCategories-img]][tests-DiscreteCategories-url] | [![Code Coverage][codecov-DiscreteCategories-img]][codecov-DiscreteCategories-url] | dev |
 | [ExteriorPowersCategories](https://homalg-project.github.io/pkg/ExteriorPowersCategories) | The graded category of exterior powers of objects of a given Ab-category | [![HTML stable documentation][html-ExteriorPowersCategories-img]][html-ExteriorPowersCategories-url] [![PDF stable documentation][pdf-ExteriorPowersCategories-img]][pdf-ExteriorPowersCategories-url] | [![Build Status][tests-ExteriorPowersCategories-img]][tests-ExteriorPowersCategories-url] | [![Code Coverage][codecov-ExteriorPowersCategories-img]][codecov-ExteriorPowersCategories-url] | dev |
 | [FinSetsForCAP](https://homalg-project.github.io/pkg/FinSetsForCAP) | The elementary topos of (skeletal) finite sets | [![HTML stable documentation][html-FinSetsForCAP-img]][html-FinSetsForCAP-url] [![PDF stable documentation][pdf-FinSetsForCAP-img]][pdf-FinSetsForCAP-url] | [![Build Status][tests-FinSetsForCAP-img]][tests-FinSetsForCAP-url] | [![Code Coverage][codecov-FinSetsForCAP-img]][codecov-FinSetsForCAP-url] | dev |
 | [FinGSetsForCAP](https://homalg-project.github.io/pkg/FinGSetsForCAP) | The elementary topos of (skeletal) finite G-sets | [![HTML stable documentation][html-FinGSetsForCAP-img]][html-FinGSetsForCAP-url] [![PDF stable documentation][pdf-FinGSetsForCAP-img]][pdf-FinGSetsForCAP-url] | [![Build Status][tests-FinGSetsForCAP-img]][tests-FinGSetsForCAP-url] | [![Code Coverage][codecov-FinGSetsForCAP-img]][codecov-FinGSetsForCAP-url] | dev |
@@ -279,6 +280,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-DerivedCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=DerivedCategories
 [codecov-DerivedCategories-url]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/DerivedCategories
+
+[html-DiscreteCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-DiscreteCategories-url]: https://homalg-project.github.io/CategoricalTowers/DiscreteCategories/doc/chap0_mj.html
+
+[pdf-DiscreteCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-DiscreteCategories-url]: https://homalg-project.github.io/CategoricalTowers/DiscreteCategories/download_pdf.html
+
+[tests-DiscreteCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-DiscreteCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
+
+[codecov-DiscreteCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=DiscreteCategories
+[codecov-DiscreteCategories-url]: https://codecov.io/gh/homalg-project/CategoricalTowers/tree/master/DiscreteCategories
 
 [html-ExteriorPowersCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ExteriorPowersCategories-url]: https://homalg-project.github.io/CategoricalTowers/ExteriorPowersCategories/doc/chap0_mj.html
