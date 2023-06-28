@@ -97,6 +97,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [ToricSheaves](https://homalg-project.github.io/pkg/ToricSheaves) | Toric sheaves as Serre quotients | [![HTML stable documentation][html-ToricSheaves-img]][html-ToricSheaves-url] [![PDF stable documentation][pdf-ToricSheaves-img]][pdf-ToricSheaves-url] | [![Build Status][tests-ToricSheaves-img]][tests-ToricSheaves-url] | [![Code Coverage][codecov-ToricSheaves-img]][codecov-ToricSheaves-url] | dev |
 | [TriangulatedCategories](https://homalg-project.github.io/pkg/TriangulatedCategories) | Framework for triangulated categories | [![HTML stable documentation][html-TriangulatedCategories-img]][html-TriangulatedCategories-url] [![PDF stable documentation][pdf-TriangulatedCategories-img]][pdf-TriangulatedCategories-url] | [![Build Status][tests-TriangulatedCategories-img]][tests-TriangulatedCategories-url] | [![Code Coverage][codecov-TriangulatedCategories-img]][codecov-TriangulatedCategories-url] | dev |
 | [ZariskiFrames](https://homalg-project.github.io/pkg/ZariskiFrames) | (Co)frames/Locales of Zariski closed/open subsets of affine, projective, or toric varieties | [![HTML stable documentation][html-ZariskiFrames-img]][html-ZariskiFrames-url] [![PDF stable documentation][pdf-ZariskiFrames-img]][pdf-ZariskiFrames-url] | [![Build Status][tests-ZariskiFrames-img]][tests-ZariskiFrames-url] | [![Code Coverage][codecov-ZariskiFrames-img]][codecov-ZariskiFrames-url] | dev |
+| [ZXCalculusForCAP](https://homalg-project.github.io/pkg/ZXCalculusForCAP) | The category of ZX-diagrams | [![HTML stable documentation][html-ZXCalculusForCAP-img]][html-ZXCalculusForCAP-url] [![PDF stable documentation][pdf-ZXCalculusForCAP-img]][pdf-ZXCalculusForCAP-url] | [![Build Status][tests-ZXCalculusForCAP-img]][tests-ZXCalculusForCAP-url] | [![Code Coverage][codecov-ZXCalculusForCAP-img]][codecov-ZXCalculusForCAP-url] | dev |
 
 [html-CAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-CAP-url]: https://homalg-project.github.io/CAP_project/CAP/doc/chap0_mj.html
@@ -671,6 +672,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-ZariskiFrames-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=ZariskiFrames
 [codecov-ZariskiFrames-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/ZariskiFrames
+
+[html-ZXCalculusForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-ZXCalculusForCAP-url]: https://homalg-project.github.io/ZXCalculusForCAP/doc/chap0_mj.html
+
+[pdf-ZXCalculusForCAP-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-ZXCalculusForCAP-url]: https://homalg-project.github.io/ZXCalculusForCAP/download_pdf.html
+
+[tests-ZXCalculusForCAP-img]: https://github.com/homalg-project/ZXCalculusForCAP/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-ZXCalculusForCAP-url]: https://github.com/homalg-project/ZXCalculusForCAP/actions/workflows/Tests.yml?query=branch%3Amaster
+
+[codecov-ZXCalculusForCAP-img]: https://codecov.io/gh/homalg-project/ZXCalculusForCAP/branch/master/graph/badge.svg
+[codecov-ZXCalculusForCAP-url]: https://app.codecov.io/gh/homalg-project/ZXCalculusForCAP
 
 <!-- END CAP_project USED_BY -->
 
