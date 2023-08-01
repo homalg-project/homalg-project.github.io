@@ -62,7 +62,6 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [CompilerForCAP](https://homalg-project.github.io/pkg/CompilerForCAP) | Speed up computations in CAP categories | [![HTML stable documentation][html-CompilerForCAP-img]][html-CompilerForCAP-url] [![PDF stable documentation][pdf-CompilerForCAP-img]][pdf-CompilerForCAP-url] | [![Build Status][tests-CompilerForCAP-img]][tests-CompilerForCAP-url] | [![Code Coverage][codecov-CompilerForCAP-img]][codecov-CompilerForCAP-url] | dev |
 | [ComplexesAndFilteredObjectsForCAP](https://homalg-project.github.io/pkg/ComplexesAndFilteredObjectsForCAP) | Implementation of complexes, cocomplexes and filtered objects for CAP | [![HTML stable documentation][html-ComplexesAndFilteredObjectsForCAP-img]][html-ComplexesAndFilteredObjectsForCAP-url] [![PDF stable documentation][pdf-ComplexesAndFilteredObjectsForCAP-img]][pdf-ComplexesAndFilteredObjectsForCAP-url] | [![Build Status][tests-ComplexesAndFilteredObjectsForCAP-img]][tests-ComplexesAndFilteredObjectsForCAP-url] | [![Code Coverage][codecov-ComplexesAndFilteredObjectsForCAP-img]][codecov-ComplexesAndFilteredObjectsForCAP-url] | dev |
 | [ComplexesCategories](https://homalg-project.github.io/pkg/ComplexesCategories) | Category of (co)chain complexes of an additive category | [![HTML stable documentation][html-ComplexesCategories-img]][html-ComplexesCategories-url] [![PDF stable documentation][pdf-ComplexesCategories-img]][pdf-ComplexesCategories-url] | [![Build Status][tests-ComplexesCategories-img]][tests-ComplexesCategories-url] | [![Code Coverage][codecov-ComplexesCategories-img]][codecov-ComplexesCategories-url] | dev |
-| [DeductiveSystemForCAP](https://homalg-project.github.io/pkg/DeductiveSystemForCAP) | Deductive system for CAP | [![HTML stable documentation][html-DeductiveSystemForCAP-img]][html-DeductiveSystemForCAP-url] [![PDF stable documentation][pdf-DeductiveSystemForCAP-img]][pdf-DeductiveSystemForCAP-url] | [![Build Status][tests-DeductiveSystemForCAP-img]][tests-DeductiveSystemForCAP-url] | [![Code Coverage][codecov-DeductiveSystemForCAP-img]][codecov-DeductiveSystemForCAP-url] | dev |
 | [DerivedCategories](https://homalg-project.github.io/pkg/DerivedCategories) | Derived categories of Abelian categories | [![HTML stable documentation][html-DerivedCategories-img]][html-DerivedCategories-url] [![PDF stable documentation][pdf-DerivedCategories-img]][pdf-DerivedCategories-url] | [![Build Status][tests-DerivedCategories-img]][tests-DerivedCategories-url] | [![Code Coverage][codecov-DerivedCategories-img]][codecov-DerivedCategories-url] | dev |
 | [ExteriorPowersCategories](https://homalg-project.github.io/pkg/ExteriorPowersCategories) | The graded category of exterior powers of objects of a given Ab-category | [![HTML stable documentation][html-ExteriorPowersCategories-img]][html-ExteriorPowersCategories-url] [![PDF stable documentation][pdf-ExteriorPowersCategories-img]][pdf-ExteriorPowersCategories-url] | [![Build Status][tests-ExteriorPowersCategories-img]][tests-ExteriorPowersCategories-url] | [![Code Coverage][codecov-ExteriorPowersCategories-img]][codecov-ExteriorPowersCategories-url] | dev |
 | [FinSetsForCAP](https://homalg-project.github.io/pkg/FinSetsForCAP) | The elementary topos of (skeletal) finite sets | [![HTML stable documentation][html-FinSetsForCAP-img]][html-FinSetsForCAP-url] [![PDF stable documentation][pdf-FinSetsForCAP-img]][pdf-FinSetsForCAP-url] | [![Build Status][tests-FinSetsForCAP-img]][tests-FinSetsForCAP-url] | [![Code Coverage][codecov-FinSetsForCAP-img]][codecov-FinSetsForCAP-url] | dev |
@@ -256,18 +255,6 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-ComplexesCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=ComplexesCategories
 [codecov-ComplexesCategories-url]: https://app.codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/ComplexesCategories
-
-[html-DeductiveSystemForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-DeductiveSystemForCAP-url]: https://homalg-project.github.io/CAP_project/DeductiveSystemForCAP/doc/chap0_mj.html
-
-[pdf-DeductiveSystemForCAP-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-DeductiveSystemForCAP-url]: https://homalg-project.github.io/CAP_project/DeductiveSystemForCAP/download_pdf.html
-
-[tests-DeductiveSystemForCAP-img]: https://github.com/homalg-project/CAP_project/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-DeductiveSystemForCAP-url]: https://github.com/homalg-project/CAP_project/actions/workflows/Tests.yml?query=branch%3Amaster
-
-[codecov-DeductiveSystemForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=DeductiveSystemForCAP
-[codecov-DeductiveSystemForCAP-url]: https://app.codecov.io/gh/homalg-project/CAP_project/tree/master/DeductiveSystemForCAP
 
 [html-DerivedCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-DerivedCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/DerivedCategories/doc/chap0_mj.html
