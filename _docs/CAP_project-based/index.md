@@ -577,16 +577,16 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-PreSheaves-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/PreSheaves
 
 [html-QuotientCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-QuotientCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/QuotientCategories/doc/chap0_mj.html
+[html-QuotientCategories-url]: https://homalg-project.github.io/CategoricalTowers/QuotientCategories/doc/chap0_mj.html
 
 [pdf-QuotientCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-QuotientCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/QuotientCategories/download_pdf.html
+[pdf-QuotientCategories-url]: https://homalg-project.github.io/CategoricalTowers/QuotientCategories/download_pdf.html
 
-[tests-QuotientCategories-img]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-QuotientCategories-url]: https://github.com/homalg-project/HigherHomologicalAlgebra/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-QuotientCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-QuotientCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-QuotientCategories-img]: https://codecov.io/gh/homalg-project/HigherHomologicalAlgebra/branch/master/graph/badge.svg?flag=QuotientCategories
-[codecov-QuotientCategories-url]: https://app.codecov.io/gh/homalg-project/HigherHomologicalAlgebra/tree/master/QuotientCategories
+[codecov-QuotientCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=QuotientCategories
+[codecov-QuotientCategories-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/QuotientCategories
 
 [html-StableCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-StableCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/StableCategories/doc/chap0_mj.html
