@@ -56,7 +56,6 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [BBGG](https://homalg-project.github.io/pkg/BBGG) | Beilinson monads and derived categories for coherent sheaves over P^n | [![HTML stable documentation][html-BBGG-img]][html-BBGG-url] [![PDF stable documentation][pdf-BBGG-img]][pdf-BBGG-url] | [![Build Status][tests-BBGG-img]][tests-BBGG-url] | [![Code Coverage][codecov-BBGG-img]][codecov-BBGG-url] | dev |
 | [Bicomplexes](https://homalg-project.github.io/pkg/Bicomplexes) | Bicomplexes for Abelian categories | [![HTML stable documentation][html-Bicomplexes-img]][html-Bicomplexes-url] [![PDF stable documentation][pdf-Bicomplexes-img]][pdf-Bicomplexes-url] | [![Build Status][tests-Bicomplexes-img]][tests-Bicomplexes-url] | [![Code Coverage][codecov-Bicomplexes-img]][codecov-Bicomplexes-url] | dev |
 | [CartesianCategories](https://homalg-project.github.io/pkg/CartesianCategories) | Cartesian and cocartesian categories and various subdoctrines | [![HTML stable documentation][html-CartesianCategories-img]][html-CartesianCategories-url] [![PDF stable documentation][pdf-CartesianCategories-img]][pdf-CartesianCategories-url] | [![Build Status][tests-CartesianCategories-img]][tests-CartesianCategories-url] | [![Code Coverage][codecov-CartesianCategories-img]][codecov-CartesianCategories-url] | dev |
-| [ToolsForCategoricalTowers](https://homalg-project.github.io/pkg/ToolsForCategoricalTowers) | Tools for CategoricalTowers | [![HTML stable documentation][html-ToolsForCategoricalTowers-img]][html-ToolsForCategoricalTowers-url] [![PDF stable documentation][pdf-ToolsForCategoricalTowers-img]][pdf-ToolsForCategoricalTowers-url] | [![Build Status][tests-ToolsForCategoricalTowers-img]][tests-ToolsForCategoricalTowers-url] | [![Code Coverage][codecov-ToolsForCategoricalTowers-img]][codecov-ToolsForCategoricalTowers-url] | dev |
 | [CategoriesWithAmbientObjects](https://homalg-project.github.io/pkg/CategoriesWithAmbientObjects) | Categories with objects having ambient objects | [![HTML stable documentation][html-CategoriesWithAmbientObjects-img]][html-CategoriesWithAmbientObjects-url] [![PDF stable documentation][pdf-CategoriesWithAmbientObjects-img]][pdf-CategoriesWithAmbientObjects-url] | [![Build Status][tests-CategoriesWithAmbientObjects-img]][tests-CategoriesWithAmbientObjects-url] | [![Code Coverage][codecov-CategoriesWithAmbientObjects-img]][codecov-CategoriesWithAmbientObjects-url] | dev |
 | [CatReps](https://homalg-project.github.io/pkg/CatReps) | Representations and cohomology of finite categories | [![HTML stable documentation][html-CatReps-img]][html-CatReps-url] [![PDF stable documentation][pdf-CatReps-img]][pdf-CatReps-url] | [![Build Status][tests-CatReps-img]][tests-CatReps-url] | [![Code Coverage][codecov-CatReps-img]][codecov-CatReps-url] | dev |
 | [CompilerForCAP](https://homalg-project.github.io/pkg/CompilerForCAP) | Speed up computations in CAP categories | [![HTML stable documentation][html-CompilerForCAP-img]][html-CompilerForCAP-url] [![PDF stable documentation][pdf-CompilerForCAP-img]][pdf-CompilerForCAP-url] | [![Build Status][tests-CompilerForCAP-img]][tests-CompilerForCAP-url] | [![Code Coverage][codecov-CompilerForCAP-img]][codecov-CompilerForCAP-url] | dev |
@@ -92,6 +91,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [QuotientCategories](https://homalg-project.github.io/pkg/QuotientCategories) | Quotient categories | [![HTML stable documentation][html-QuotientCategories-img]][html-QuotientCategories-url] [![PDF stable documentation][pdf-QuotientCategories-img]][pdf-QuotientCategories-url] | [![Build Status][tests-QuotientCategories-img]][tests-QuotientCategories-url] | [![Code Coverage][codecov-QuotientCategories-img]][codecov-QuotientCategories-url] | dev |
 | [StableCategories](https://homalg-project.github.io/pkg/StableCategories) | Stable categories of additive categories | [![HTML stable documentation][html-StableCategories-img]][html-StableCategories-url] [![PDF stable documentation][pdf-StableCategories-img]][pdf-StableCategories-url] | [![Build Status][tests-StableCategories-img]][tests-StableCategories-url] | [![Code Coverage][codecov-StableCategories-img]][codecov-StableCategories-url] | dev |
 | [SubcategoriesForCAP](https://homalg-project.github.io/pkg/SubcategoriesForCAP) | Subcategory and other related constructors for CAP categories | [![HTML stable documentation][html-SubcategoriesForCAP-img]][html-SubcategoriesForCAP-url] [![PDF stable documentation][pdf-SubcategoriesForCAP-img]][pdf-SubcategoriesForCAP-url] | [![Build Status][tests-SubcategoriesForCAP-img]][tests-SubcategoriesForCAP-url] | [![Code Coverage][codecov-SubcategoriesForCAP-img]][codecov-SubcategoriesForCAP-url] | dev |
+| [ToolsForCategoricalTowers](https://homalg-project.github.io/pkg/ToolsForCategoricalTowers) | Tools for CategoricalTowers | [![HTML stable documentation][html-ToolsForCategoricalTowers-img]][html-ToolsForCategoricalTowers-url] [![PDF stable documentation][pdf-ToolsForCategoricalTowers-img]][pdf-ToolsForCategoricalTowers-url] | [![Build Status][tests-ToolsForCategoricalTowers-img]][tests-ToolsForCategoricalTowers-url] | [![Code Coverage][codecov-ToolsForCategoricalTowers-img]][codecov-ToolsForCategoricalTowers-url] | dev |
 | [Toposes](https://homalg-project.github.io/pkg/Toposes) | Elementary toposes | [![HTML stable documentation][html-Toposes-img]][html-Toposes-url] [![PDF stable documentation][pdf-Toposes-img]][pdf-Toposes-url] | [![Build Status][tests-Toposes-img]][tests-Toposes-url] | [![Code Coverage][codecov-Toposes-img]][codecov-Toposes-url] | dev |
 | [ToricSheaves](https://homalg-project.github.io/pkg/ToricSheaves) | Toric sheaves as Serre quotients | [![HTML stable documentation][html-ToricSheaves-img]][html-ToricSheaves-url] [![PDF stable documentation][pdf-ToricSheaves-img]][pdf-ToricSheaves-url] | [![Build Status][tests-ToricSheaves-img]][tests-ToricSheaves-url] | [![Code Coverage][codecov-ToricSheaves-img]][codecov-ToricSheaves-url] | dev |
 | [TriangulatedCategories](https://homalg-project.github.io/pkg/TriangulatedCategories) | Framework for triangulated categories | [![HTML stable documentation][html-TriangulatedCategories-img]][html-TriangulatedCategories-url] [![PDF stable documentation][pdf-TriangulatedCategories-img]][pdf-TriangulatedCategories-url] | [![Build Status][tests-TriangulatedCategories-img]][tests-TriangulatedCategories-url] | [![Code Coverage][codecov-TriangulatedCategories-img]][codecov-TriangulatedCategories-url] | dev |
@@ -183,18 +183,6 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-CartesianCategories-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=CartesianCategories
 [codecov-CartesianCategories-url]: https://app.codecov.io/gh/homalg-project/CAP_project/tree/master/CartesianCategories
-
-[html-ToolsForCategoricalTowers-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-ToolsForCategoricalTowers-url]: https://homalg-project.github.io/CategoricalTowers/ToolsForCategoricalTowers/doc/chap0_mj.html
-
-[pdf-ToolsForCategoricalTowers-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-ToolsForCategoricalTowers-url]: https://homalg-project.github.io/CategoricalTowers/ToolsForCategoricalTowers/download_pdf.html
-
-[tests-ToolsForCategoricalTowers-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-ToolsForCategoricalTowers-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
-
-[codecov-ToolsForCategoricalTowers-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=ToolsForCategoricalTowers
-[codecov-ToolsForCategoricalTowers-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/ToolsForCategoricalTowers
 
 [html-CategoriesWithAmbientObjects-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-CategoriesWithAmbientObjects-url]: https://homalg-project.github.io/CategoricalTowers/CategoriesWithAmbientObjects/doc/chap0_mj.html
@@ -611,6 +599,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-SubcategoriesForCAP-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=SubcategoriesForCAP
 [codecov-SubcategoriesForCAP-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/SubcategoriesForCAP
+
+[html-ToolsForCategoricalTowers-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-ToolsForCategoricalTowers-url]: https://homalg-project.github.io/CategoricalTowers/ToolsForCategoricalTowers/doc/chap0_mj.html
+
+[pdf-ToolsForCategoricalTowers-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-ToolsForCategoricalTowers-url]: https://homalg-project.github.io/CategoricalTowers/ToolsForCategoricalTowers/download_pdf.html
+
+[tests-ToolsForCategoricalTowers-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-ToolsForCategoricalTowers-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
+
+[codecov-ToolsForCategoricalTowers-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=ToolsForCategoricalTowers
+[codecov-ToolsForCategoricalTowers-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/ToolsForCategoricalTowers
 
 [html-Toposes-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-Toposes-url]: https://homalg-project.github.io/CategoricalTowers/Toposes/doc/chap0_mj.html
