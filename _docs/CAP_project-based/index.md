@@ -66,6 +66,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [FinSetsForCAP](https://homalg-project.github.io/pkg/FinSetsForCAP) | The elementary topos of (skeletal) finite sets | [![HTML stable documentation][html-FinSetsForCAP-img]][html-FinSetsForCAP-url] [![PDF stable documentation][pdf-FinSetsForCAP-img]][pdf-FinSetsForCAP-url] | [![Build Status][tests-FinSetsForCAP-img]][tests-FinSetsForCAP-url] | [![Code Coverage][codecov-FinSetsForCAP-img]][codecov-FinSetsForCAP-url] | dev |
 | [FinGSetsForCAP](https://homalg-project.github.io/pkg/FinGSetsForCAP) | The elementary topos of (skeletal) finite G-sets | [![HTML stable documentation][html-FinGSetsForCAP-img]][html-FinGSetsForCAP-url] [![PDF stable documentation][pdf-FinGSetsForCAP-img]][pdf-FinGSetsForCAP-url] | [![Build Status][tests-FinGSetsForCAP-img]][tests-FinGSetsForCAP-url] | [![Code Coverage][codecov-FinGSetsForCAP-img]][codecov-FinGSetsForCAP-url] | dev |
 | [FiniteCocompletions](https://homalg-project.github.io/pkg/FiniteCocompletions) | Finite (co)product/(co)limit (co)completions | [![HTML stable documentation][html-FiniteCocompletions-img]][html-FiniteCocompletions-url] [![PDF stable documentation][pdf-FiniteCocompletions-img]][pdf-FiniteCocompletions-url] | [![Build Status][tests-FiniteCocompletions-img]][tests-FiniteCocompletions-url] | [![Code Coverage][codecov-FiniteCocompletions-img]][codecov-FiniteCocompletions-url] | dev |
+| [FpCategories](https://homalg-project.github.io/pkg/FpCategories) | Finitely presented categories by generating quivers and relations | [![HTML stable documentation][html-FpCategories-img]][html-FpCategories-url] [![PDF stable documentation][pdf-FpCategories-img]][pdf-FpCategories-url] | [![Build Status][tests-FpCategories-img]][tests-FpCategories-url] | [![Code Coverage][codecov-FpCategories-img]][codecov-FpCategories-url] | dev |
 | [FreydCategoriesForCAP](https://homalg-project.github.io/pkg/FreydCategoriesForCAP) | Freyd categories - Formal (co)kernels for additive categories | [![HTML stable documentation][html-FreydCategoriesForCAP-img]][html-FreydCategoriesForCAP-url] [![PDF stable documentation][pdf-FreydCategoriesForCAP-img]][pdf-FreydCategoriesForCAP-url] | [![Build Status][tests-FreydCategoriesForCAP-img]][tests-FreydCategoriesForCAP-url] | [![Code Coverage][codecov-FreydCategoriesForCAP-img]][codecov-FreydCategoriesForCAP-url] | dev |
 | [FunctorCategories](https://homalg-project.github.io/pkg/FunctorCategories) | Categories of functors | [![HTML stable documentation][html-FunctorCategories-img]][html-FunctorCategories-url] [![PDF stable documentation][pdf-FunctorCategories-img]][pdf-FunctorCategories-url] | [![Build Status][tests-FunctorCategories-img]][tests-FunctorCategories-url] | [![Code Coverage][codecov-FunctorCategories-img]][codecov-FunctorCategories-url] | dev |
 | [GeneralizedMorphismsForCAP](https://homalg-project.github.io/pkg/GeneralizedMorphismsForCAP) | Implementations of generalized morphisms for the CAP project | [![HTML stable documentation][html-GeneralizedMorphismsForCAP-img]][html-GeneralizedMorphismsForCAP-url] [![PDF stable documentation][pdf-GeneralizedMorphismsForCAP-img]][pdf-GeneralizedMorphismsForCAP-url] | [![Build Status][tests-GeneralizedMorphismsForCAP-img]][tests-GeneralizedMorphismsForCAP-url] | [![Code Coverage][codecov-GeneralizedMorphismsForCAP-img]][codecov-GeneralizedMorphismsForCAP-url] | [deposited][deposited-GeneralizedMorphismsForCAP-url] |
@@ -303,6 +304,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-FiniteCocompletions-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=FiniteCocompletions
 [codecov-FiniteCocompletions-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/FiniteCocompletions
+
+[html-FpCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-FpCategories-url]: https://homalg-project.github.io/CategoricalTowers/FpCategories/doc/chap0_mj.html
+
+[pdf-FpCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-FpCategories-url]: https://homalg-project.github.io/CategoricalTowers/FpCategories/download_pdf.html
+
+[tests-FpCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-FpCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
+
+[codecov-FpCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=FpCategories
+[codecov-FpCategories-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/FpCategories
 
 [html-FreydCategoriesForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-FreydCategoriesForCAP-url]: https://homalg-project.github.io/CAP_project/FreydCategoriesForCAP/doc/chap0_mj.html
