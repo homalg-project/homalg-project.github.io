@@ -12,37 +12,61 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 
 | [doctrine][doctrine] | package        |
 |:---------------------|:---------------|
+| `IsInitialCategory` | [CartesianCategories][CartesianCategories] |
+| `IsTerminalCategory` | [CAP][CAP] |
+| `IsEquippedWithHomomorphismStructure` | [CAP][CAP] |
+| `IsCategoryWithDecidableLifts` / `IsCategoryWithDecidableColifts` | [CAP][CAP] |
 | `IsEnrichedOverCommutativeRegularSemigroup` | [CAP][CAP] |
-| `IsAbCategory` | [CAP][CAP] |
 | `IsLinearCategoryOverCommutativeRing` | [CAP][CAP] |
+| `IsSkeletalCategory` | [CAP][CAP] |
+| `IsAbCategory` | [CAP][CAP] |
 | `IsAdditiveCategory` | [CAP][CAP] |
 | `IsPreAbelianCategory` | [CAP][CAP] |
 | `IsAbelianCategory` | [CAP][CAP] |
-| `IsAbelianCategoryWithEnoughProjectives` | [CAP][CAP] |
-| `IsAbelianCategoryWithEnoughInjectives` | [CAP][CAP] |
-| `IsEquippedWithHomomorphismStructure` | [CAP][CAP] |
+| `IsAbelianCategoryWithEnoughProjectives` / `IsAbelianCategoryWithEnoughInjectives` | [CAP][CAP] |
+| `IsLocallyOfFiniteProjectiveDimension` / `IsLocallyOfFiniteInjectiveDimension` | [CAP][CAP] |
+| `IsCartesianCategory` / `IsCocartesianCategory` | [CartesianCategories][CartesianCategories] |
+| `IsStrictCartesianCategory` / `IsStrictCocartesianCategory` | [CartesianCategories][CartesianCategories] |
+| `IsBicartesianCategory` | [CartesianCategories][CartesianCategories] |
+| `IsDistributiveCategory` / `IsCodistributiveCategory` | [CartesianCategories][CartesianCategories] |
+| `IsCartesianClosedCategory` / `IsCocartesianCoclosedCategory` | [CartesianCategories][CartesianCategories] |
+| `IsBicartesianClosedCategory` / `IsBicartesianCoclosedCategory` | [CartesianCategories][CartesianCategories] |
+| `IsFiniteCompleteCategory` / `IsFiniteCocompleteCategory` | [CartesianCategories][CartesianCategories] |
 | `IsMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsStrictMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsBraidedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsSymmetricMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsClosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsSymmetricClosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsRigidSymmetricClosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsRigidSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsTriangulatedCategory`<sup id="a1">[1](#f1)</sup> | [TriangulatedCategories][TriangulatedCategories] |
-| `IsCartesianCategory` | [Toposes][Toposes] |
-| `IsStrictCartesianCategory` | [Toposes][Toposes] |
-| `IsCartesianClosedCategory` | [Toposes][Toposes] |
-| `IsCocartesianCategory` | [Toposes][Toposes] |
-| `IsStrictCocartesianCategory` | [Toposes][Toposes] |
-| `IsCocartesianCoclosedCategory` | [Toposes][Toposes] |
-| `IsElementaryTopos` | [Toposes][Toposes] |
-| `IsCartesianClosedCategoryWithIsomorphicDoubleNegations` | [Locales][Locales] |
-| `IsCocartesianCoclosedCategoryWithIsomorphicDoubleConegations` | [Locales][Locales] |
+| `IsClosedMonoidalCategory` / `IsCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
+| `IsSymmetricClosedMonoidalCategory` / `IsSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
+| `IsRigidSymmetricClosedMonoidalCategory` / `IsRigidSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
+| `IsFinitelyPresentedCategory` | [Algebroids][Algebroids] |
+| `IsFinitelyPresentedLinearCategory` | [Algebroids][Algebroids] |
+| `IsLinearClosureOfACategory` | [Algebroids][Algebroids] |
 | `IsThinCategory` | [Locales][Locales] |
-| `IsStableProset` | [Locales][Locales] |
+| `IsDiscreteCategory` | [Locales][Locales] |
+| `IsMonoidalProset` | [Locales][Locales] |
+| `IsClosedMonoidalProset` / `IsCoclosedMonoidalProset` | [Locales][Locales] |
+| `IsCartesianProset` / `IsCocartesianProset` | [Locales][Locales] |
+| `IsBicartesianProset` | [Locales][Locales] |
+| `IsDistributiveBicartesianProset` | [Locales][Locales] |
+| `IsHeytingAlgebroid` / `IsCoHeytingAlgebroid` | [Locales][Locales] |
+| `IsBiHeytingAlgebroid` | [Locales][Locales] |
+| `IsBooleanAlgebroid` | [Locales][Locales] |
+| `IsPosetCategory` | [Locales][Locales] |
+| `IsMonoidalPoset` | [Locales][Locales] |
+| `IsClosedMonoidalPoset` / `IsCoclosedMonoidalPoset` | [Locales][Locales] |
+| `IsMeetSemiLattice` / `IsJoinSemiLattice` | [Locales][Locales] |
+| `IsLattice` / `IsLattice` | [Locales][Locales] |
+| `IsDistributiveLattice` / `IsDistributiveLattice` | [Locales][Locales] |
+| `IsMonoidalLattice` / `IsMonoidalLattice` | [Locales][Locales] |
+| `IsClosedMonoidalLattice` / `IsCoclosedMonoidalLattice` | [Locales][Locales] |
+| `IsHeytingAlgebra` / `IsCoHeytingAlgebra` | [Locales][Locales] |
+| `IsBiHeytingAlgebra` / `IsBiHeytingAlgebra` | [Locales][Locales] |
+| `IsTotalOrderCategory` / `IsTotalOrderCategory` | [Locales][Locales] |
+| `IsBooleanAlgebra` / `IsBooleanAlgebra` | [Locales][Locales] |
+| `IsStableProset` / `not supported yet` | [Locales][Locales] |
+| `IsElementaryTopos` / `not supported yet` | [Toposes][Toposes] |
+| `IsTriangulatedCategory`<sup id="a1">[1](#f1)</sup> | [TriangulatedCategories][TriangulatedCategories] |
 
 ---
 
@@ -56,10 +80,14 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 
 [MonoidalCategories]: https://homalg-project.github.io/pkg/MonoidalCategories
 
-[TriangulatedCategories]: https://homalg-project.github.io/pkg/TriangulatedCategories
+[CartesianCategories]: https://homalg-project.github.io/pkg/CartesianCategories
+
+[Algebroids]: https://homalg-project.github.io/pkg/Algebroids
+
+[Locales]: https://homalg-project.github.io/pkg/Locales
 
 [Toposes]: https://homalg-project.github.io/pkg/Toposes
 
-[Locales]: https://homalg-project.github.io/pkg/Locales
+[TriangulatedCategories]: https://homalg-project.github.io/pkg/TriangulatedCategories
 
 <!-- END FOOTER -->
