@@ -39,7 +39,7 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsClosedMonoidalCategory` / `IsCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsSymmetricClosedMonoidalCategory` / `IsSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsRigidSymmetricClosedMonoidalCategory` / `IsRigidSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsFinitelyPresentedCategory` | [Algebroids][Algebroids] |
+| `IsFinitelyPresentedCategory` | [FpCategories][FpCategories] |
 | `IsFinitelyPresentedLinearCategory` | [Algebroids][Algebroids] |
 | `IsLinearClosureOfACategory` | [Algebroids][Algebroids] |
 | `IsThinCategory` | [Locales][Locales] |
@@ -81,6 +81,8 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 [MonoidalCategories]: https://homalg-project.github.io/pkg/MonoidalCategories
 
 [CartesianCategories]: https://homalg-project.github.io/pkg/CartesianCategories
+
+[FpCategories]: https://homalg-project.github.io/pkg/FpCategories
 
 [Algebroids]: https://homalg-project.github.io/pkg/Algebroids
 
