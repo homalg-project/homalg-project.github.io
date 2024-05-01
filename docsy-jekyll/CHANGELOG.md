@@ -14,6 +14,15 @@ Critical items to know are:
  - changed behaviour
 
 ## [master](https://github.com/vsoch/docsy-jekyll/tree/master)
+ - bug that site tags and docs tags concating together without a comma (0.0.27)
+ - added Windows hash for assets (0.0.26)
+ - adding support for documentation versioning (0.0.25)
+ - adding more verbose example for subfolders (0.0.24)
+ - sidebar fix to support multiple top level menus (0.0.23)
+ - added support for github_branch (default 'master') in config (0.0.22)
+ - adding support in footer to icon and link to linkedin url (0.0.21)
+ - updating repository with copyright notice, google analytics bug fix (0.0.2)
+ - fixing link to repository in about.md (0.0.19)
  - use jquery locally, in case that jquery is unreachable in some places (0.0.18)
  - hiding sidebar links to reflect parent functionality (0.0.17)
  - adding breadcrumb link to documentation root (0.0.16)
