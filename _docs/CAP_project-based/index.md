@@ -83,7 +83,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [LazyCategories](https://homalg-project.github.io/pkg/LazyCategories) | Construct an equivalent lazy category out of a CAP category | [![HTML stable documentation][html-LazyCategories-img]][html-LazyCategories-url] [![PDF stable documentation][pdf-LazyCategories-img]][pdf-LazyCategories-url] | [![Build Status][tests-LazyCategories-img]][tests-LazyCategories-url] | [![Code Coverage][codecov-LazyCategories-img]][codecov-LazyCategories-url] | dev |
 | [LinearAlgebraForCAP](https://homalg-project.github.io/pkg/LinearAlgebraForCAP) | Category of Matrices over a Field for CAP | [![HTML stable documentation][html-LinearAlgebraForCAP-img]][html-LinearAlgebraForCAP-url] [![PDF stable documentation][pdf-LinearAlgebraForCAP-img]][pdf-LinearAlgebraForCAP-url] | [![Build Status][tests-LinearAlgebraForCAP-img]][tests-LinearAlgebraForCAP-url] | [![Code Coverage][codecov-LinearAlgebraForCAP-img]][codecov-LinearAlgebraForCAP-url] | [deposited][deposited-LinearAlgebraForCAP-url] |
 | [Locales](https://homalg-project.github.io/pkg/Locales) | Locales, frames, coframes, meet semi-lattices of locally closed subsets, and Boolean algebras of constructible sets | [![HTML stable documentation][html-Locales-img]][html-Locales-url] [![PDF stable documentation][pdf-Locales-img]][pdf-Locales-url] | [![Build Status][tests-Locales-img]][tests-Locales-url] | [![Code Coverage][codecov-Locales-img]][codecov-Locales-url] | dev |
-| [MachineLearningForCAP](https://homalg-project.github.io/pkg/MachineLearningForCAP) | Exploring categorical machine learning in CAP | N/A | N/A | N/A | dev |
+| [MachineLearningForCAP](https://homalg-project.github.io/pkg/MachineLearningForCAP) | Exploring categorical machine learning in CAP | [![HTML stable documentation][html-MachineLearningForCAP-img]][html-MachineLearningForCAP-url] [![PDF stable documentation][pdf-MachineLearningForCAP-img]][pdf-MachineLearningForCAP-url] | [![Build Status][tests-MachineLearningForCAP-img]][tests-MachineLearningForCAP-url] | [![Code Coverage][codecov-MachineLearningForCAP-img]][codecov-MachineLearningForCAP-url] | dev |
 | [ModulePresentationsForCAP](https://homalg-project.github.io/pkg/ModulePresentationsForCAP) | Category R-pres for CAP | [![HTML stable documentation][html-ModulePresentationsForCAP-img]][html-ModulePresentationsForCAP-url] [![PDF stable documentation][pdf-ModulePresentationsForCAP-img]][pdf-ModulePresentationsForCAP-url] | [![Build Status][tests-ModulePresentationsForCAP-img]][tests-ModulePresentationsForCAP-url] | [![Code Coverage][codecov-ModulePresentationsForCAP-img]][codecov-ModulePresentationsForCAP-url] | [deposited][deposited-ModulePresentationsForCAP-url] |
 | [ModulesOverLocalRingsForCAP](https://homalg-project.github.io/pkg/ModulesOverLocalRingsForCAP) | Category of modules over a local ring modeled by Serre quotients for CAP | [![HTML stable documentation][html-ModulesOverLocalRingsForCAP-img]][html-ModulesOverLocalRingsForCAP-url] [![PDF stable documentation][pdf-ModulesOverLocalRingsForCAP-img]][pdf-ModulesOverLocalRingsForCAP-url] | [![Build Status][tests-ModulesOverLocalRingsForCAP-img]][tests-ModulesOverLocalRingsForCAP-url] | [![Code Coverage][codecov-ModulesOverLocalRingsForCAP-img]][codecov-ModulesOverLocalRingsForCAP-url] | dev |
 | [MonoidalCategories](https://homalg-project.github.io/pkg/MonoidalCategories) | Monoidal and monoidal (co)closed categories | [![HTML stable documentation][html-MonoidalCategories-img]][html-MonoidalCategories-url] [![PDF stable documentation][pdf-MonoidalCategories-img]][pdf-MonoidalCategories-url] | [![Build Status][tests-MonoidalCategories-img]][tests-MonoidalCategories-url] | [![Code Coverage][codecov-MonoidalCategories-img]][codecov-MonoidalCategories-url] | [deposited][deposited-MonoidalCategories-url] |
@@ -512,6 +512,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-Locales-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=Locales
 [codecov-Locales-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/Locales
+
+[html-MachineLearningForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-MachineLearningForCAP-url]: https://homalg-project.github.io/MachineLearningForCAP/doc/chap0_mj.html
+
+[pdf-MachineLearningForCAP-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-MachineLearningForCAP-url]: https://homalg-project.github.io/MachineLearningForCAP/download_pdf.html
+
+[tests-MachineLearningForCAP-img]: https://github.com/homalg-project/MachineLearningForCAP/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-MachineLearningForCAP-url]: https://github.com/homalg-project/MachineLearningForCAP/actions/workflows/Tests.yml?query=branch%3Amaster
+
+[codecov-MachineLearningForCAP-img]: https://codecov.io/gh/homalg-project/MachineLearningForCAP/branch/master/graph/badge.svg
+[codecov-MachineLearningForCAP-url]: https://app.codecov.io/gh/homalg-project/MachineLearningForCAP
 
 [html-ModulePresentationsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ModulePresentationsForCAP-url]: https://homalg-project.github.io/CAP_project/ModulePresentationsForCAP/doc/chap0_mj.html
