@@ -63,7 +63,7 @@ brew install arangodb
 
 If Step 0 was successful we can assume that both Linux and Windows users have Ubuntu 18.04 "Bionic" or newer (or Debian 10 "Buster" or newer) installed.
 
-Open a terminal (in Linux or your Ubuntu installation on Windows) and follow the instructions [here](https://julialang.org/downloads/platform/#linux_and_freebsd).
+Open a terminal (in Linux or your Ubuntu installation on Windows) and follow the instructions [here](https://julialang.org/downloads/platform/#cross-platform_installer).
 
 ### macOS
 
