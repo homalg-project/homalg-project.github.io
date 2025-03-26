@@ -16,48 +16,35 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsAbCategory` | [CAP][CAP] |
 | `IsCategoryWithTerminalObject` / `IsCategoryWithInitialObject` | [CAP][CAP] |
 | `IsCartesianCategory` / `IsCocartesianCategory` | [CartesianCategories][CartesianCategories] |
-| `IsCategoryWithInitialObject` / `IsCategoryWithTerminalObject` | [CAP][CAP] |
-| `IsCocartesianCategory` / `IsCartesianCategory` | [CartesianCategories][CartesianCategories] |
 | `IsBicartesianCategory` | [CartesianCategories][CartesianCategories] |
 | `IsCategoryWithZeroObject` | [CAP][CAP] |
 | `IsAdditiveCategory` | [CAP][CAP] |
 | `IsCategoryWithCoequalizers` / `IsCategoryWithEqualizers` | [CAP][CAP] |
-| `IsCategoryWithEqualizers` / `IsCategoryWithCoequalizers` | [CAP][CAP] |
 | `IsFiniteCocompleteCategory` / `IsFiniteCompleteCategory` | [CartesianCategories][CartesianCategories] |
-| `IsFiniteCompleteCategory` / `IsFiniteCocompleteCategory` | [CartesianCategories][CartesianCategories] |
 | `IsFiniteBicompleteCategory` | [CartesianCategories][CartesianCategories] |
 | `IsPreAbelianCategory` | [CAP][CAP] |
 | `IsAbelianCategory` | [CAP][CAP] |
 | `IsAbelianCategoryWithEnoughInjectives` / `IsAbelianCategoryWithEnoughProjectives` | [CAP][CAP] |
-| `IsAbelianCategoryWithEnoughProjectives` / `IsAbelianCategoryWithEnoughInjectives` | [CAP][CAP] |
 | `IsCartesianClosedCategory` / `IsCocartesianCoclosedCategory` | [CartesianCategories][CartesianCategories] |
 | `IsDistributiveCategory` / `IsCodistributiveCategory` | [CartesianCategories][CartesianCategories] |
 | `IsBicartesianClosedCategory` / `IsBicartesianCoclosedCategory` | [CartesianCategories][CartesianCategories] |
-| `IsCocartesianCoclosedCategory` / `IsCartesianClosedCategory` | [CartesianCategories][CartesianCategories] |
-| `IsCodistributiveCategory` / `IsDistributiveCategory` | [CartesianCategories][CartesianCategories] |
-| `IsBicartesianCoclosedCategory` / `IsBicartesianClosedCategory` | [CartesianCategories][CartesianCategories] |
 | `IsThinCategory` | [Locales][Locales] |
 | `IsCartesianProset` / `IsCocartesianProset` | [Locales][Locales] |
-| `IsCocartesianProset` / `IsCartesianProset` | [Locales][Locales] |
 | `IsBicartesianProset` | [Locales][Locales] |
 | `IsDistributiveBicartesianProset` | [Locales][Locales] |
 | `IsCoHeytingAlgebroid` / `IsHeytingAlgebroid` | [Locales][Locales] |
-| `IsHeytingAlgebroid` / `IsCoHeytingAlgebroid` | [Locales][Locales] |
 | `IsBiHeytingAlgebroid` | [Locales][Locales] |
 | `IsPosetCategory` | [Locales][Locales] |
 | `IsJoinSemiLattice` / `IsMeetSemiLattice` | [Locales][Locales] |
-| `IsMeetSemiLattice` / `IsJoinSemiLattice` | [Locales][Locales] |
 | `IsLattice` | [Locales][Locales] |
 | `IsDistributiveLattice` | [Locales][Locales] |
 | `IsCoHeytingAlgebra` / `IsHeytingAlgebra` | [Locales][Locales] |
-| `IsHeytingAlgebra` / `IsCoHeytingAlgebra` | [Locales][Locales] |
 | `IsBiHeytingAlgebra` | [Locales][Locales] |
 | `IsBooleanAlgebroid` | [Locales][Locales] |
 | `IsBooleanAlgebra` | [Locales][Locales] |
 | `IsMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsSymmetricMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsCategoryWithDecidableColifts` / `IsCategoryWithDecidableLifts` | [CAP][CAP] |
-| `IsCategoryWithDecidableLifts` / `IsCategoryWithDecidableColifts` | [CAP][CAP] |
 | `IsClosedMonoidalCategory` / `IsCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsMonoidalProset` | [Locales][Locales] |
 | `IsClosedMonoidalProset` / `IsCoclosedMonoidalProset` | [Locales][Locales] |
@@ -65,32 +52,22 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsClosedMonoidalPoset` / `IsCoclosedMonoidalPoset` | [Locales][Locales] |
 | `IsMonoidalLattice` | [Locales][Locales] |
 | `IsClosedMonoidalLattice` / `IsCoclosedMonoidalLattice` | [Locales][Locales] |
-| `IsCoclosedMonoidalCategory` / `IsClosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsCoclosedMonoidalProset` / `IsClosedMonoidalProset` | [Locales][Locales] |
-| `IsCoclosedMonoidalPoset` / `IsClosedMonoidalPoset` | [Locales][Locales] |
-| `IsCoclosedMonoidalLattice` / `IsClosedMonoidalLattice` | [Locales][Locales] |
-| `IsElementaryTopos` / `fail` | [Toposes][Toposes] |
+| `IsElementaryTopos` / not supported yet | [Toposes][Toposes] |
 | `IsEquippedWithHomomorphismStructure` | [CAP][CAP] |
 | `IsObjectFiniteCategory` | [ToolsForCategoricalTowers][ToolsForCategoricalTowers] |
 | `IsFinitelyPresentedCategory` | [FpCategories][FpCategories] |
 | `IsFiniteCategory` | [ToolsForCategoricalTowers][ToolsForCategoricalTowers] |
 | `IsLeftClosedMonoidalCategory` / `IsLeftCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsLeftCoclosedMonoidalCategory` / `IsLeftClosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsLinearCategoryOverCommutativeRing` | [CAP][CAP] |
 | `IsLinearCategoryOverCommutativeRingWithFinitelyGeneratedFreeExternalHoms` | [CAP][CAP] |
 | `IsSymmetricClosedMonoidalCategory` / `IsSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsRigidSymmetricClosedMonoidalCategory` / `IsRigidSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsSymmetricCoclosedMonoidalCategory` / `IsSymmetricClosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
-| `IsRigidSymmetricCoclosedMonoidalCategory` / `IsRigidSymmetricClosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsSymmetricMonoidalProset` | [Locales][Locales] |
 | `IsSymmetricClosedMonoidalProset` / `IsSymmetricCoclosedMonoidalProset` | [Locales][Locales] |
 | `IsSymmetricMonoidalPoset` | [Locales][Locales] |
 | `IsSymmetricClosedMonoidalPoset` / `IsSymmetricCoclosedMonoidalPoset` | [Locales][Locales] |
 | `IsSymmetricMonoidalLattice` | [Locales][Locales] |
 | `IsSymmetricClosedMonoidalLattice` / `IsSymmetricCoclosedMonoidalLattice` | [Locales][Locales] |
-| `IsSymmetricCoclosedMonoidalProset` / `IsSymmetricClosedMonoidalProset` | [Locales][Locales] |
-| `IsSymmetricCoclosedMonoidalPoset` / `IsSymmetricClosedMonoidalPoset` | [Locales][Locales] |
-| `IsSymmetricCoclosedMonoidalLattice` / `IsSymmetricClosedMonoidalLattice` | [Locales][Locales] |
 | `IsTriangulatedCategory`<sup id="a1">[1](#f1)</sup> | [TriangulatedCategories][TriangulatedCategories] |
 
 ---
