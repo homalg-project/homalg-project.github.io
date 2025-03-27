@@ -7,7 +7,7 @@ description: Categorical doctrines
 
 # Categorical doctrines
 
-[CAP][CAP] defines *and* allows defining (hierarchies of) categorical [doctrines][doctrine], some of which are well-known, others are less known, or even new.
+[CAP][CAP] defines *and* allows defining [hierarchies](https://homalg-project.github.io/nb/DigraphOfKnownDoctrines/) of categorical [doctrines][doctrine], some of which are well-known, others are less known, or even new.
 There are several [CAP][CAP]-based packages that define various *categorical doctrines*:
 
 | [doctrine][doctrine] (either selfdual `doctrine` or `doctrine`  / `dual doctrine` ) | package        |
