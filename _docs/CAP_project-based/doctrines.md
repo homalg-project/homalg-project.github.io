@@ -20,6 +20,7 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsCategoryWithZeroObject` | [CAP][CAP] |
 | `IsAdditiveCategory` | [CAP][CAP] |
 | `IsCategoryWithCoequalizers` / `IsCategoryWithEqualizers` | [CAP][CAP] |
+| `IsCategoryWithCokernels` / `IsCategoryWithKernels` | [CAP][CAP] |
 | `IsFiniteCocompleteCategory` / `IsFiniteCompleteCategory` | [CartesianCategories][CartesianCategories] |
 | `IsFiniteBicompleteCategory` | [CartesianCategories][CartesianCategories] |
 | `IsPreAbelianCategory` | [CAP][CAP] |
