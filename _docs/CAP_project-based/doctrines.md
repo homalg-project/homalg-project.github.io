@@ -55,9 +55,9 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsClosedMonoidalLattice` / `IsCoclosedMonoidalLattice` | [Locales][Locales] |
 | `IsElementaryTopos` / not supported yet | [Toposes][Toposes] |
 | `IsEquippedWithHomomorphismStructure` | [CAP][CAP] |
-| `IsObjectFiniteCategory` | [ToolsForCategoricalTowers][ToolsForCategoricalTowers] |
+| `IsObjectFiniteCategory` | [CAP][CAP] |
 | `IsFinitelyPresentedCategory` | [FpCategories][FpCategories] |
-| `IsFiniteCategory` | [ToolsForCategoricalTowers][ToolsForCategoricalTowers] |
+| `IsFiniteCategory` | [CAP][CAP] |
 | `IsLeftClosedMonoidalCategory` / `IsLeftCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsLinearCategoryOverCommutativeRing` | [CAP][CAP] |
 | `IsLinearCategoryOverCommutativeRingWithFinitelyGeneratedFreeExternalHoms` | [CAP][CAP] |
