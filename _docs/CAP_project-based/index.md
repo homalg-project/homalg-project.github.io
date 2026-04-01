@@ -9,6 +9,8 @@ description: CAP-based packages
 
 # CAP-based packages
 
+The [CAP project](https://homalg-project.github.io/prj/CAP_project) is a computer algebra software project for **Algorithmic Category Theory**.
+
 ## Categorical doctrines
 
 [CAP][CAP] defines *and* allows defining (hierarchies of) categorical [doctrines][doctrine].
