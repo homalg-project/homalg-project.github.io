@@ -4,7 +4,7 @@ title: The GitHub organization homalg-project
 permalink: /
 ---
 
-# The GitHub organization homalg-project
+# Algorithmic Category Theory
 
 The GitHub organization
 [homalg-project](https://github.com/homalg-project/) hosts several
