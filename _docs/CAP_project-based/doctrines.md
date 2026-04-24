@@ -26,6 +26,8 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsPreAbelianCategory` | [CAP][CAP] |
 | `IsAbelianCategory` | [CAP][CAP] |
 | `IsAbelianCategoryWithEnoughInjectives` / `IsAbelianCategoryWithEnoughProjectives` | [CAP][CAP] |
+| `IsMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
+| `IsAdditiveMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsCartesianClosedCategory` / `IsCocartesianCoclosedCategory` | [CartesianCategories][CartesianCategories] |
 | `IsDistributiveCategory` / `IsCodistributiveCategory` | [CartesianCategories][CartesianCategories] |
 | `IsBicartesianClosedCategory` / `IsBicartesianCoclosedCategory` | [CartesianCategories][CartesianCategories] |
@@ -43,7 +45,6 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsBiHeytingAlgebra` | [Locales][Locales] |
 | `IsBooleanAlgebroid` | [Locales][Locales] |
 | `IsBooleanAlgebra` | [Locales][Locales] |
-| `IsMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsSymmetricMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsCategoryWithDecidableColifts` / `IsCategoryWithDecidableLifts` | [CAP][CAP] |
 | `IsClosedMonoidalCategory` / `IsCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
@@ -56,10 +57,12 @@ There are several [CAP][CAP]-based packages that define various *categorical doc
 | `IsElementaryTopos` / not supported yet | [Toposes][Toposes] |
 | `IsEquippedWithHomomorphismStructure` | [CAP][CAP] |
 | `IsObjectFiniteCategory` | [CAP][CAP] |
-| `IsFinitelyPresentedCategory` | [FpCategories][FpCategories] |
+| `IsFinitelyPresentedCategory` | [CAP][CAP] |
 | `IsFiniteCategory` | [CAP][CAP] |
 | `IsLeftClosedMonoidalCategory` / `IsLeftCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
+| `IsLinearCategoryOverCommutativeSemiring` | [CAP][CAP] |
 | `IsLinearCategoryOverCommutativeRing` | [CAP][CAP] |
+| `IsLinearCategoryOverCommutativeSemiringWithFinitelyGeneratedFreeExternalHoms` | [CAP][CAP] |
 | `IsLinearCategoryOverCommutativeRingWithFinitelyGeneratedFreeExternalHoms` | [CAP][CAP] |
 | `IsSymmetricClosedMonoidalCategory` / `IsSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
 | `IsRigidSymmetricClosedMonoidalCategory` / `IsRigidSymmetricCoclosedMonoidalCategory` | [MonoidalCategories][MonoidalCategories] |
