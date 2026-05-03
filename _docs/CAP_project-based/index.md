@@ -95,6 +95,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [PreSheaves](https://homalg-project.github.io/pkg/PreSheaves) | Categories of (co)presheaves | [![HTML stable documentation][html-PreSheaves-img]][html-PreSheaves-url] [![PDF stable documentation][pdf-PreSheaves-img]][pdf-PreSheaves-url] | [![Build Status][tests-PreSheaves-img]][tests-PreSheaves-url] | [![Code Coverage][codecov-PreSheaves-img]][codecov-PreSheaves-url] | dev |
 | [QPA2](https://homalg-project.github.io/pkg/QPA2) | Quivers and Path Algebras | N/A | N/A | N/A | dev |
 | [QuotientCategories](https://homalg-project.github.io/pkg/QuotientCategories) | Quotient categories | [![HTML stable documentation][html-QuotientCategories-img]][html-QuotientCategories-url] [![PDF stable documentation][pdf-QuotientCategories-img]][pdf-QuotientCategories-url] | [![Build Status][tests-QuotientCategories-img]][tests-QuotientCategories-url] | [![Code Coverage][codecov-QuotientCategories-img]][codecov-QuotientCategories-url] | dev |
+| [SliceCategories](https://homalg-project.github.io/pkg/SliceCategories) | Slice categories | [![HTML stable documentation][html-SliceCategories-img]][html-SliceCategories-url] [![PDF stable documentation][pdf-SliceCategories-img]][pdf-SliceCategories-url] | [![Build Status][tests-SliceCategories-img]][tests-SliceCategories-url] | [![Code Coverage][codecov-SliceCategories-img]][codecov-SliceCategories-url] | dev |
 | [StableCategories](https://homalg-project.github.io/pkg/StableCategories) | Stable categories of additive categories | [![HTML stable documentation][html-StableCategories-img]][html-StableCategories-url] [![PDF stable documentation][pdf-StableCategories-img]][pdf-StableCategories-url] | [![Build Status][tests-StableCategories-img]][tests-StableCategories-url] | [![Code Coverage][codecov-StableCategories-img]][codecov-StableCategories-url] | dev |
 | [SubcategoriesForCAP](https://homalg-project.github.io/pkg/SubcategoriesForCAP) | Subcategory and other related constructors for CAP categories | [![HTML stable documentation][html-SubcategoriesForCAP-img]][html-SubcategoriesForCAP-url] [![PDF stable documentation][pdf-SubcategoriesForCAP-img]][pdf-SubcategoriesForCAP-url] | [![Build Status][tests-SubcategoriesForCAP-img]][tests-SubcategoriesForCAP-url] | [![Code Coverage][codecov-SubcategoriesForCAP-img]][codecov-SubcategoriesForCAP-url] | dev |
 | [ToolsForCategoricalTowers](https://homalg-project.github.io/pkg/ToolsForCategoricalTowers) | Tools for CategoricalTowers | [![HTML stable documentation][html-ToolsForCategoricalTowers-img]][html-ToolsForCategoricalTowers-url] [![PDF stable documentation][pdf-ToolsForCategoricalTowers-img]][pdf-ToolsForCategoricalTowers-url] | [![Build Status][tests-ToolsForCategoricalTowers-img]][tests-ToolsForCategoricalTowers-url] | [![Code Coverage][codecov-ToolsForCategoricalTowers-img]][codecov-ToolsForCategoricalTowers-url] | dev |
@@ -617,6 +618,18 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [codecov-QuotientCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=QuotientCategories
 [codecov-QuotientCategories-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/QuotientCategories
+
+[html-SliceCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-SliceCategories-url]: https://homalg-project.github.io/CategoricalTowers/SliceCategories/doc/chap0_mj.html
+
+[pdf-SliceCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-SliceCategories-url]: https://homalg-project.github.io/CategoricalTowers/SliceCategories/download_pdf.html
+
+[tests-SliceCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-SliceCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
+
+[codecov-SliceCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=SliceCategories
+[codecov-SliceCategories-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/SliceCategories
 
 [html-StableCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-StableCategories-url]: https://homalg-project.github.io/HigherHomologicalAlgebra/StableCategories/doc/chap0_mj.html
