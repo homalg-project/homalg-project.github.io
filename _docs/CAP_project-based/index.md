@@ -92,7 +92,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [ModulePresentationsForCAP](https://homalg-project.github.io/pkg/ModulePresentationsForCAP) | Category R-pres for CAP | [![HTML stable documentation][html-ModulePresentationsForCAP-img]][html-ModulePresentationsForCAP-url] [![PDF stable documentation][pdf-ModulePresentationsForCAP-img]][pdf-ModulePresentationsForCAP-url] | [![Build Status][tests-ModulePresentationsForCAP-img]][tests-ModulePresentationsForCAP-url] | [![Code Coverage][codecov-ModulePresentationsForCAP-img]][codecov-ModulePresentationsForCAP-url] | [deposited][deposited-ModulePresentationsForCAP-url] |
 | [ModulesOverLocalRingsForCAP](https://homalg-project.github.io/pkg/ModulesOverLocalRingsForCAP) | Category of modules over a local ring modeled by Serre quotients for CAP | [![HTML stable documentation][html-ModulesOverLocalRingsForCAP-img]][html-ModulesOverLocalRingsForCAP-url] [![PDF stable documentation][pdf-ModulesOverLocalRingsForCAP-img]][pdf-ModulesOverLocalRingsForCAP-url] | [![Build Status][tests-ModulesOverLocalRingsForCAP-img]][tests-ModulesOverLocalRingsForCAP-url] | [![Code Coverage][codecov-ModulesOverLocalRingsForCAP-img]][codecov-ModulesOverLocalRingsForCAP-url] | dev |
 | [MonoidalCategories](https://homalg-project.github.io/pkg/MonoidalCategories) | Monoidal and monoidal (co)closed categories | [![HTML stable documentation][html-MonoidalCategories-img]][html-MonoidalCategories-url] [![PDF stable documentation][pdf-MonoidalCategories-img]][pdf-MonoidalCategories-url] | [![Build Status][tests-MonoidalCategories-img]][tests-MonoidalCategories-url] | [![Code Coverage][codecov-MonoidalCategories-img]][codecov-MonoidalCategories-url] | [deposited][deposited-MonoidalCategories-url] |
-| [PreSheaves](https://homalg-project.github.io/pkg/PreSheaves) | Categories of (co)presheaves | [![HTML stable documentation][html-PreSheaves-img]][html-PreSheaves-url] [![PDF stable documentation][pdf-PreSheaves-img]][pdf-PreSheaves-url] | [![Build Status][tests-PreSheaves-img]][tests-PreSheaves-url] | [![Code Coverage][codecov-PreSheaves-img]][codecov-PreSheaves-url] | dev |
+| [PresheafCategories](https://homalg-project.github.io/pkg/PresheafCategories) | Categories of (co)presheaves | [![HTML stable documentation][html-PresheafCategories-img]][html-PresheafCategories-url] [![PDF stable documentation][pdf-PresheafCategories-img]][pdf-PresheafCategories-url] | [![Build Status][tests-PresheafCategories-img]][tests-PresheafCategories-url] | [![Code Coverage][codecov-PresheafCategories-img]][codecov-PresheafCategories-url] | dev |
 | [QPA2](https://homalg-project.github.io/pkg/QPA2) | Quivers and Path Algebras | N/A | N/A | N/A | dev |
 | [QuotientCategories](https://homalg-project.github.io/pkg/QuotientCategories) | Quotient categories | [![HTML stable documentation][html-QuotientCategories-img]][html-QuotientCategories-url] [![PDF stable documentation][pdf-QuotientCategories-img]][pdf-QuotientCategories-url] | [![Build Status][tests-QuotientCategories-img]][tests-QuotientCategories-url] | [![Code Coverage][codecov-QuotientCategories-img]][codecov-QuotientCategories-url] | dev |
 | [SliceCategories](https://homalg-project.github.io/pkg/SliceCategories) | Slice categories | [![HTML stable documentation][html-SliceCategories-img]][html-SliceCategories-url] [![PDF stable documentation][pdf-SliceCategories-img]][pdf-SliceCategories-url] | [![Build Status][tests-SliceCategories-img]][tests-SliceCategories-url] | [![Code Coverage][codecov-SliceCategories-img]][codecov-SliceCategories-url] | dev |
@@ -607,17 +607,17 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 
 [deposited-MonoidalCategories-url]: https://www.gap-system.org/Packages/monoidalcategories.html
 
-[html-PreSheaves-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-PreSheaves-url]: https://homalg-project.github.io/CategoricalTowers/PreSheaves/doc/chap0_mj.html
+[html-PresheafCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-PresheafCategories-url]: https://homalg-project.github.io/CategoricalTowers/PresheafCategories/doc/chap0_mj.html
 
-[pdf-PreSheaves-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-PreSheaves-url]: https://homalg-project.github.io/CategoricalTowers/PreSheaves/download_pdf.html
+[pdf-PresheafCategories-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-PresheafCategories-url]: https://homalg-project.github.io/CategoricalTowers/PresheafCategories/download_pdf.html
 
-[tests-PreSheaves-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-PreSheaves-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-PresheafCategories-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-PresheafCategories-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-PreSheaves-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=PreSheaves
-[codecov-PreSheaves-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/PreSheaves
+[codecov-PresheafCategories-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=PresheafCategories
+[codecov-PresheafCategories-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/PresheafCategories
 
 [html-QuotientCategories-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-QuotientCategories-url]: https://homalg-project.github.io/CategoricalTowers/QuotientCategories/doc/chap0_mj.html
