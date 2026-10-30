@@ -88,7 +88,7 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 | [LazyCategories](https://homalg-project.github.io/pkg/LazyCategories) | Construct an equivalent lazy category out of a CAP category | [![HTML stable documentation][html-LazyCategories-img]][html-LazyCategories-url] [![PDF stable documentation][pdf-LazyCategories-img]][pdf-LazyCategories-url] | [![Build Status][tests-LazyCategories-img]][tests-LazyCategories-url] | [![Code Coverage][codecov-LazyCategories-img]][codecov-LazyCategories-url] | dev |
 | [LinearAlgebraForCAP](https://homalg-project.github.io/pkg/LinearAlgebraForCAP) | Category of Matrices over a Field for CAP | [![HTML stable documentation][html-LinearAlgebraForCAP-img]][html-LinearAlgebraForCAP-url] [![PDF stable documentation][pdf-LinearAlgebraForCAP-img]][pdf-LinearAlgebraForCAP-url] | [![Build Status][tests-LinearAlgebraForCAP-img]][tests-LinearAlgebraForCAP-url] | [![Code Coverage][codecov-LinearAlgebraForCAP-img]][codecov-LinearAlgebraForCAP-url] | [deposited][deposited-LinearAlgebraForCAP-url] |
 | [LinearClosuresForCAP](https://homalg-project.github.io/pkg/LinearClosuresForCAP) | Linear closures | [![HTML stable documentation][html-LinearClosuresForCAP-img]][html-LinearClosuresForCAP-url] [![PDF stable documentation][pdf-LinearClosuresForCAP-img]][pdf-LinearClosuresForCAP-url] | [![Build Status][tests-LinearClosuresForCAP-img]][tests-LinearClosuresForCAP-url] | [![Code Coverage][codecov-LinearClosuresForCAP-img]][codecov-LinearClosuresForCAP-url] | dev |
-| [Locales](https://homalg-project.github.io/pkg/Locales) | Locales, frames, coframes, meet semi-lattices of locally closed subsets, and Boolean algebras of constructible sets | [![HTML stable documentation][html-Locales-img]][html-Locales-url] [![PDF stable documentation][pdf-Locales-img]][pdf-Locales-url] | [![Build Status][tests-Locales-img]][tests-Locales-url] | [![Code Coverage][codecov-Locales-img]][codecov-Locales-url] | dev |
+| [LocalesForCAP](https://homalg-project.github.io/pkg/LocalesForCAP) | Locales, frames, coframes, meet semi-lattices of locally closed subsets, and Boolean algebras of constructible sets | [![HTML stable documentation][html-LocalesForCAP-img]][html-LocalesForCAP-url] [![PDF stable documentation][pdf-LocalesForCAP-img]][pdf-LocalesForCAP-url] | [![Build Status][tests-LocalesForCAP-img]][tests-LocalesForCAP-url] | [![Code Coverage][codecov-LocalesForCAP-img]][codecov-LocalesForCAP-url] | dev |
 | [ModulePresentationsForCAP](https://homalg-project.github.io/pkg/ModulePresentationsForCAP) | Category R-pres for CAP | [![HTML stable documentation][html-ModulePresentationsForCAP-img]][html-ModulePresentationsForCAP-url] [![PDF stable documentation][pdf-ModulePresentationsForCAP-img]][pdf-ModulePresentationsForCAP-url] | [![Build Status][tests-ModulePresentationsForCAP-img]][tests-ModulePresentationsForCAP-url] | [![Code Coverage][codecov-ModulePresentationsForCAP-img]][codecov-ModulePresentationsForCAP-url] | [deposited][deposited-ModulePresentationsForCAP-url] |
 | [ModulesOverLocalRingsForCAP](https://homalg-project.github.io/pkg/ModulesOverLocalRingsForCAP) | Category of modules over a local ring modeled by Serre quotients for CAP | [![HTML stable documentation][html-ModulesOverLocalRingsForCAP-img]][html-ModulesOverLocalRingsForCAP-url] [![PDF stable documentation][pdf-ModulesOverLocalRingsForCAP-img]][pdf-ModulesOverLocalRingsForCAP-url] | [![Build Status][tests-ModulesOverLocalRingsForCAP-img]][tests-ModulesOverLocalRingsForCAP-url] | [![Code Coverage][codecov-ModulesOverLocalRingsForCAP-img]][codecov-ModulesOverLocalRingsForCAP-url] | dev |
 | [MonoidalCategories](https://homalg-project.github.io/pkg/MonoidalCategories) | Monoidal and monoidal (co)closed categories | [![HTML stable documentation][html-MonoidalCategories-img]][html-MonoidalCategories-url] [![PDF stable documentation][pdf-MonoidalCategories-img]][pdf-MonoidalCategories-url] | [![Build Status][tests-MonoidalCategories-img]][tests-MonoidalCategories-url] | [![Code Coverage][codecov-MonoidalCategories-img]][codecov-MonoidalCategories-url] | [deposited][deposited-MonoidalCategories-url] |
@@ -555,17 +555,17 @@ The [CAP-based packages](#packages-part-of-or-based-on-cap_project) provide vari
 [codecov-LinearClosuresForCAP-img]: https://codecov.io/gh/homalg-project/CAP_project/branch/master/graph/badge.svg?flag=LinearClosuresForCAP
 [codecov-LinearClosuresForCAP-url]: https://app.codecov.io/gh/homalg-project/CAP_project/tree/master/LinearClosuresForCAP
 
-[html-Locales-img]: https://img.shields.io/badge/HTML-stable-blue.svg
-[html-Locales-url]: https://homalg-project.github.io/CategoricalTowers/Locales/doc/chap0_mj.html
+[html-LocalesForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
+[html-LocalesForCAP-url]: https://homalg-project.github.io/CategoricalTowers/LocalesForCAP/doc/chap0_mj.html
 
-[pdf-Locales-img]: https://img.shields.io/badge/PDF-stable-blue.svg
-[pdf-Locales-url]: https://homalg-project.github.io/CategoricalTowers/Locales/download_pdf.html
+[pdf-LocalesForCAP-img]: https://img.shields.io/badge/PDF-stable-blue.svg
+[pdf-LocalesForCAP-url]: https://homalg-project.github.io/CategoricalTowers/LocalesForCAP/download_pdf.html
 
-[tests-Locales-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
-[tests-Locales-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
+[tests-LocalesForCAP-img]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-LocalesForCAP-url]: https://github.com/homalg-project/CategoricalTowers/actions/workflows/Tests.yml?query=branch%3Amaster
 
-[codecov-Locales-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=Locales
-[codecov-Locales-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/Locales
+[codecov-LocalesForCAP-img]: https://codecov.io/gh/homalg-project/CategoricalTowers/branch/master/graph/badge.svg?flag=LocalesForCAP
+[codecov-LocalesForCAP-url]: https://app.codecov.io/gh/homalg-project/CategoricalTowers/tree/master/LocalesForCAP
 
 [html-ModulePresentationsForCAP-img]: https://img.shields.io/badge/HTML-stable-blue.svg
 [html-ModulePresentationsForCAP-url]: https://homalg-project.github.io/CAP_project/ModulePresentationsForCAP/doc/chap0_mj.html
